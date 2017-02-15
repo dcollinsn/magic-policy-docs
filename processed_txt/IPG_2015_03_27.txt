@@ -17,9 +17,7 @@ Contents General Philosophy Definition of Rules Enforcement Level (REL)
 Definition of Penalties Applying Penalties Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating
 Appendix A — Penalty Quick Reference 
 Appendix B — Rules Enforcement Levels of Premier Programs 
-Appendix C — Changes from Previous Versions 1.
-
-GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
+Appendix C — Changes from Previous Versions GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
 
 All players are treated equally according to the guidelines of an event’s Rules Enforcement Level (REL).
 
@@ -56,8 +54,6 @@ If a player commits an offense, realizes it, and calls a judge over immediately 
 Judges are human and make mistakes. When a judge makes a mistake, he or she should acknowledge the mistake,
 
 apologize to the players, and fix it if it is not too late. If the judge gives a player erroneous information that causes them to commit a violation, the Head Judge is authorized to downgrade the penalty. For example, a player asks a judge whether a card is legal for a format and is told yes. When that player’s deck is found to be illegal because of these cards, the Head Judge applies the normal procedure for fixing the decklist, but may downgrade the penalty to a Warning because of the direct error of the judge.
-
-1.1.
 
 DEFINITION OF RULES ENFORCEMENT LEVEL (REL)
 
@@ -132,8 +128,6 @@ Only the Head Judge may authorize a backup. At large tournaments, they may choos
 To perform a backup, each individual action since the point of the error is reversed, starting with the most recent ones and working backwards. Every action must be reversed; no parts of the sequence should be omitted or reordered. If the identity of a card involved in reversing an action is unknown to one of the players (usually because it was drawn), a random card is chosen from the possible candidates. A shuffle is reversed by shuffling again.
 
 Backups involving random/unknown elements should be approached with extreme caution, especially if they cause or threaten to cause a situation in which a player will end up with different cards than they would once they have correctly drawn those cards. For example, returning cards to the library when a player has the ability to shuffle their library is not something that should be done except in extreme situations.
-
-2.
 
 GAME PLAY ERRORS Game Play Errors are caused by incorrect or inaccurate play of the game such that it results in violations of the Magic Comprehensive Rules. Many offenses fit into this category and it would be impossible to list them all. The guide below is designed to give judges a framework for assessing how to handle a Game Play Error.
 
@@ -257,7 +251,7 @@ Examples:
 
 A player draws 4 cards after casting Ancestral Recall.
 
-B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
+A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
 
 A player draws for his turn, and then draws again for his turn a few moments later.
 
@@ -334,8 +328,6 @@ A player’s opponent forgets to reveal the card searched for by Worldly Tutor. 
 A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error. This penalty is not normally upgraded, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
-
-3.
 
 TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional, he or she should consider Unsporting Conduct — Cheating. (Previous versions of the MIPG made reference in each section about how to handle an intentional violation; with the exception of Slow Play, all intentional violations are now evaluated as potential Unsporting Conduct — Cheating.)
 
@@ -505,8 +497,6 @@ A player does not note one of the cards she was registering before the deck swap
 
 Philosophy Errors in Limited procedures are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft or the specific tournament rules for the format may specify additional penalties for Limited Procedure Violations.
 
-3.7.
-
 Tournament Error — Communication Policy Violation Penalty Warning Definition A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules. This infraction only applies to violations of that policy and not to general communication confusion.
 
 Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
@@ -545,8 +535,6 @@ Additional Remedy The player needs to replace the card(s) or sleeve(s) with an u
 
 The Head Judge has the option to upgrade this penalty to a Game Loss if he or she believes that a player noticing the pattern of markings would clearly compromise the integrity of the game.
 
-4.
-
 UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, enjoyment, or integrity of an event in a significantly negative fashion.
 
 Being enrolled in the tournament is not a requirement to receive an Unsporting Conduct penalty. Although these guidelines refer to players, other people in the venue, such as spectators, staff, or judges are held to the same standard of behavior.
@@ -583,7 +571,9 @@ Aggressive Behavior.
 
 It is possible for an offender to commit this infraction without intending malice or harm to the subject of the harassment.
 
-Examples A player uses a racial slur against his opponent.
+Examples:
+
+A player uses a racial slur against his opponent.
 
 A player takes inappropriate photos of another player without express permission.
 
@@ -624,8 +614,6 @@ Philosophy Using an outside-the-game method to determine a winner compromises th
 Matches that result in a draw due to time are expected to be reported as such and are not excluded from this penalty if the players use an illegal method to determine the outcome.
 
 In most cases this penalty will be issued to both players, unless the other player calls over a judge as soon as an inappropriate suggestion to determine the winner is made.
-
-4.4.
 
 Unsporting Conduct — Bribery and Wagering Penalty Disqualification Definition A player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match, or accepts such an offer. Refer to the Magic Tournament Rules for a more detailed description of what constitutes bribery.
 

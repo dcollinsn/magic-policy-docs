@@ -18,7 +18,7 @@ Deck Problem—Illegal Sideboard List Deck Problem—Illegal Sideboard (Legal Li
 
 Deck Problem—Illegal Sideboard (No List Used)
 
-PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent 120 CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw MARKED CARDS Marked Cards—Minor Marked Cards—Major SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Changes from previous versions Appendix B—Penalty Quick-Reference Guide Appendix C—Contact Information FORMAT OF INFRACTIONS Infractions are listed in the following manner:
+PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw MARKED CARDS Marked Cards—Minor Marked Cards—Major SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Changes from previous versions Appendix B—Penalty Quick-Reference Guide Appendix C—Contact Information FORMAT OF INFRACTIONS Infractions are listed in the following manner:
 
 • Infraction Type, Infraction Name—The category and designation of the infraction
 
@@ -194,7 +194,9 @@ Players are considered to have illegal sideboard lists when one of the following
 
 • The sideboard list contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
 
-Examples A player in a Constructed Magic tournament lists only fourteen cards in his sideboard.
+Examples:
+
+A player in a Constructed Magic tournament lists only fourteen cards in his sideboard.
 
 A player in a Constructed Magic tournament lists three Naturalizes in her sideboard, while having two Naturalizes listed in her main deck.
 
@@ -378,7 +380,9 @@ A player is not considered to have looked at extra cards when he or she places a
 
 This penalty should be applied only once to one or more cards if they are seen in the same action or sequence of actions.
 
-Examples A player accidentally flips over a card while shuffling her opponent's deck.
+Examples:
+
+A player accidentally flips over a card while shuffling her opponent's deck.
 
 A player flips over an extra card while drawing from his deck.
 
@@ -423,8 +427,6 @@ Philosophy This is generally a minor infraction and deserves a fairly minor pena
 Penalty Players must correct the situations by drawing however many cards they neglected to draw (unless a turn has passed).
 
 Card Drawing—Failure to Draw REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning MARKED CARDS This section deals with marked cards or sleeves. As always, the penalties for these infractions assume the infraction was unintentional. If the head judge believes the markings are intentional, he or she should refer to section 160, Cheating.
-
-131.
 
 Marked Cards—Minor Definition A player's cards are marked in a way that is disruptive but unlikely to give an advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
 
@@ -482,9 +484,7 @@ A player repeatedly and inappropriately demands to a judge that her opponent rec
 
 Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is the final authority on what constitutes unsporting conduct.
 
-Penalty Unsporting Conduct—Minor All Levels Warning 152.
-
-Unsporting Conduct—Major Definition Major unsporting conduct is defined as behavior that is disruptive to a player or players at the tournament, but does not cause delays or include any form of physical contact or significant emotional distress.
+Penalty Unsporting Conduct—Minor All Levels Warning Unsporting Conduct—Major Definition Major unsporting conduct is defined as behavior that is disruptive to a player or players at the tournament, but does not cause delays or include any form of physical contact or significant emotional distress.
 
 Examples:
 
@@ -506,9 +506,7 @@ A player argues in an excessive and belligerent manner with a judge after the ju
 
 Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is the final authority on what constitutes unsporting conduct.
 
-Penalty Unsporting Conduct—Severe All Levels Disqualification without prize 160.
-
-Cheating This section deals with intentionally committed infractions that can give a player a significant advantage over others.
+Penalty Unsporting Conduct—Severe All Levels Disqualification without prize Cheating This section deals with intentionally committed infractions that can give a player a significant advantage over others.
 
 Cheating—Bribery Definition A player attempts to bribe an opponent into conceding, drawing, or changing the results of a match, or two players attempt to determine the outcome of a game or match using a random method such as a coin flip or die roll. Refer to section 25 of the Universal Tournament Rules for a more detailed description of what constitutes bribery.
 

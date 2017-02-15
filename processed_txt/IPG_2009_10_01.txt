@@ -38,9 +38,7 @@ Infractions Deck Errors Deck Error — Illegal Decklist Deck Error — Deck/Deck
 Cheating — Fraud Cheating — Hidden Information Violation Cheating — Manipulation of Game Materials
 Appendix A — Penalty Quick Reference 
 Appendix B — Changes from Previous Versions 
-Appendix C – Rule Enforcement Levels of Premiere Programs 1.
-
-GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
+Appendix C – Rule Enforcement Levels of Premiere Programs GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
 
 or to prevent a situation from escalating. Judges do not stop play errors from occurring, but deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
 
@@ -268,13 +266,13 @@ Penalty Regular Caution Competitive Warning Professional Warning Once the judge 
 
 Deck Error — Lost Sideboard Definition If a player no longer has the full contents of his or her registered sideboard, the missing cards are considered to be lost.
 
-Examples A player loses two of his sideboard cards. The 13 remaining cards are registered on the decklist.
+Examples:
+
+A player loses two of his sideboard cards. The 13 remaining cards are registered on the decklist.
 
 Philosophy There is no advantage to playing with less than the required number of sideboard cards.
 
 Penalty All Levels Caution If the cards are discovered to be missing during a round, or are found during a round, they may not be used in that round. If the card cannot be found between rounds, note which ones were lost. The player may continue playing without these cards until he or she succeeds in finding them or exact copies. A player is not allowed to replace the cards with items that have a different name.
-
-3.
 
 GAME PLAY ERRORS Game play errors are caused by incorrect or inaccurate play of the game such that it results in violations of the game rules. Many offenses fit into this category and it would be impossible to list them all. The guide below is designed to give judges a framework for assessing how to handle a Game Play Error.
 
@@ -364,9 +362,7 @@ A player accidentally reveals (drops, flips over) a card while shuffling her opp
 
 A player flips over an extra card while drawing from his deck.
 
-A player sees the bottom card of her deck when presenting it to her opponent for cutting/shuffling D.
-
-A player activates a Sensei's Divining Top that is no longer in play, and sees 3 cards before the mistake is noticed.
+A player sees the bottom card of her deck when presenting it to her opponent for cutting/shuffling A player activates a Sensei's Divining Top that is no longer in play, and sees 3 cards before the mistake is noticed.
 
 Philosophy A player can accidentally look at extra cards easily. Drawing extra cards is a separate, more severe Game Play Error.
 
@@ -392,7 +388,7 @@ Examples:
 
 A player draws eight cards in her initial hand (instead of seven).
 
-B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
+A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
 A player who is playing first (as opposed to drawing first) incorrectly draws a card during her first draw step.
 
@@ -446,8 +442,6 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 Penalty Regular Caution Competitive Warning Professional Warning Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
 
-4.
-
 TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional,
 
 he or she should first examine the Cheating infractions to see if one should be used instead.
@@ -490,7 +484,9 @@ These criteria also apply to any deck construction portions of a limited tournam
 
 Notes made during a match may be referenced during that match or between matches. Notes made outside the current match may only be referenced between games, and must have been in the player’s possession since the beginning of the match.
 
-Examples During a game, a player references play notes that were created before the tournament.
+Examples:
+
+During a game, a player references play notes that were created before the tournament.
 
 A spectator points out the correct play to the player, who had not solicited the information.
 
@@ -523,8 +519,6 @@ Penalty All Levels Warning An extra turn is awarded for each player, to be appli
 No extra turns are awarded if the match is already in extra turns, though the Warning still applies.
 
 If Slow Play has significantly affected the result of the match, the Head Judge may upgrade the penalty.
-
-4.4.
 
 Tournament Error — Insufficient Randomization Definition A player unintentionally fails to sufficiently randomize his or her deck before presenting it to his or her opponent. A deck is not randomized if the judge believes a player could know the position or distribution of one or more cards in his or her deck. If the insufficient randomization was intentional, the infraction is Cheating — Manipulation of Game Materials.
 
@@ -580,7 +574,9 @@ Philosophy Clear communication is essential in the playing of any DCI-sanctioned
 
 Penalty Regular Caution Competitive Warning Professional Warning Tournament Error — Marked Cards - No Pattern Definition A player's cards are marked or oriented in a way that is unlikely to give an advantage to that player.
 
-Examples A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
+Examples:
+
+A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
 
 and a Lightning Helix.
 
@@ -607,8 +603,6 @@ Philosophy If the possibility for advantage is high, the player should receive a
 Penalty Regular Warning Competitive Game Professional Game The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy. If the player is unable to find replacement cards, he or she may replace those cards with basic lands for the remainder of the tournament. If he or she chooses to do so, the decklist should be changed and cannot be reverted, even if replacements are found.
 
 If a Game Loss is called for in the Swiss portion of an event that has single-game matches, a Match Point penalty is issued instead and the game continued.
-
-5.
 
 UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, or enjoyment of an event in a significantly negative fashion. An offense that doesn't seek in-game advantage is often unsporting behavior. If it could provide an in-game advantage the offense is handled by other infractions.
 
@@ -745,8 +739,6 @@ A player realizes she has a previous opponent’s card, but she hides it instead
 Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament organizer, though judges are encouraged to help in any way possible.
 
 Penalty All Levels Disqualification The offender should be asked to leave the venue by the organizer.
-
-6.
 
 CHEATING This section deals with some intentionally committed infractions that can often give a player a significant advantage.
 

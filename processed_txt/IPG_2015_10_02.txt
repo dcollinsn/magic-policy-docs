@@ -14,9 +14,7 @@ CONTENTS Introduction
 Framework of this Document 
 Contents General Philosophy Definition of Penalties Applying Penalties Randomizing a Deck Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating 
 Appendix A — Penalty Quick Reference 
-Appendix B — Changes from Previous Versions 1.
-
-GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game. Knowledge of a player’s history or skill does not alter an infraction, but it may be taken into account during an investigation.
+Appendix B — Changes from Previous Versions GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game. Knowledge of a player’s history or skill does not alter an infraction, but it may be taken into account during an investigation.
 
 The purpose of a penalty is to educate the player not to make similar mistakes in the future. This is done through both an explanation of where the rules or policies were violated and a penalty to reinforce the education. Penalties are also for the deterrence and education of every other player in the event and are also used to track player behavior over time.
 
@@ -90,8 +88,6 @@ Some remedies state a simple backup may be performed. A simple backup is backing
 
 (or one currently in progress) and is sometimes used to make another portion of the proscribed remedy smoother.
 
-2.
-
 GAME PLAY ERRORS Game Play Errors are caused by incorrect or inaccurate play of the game such that it results in violations of the Magic Comprehensive Rules. Many offenses fit into this category and it would be impossible to list them all. The guide below is designed to give judges a framework for assessing how to handle a Game Play Error.
 
 Most Game Play Error infractions are assumed to have been committed unintentionally. If the judge believes that the error was intentional, he or she should first consider whether an Unsporting Conduct — Cheating infraction has occurred.
@@ -138,7 +134,9 @@ For example, if the effect of a triggered ability instructs its controller to sa
 
 Judges do not intervene in a missed trigger situation unless they intend to issue a Warning or have reason to suspect that the controller is intentionally missing his or her triggered abilities.
 
-Examples Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
+Examples:
+
+Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
 
 A player forgets to remove the final time counter from a suspended spell and then draws a card during his draw step.
 
@@ -163,8 +161,6 @@ If the ability was missed prior to the current phase in the previous player's tu
 If the triggered ability isn’t covered by the previous two paragraphs, the opponent chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
 Upgrade: If the triggered ability is usually considered detrimental for the controlling player the penalty is a Warning. The current game state is not a factor in determining this, though symmetrical abilities (such as Howling Mine) may be considered usually detrimental or not depending on who is being affected.
-
-2.2.
 
 Game Play Error — Looking at Extra Cards Penalty Warning Definition A player looks at a card they were not entitled to see. Players are considered to have looked at a card when they have been able to observe the face of a hidden card, or when a card is moved any significant amount from a deck,
 
@@ -212,7 +208,7 @@ A player draws a card, forgetting that a Howling Mine is no longer on the battle
 
 A player is instructed to put the top card of his library into his hand if it is a creature card and does not reveal it before doing so.
 
-D. A player puts a creature with lethal damage marked on it into her hand instead of her graveyard.
+A player puts a creature with lethal damage marked on it into her hand instead of her graveyard.
 
 A player casts Dig Through Time and picks up the top eight cards of her library.
 
@@ -244,9 +240,7 @@ Philosophy This is generally a minor infraction and deserves a fairly minor pena
 
 Additional Remedy Remove a number of cards, chosen randomly, equal to the excess plus one from the player’s hand and shuffle them into his or her library. This is considered to be a mulligan; the player may take further mulligans if he or she desires.
 
-Penalty Warning 2.5.
-
-Game Play Error — Game Rule Violation Definition This infraction covers the majority of game situations in which a player makes an error or fails to follow a game procedure correctly. It handles violations of the Comprehensive Rules that are not covered by the other Game Play Errors.
+Penalty Warning Game Play Error — Game Rule Violation Definition This infraction covers the majority of game situations in which a player makes an error or fails to follow a game procedure correctly. It handles violations of the Comprehensive Rules that are not covered by the other Game Play Errors.
 
 Examples:
 
@@ -292,13 +286,13 @@ the penalty is a Game Loss. If the player has a card with a morph ability in han
 
 Game Play Error — Failure to Maintain Game State Penalty Warning Definition A player allows another player in the game to commit a Game Play Error and does not point it out immediately. If a judge believes a player is intentionally not pointing out other players’ illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, they should consider an Unsporting Conduct — Cheating infraction. Not reminding an opponent about his or her triggered abilities is never Failure to Maintain Game State nor Cheating.
 
-Examples A player’s opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
+Examples:
+
+A player’s opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
 
 A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error.
-
-3.
 
 TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional, he or she should consider Unsporting Conduct — Cheating. (Previous versions of the MIPG made reference in each section about how to handle an intentional violation; with the exception of Slow Play, all intentional violations are now evaluated as potential Unsporting Conduct — Cheating.)
 
@@ -378,7 +372,9 @@ No additional turns are awarded if the match is already in additional turns, tho
 
 Tournament Error — Insufficient Shuffling Definition Penalty Warning A player unintentionally fails to sufficiently shuffle his or her deck or portion of his or her deck before presenting it to his or her opponent or fails to present it to his or her opponent for further randomization. A deck is not shuffled if the judge believes a player could know the position or distribution of one or more cards in his or her deck.
 
-Examples A player forgets to shuffle his library after searching for a card.
+Examples:
+
+A player forgets to shuffle his library after searching for a card.
 
 A player searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
 
@@ -474,8 +470,6 @@ A player puts a card on top of his draft pile, then pulls it back.
 
 Philosophy Errors in Limited procedures are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft or the specific tournament rules for the format may specify additional penalties for Limited Procedure Violations.
 
-3.7.
-
 Tournament Error — Communication Policy Violation Penalty Warning Definition A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules. This infraction only applies to violations of that policy and not to general communication confusion.
 
 Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
@@ -512,9 +506,7 @@ Philosophy Sleeves and cards often become worn over the course of a tournament, 
 
 Additional Remedy The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy. If the player is unable to find replacement cards, he or she may replace those cards with basic lands; this change may be reverted at a later point if replacements for marked cards are found.
 
-Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to take advantage of this knowledge, the penalty is a Game Loss 4.
-
-UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, enjoyment, or integrity of an event in a significantly negative fashion.
+Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to take advantage of this knowledge, the penalty is a Game Loss UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, enjoyment, or integrity of an event in a significantly negative fashion.
 
 Being enrolled in the tournament is not a requirement to receive an Unsporting Conduct penalty. Although these guidelines refer to players, other people in the venue, such as spectators, staff, or judges are held to the same standard of behavior.
 
@@ -553,8 +545,6 @@ It is possible for an offender to commit this infraction without intending malic
 Examples:
 
 A player uses a racial slur against his opponent.
-
-B.
 
 A player takes inappropriate photos of another player without express permission.
 

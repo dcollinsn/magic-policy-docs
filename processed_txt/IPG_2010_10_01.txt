@@ -37,9 +37,7 @@ Contents General Philosophy Definition of Rules Enforcement Level (REL)
 Definition of Penalties Applying Penalties Game Play Errors Game Play Error — Missed Trigger Game Play Error — Failure to Reveal Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Failure to Follow Official Announcements Tournament Error — Draft Procedure Violation Tournament Error — Player Communication Violation Tournament Error — Marked Cards Tournament Error — Deck/Decklist Problem Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Cheating Cheating — Stalling Cheating — Fraud Cheating — Hidden Information Violation Cheating — Manipulation of Game Materials 
 Appendix A — Penalty Quick Reference 
 Appendix B — Changes from Previous Versions 
-Appendix C — Rules Enforcement Levels of Premiere Programs 1.
-
-GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
+Appendix C — Rules Enforcement Levels of Premiere Programs GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
 
 or to prevent a situation from escalating. Judges do not stop play errors from occurring, but deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
 
@@ -133,8 +131,6 @@ Separate infractions committed or discovered at the same time are treated as sep
 
 Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit, even intentionally, are not covered by a specific infraction should be handled initially with a Caution. If repeated, directly instruct the player not to repeat the offense, and handle further offenses as Unsporting Conduct — Major for failing to follow the direct instruction of a tournament official.
 
-3.
-
 GAME PLAY ERRORS Game play errors are caused by incorrect or inaccurate play of the game such that it results in violations of the Magic Comprehensive Rules. Many offenses fit into this category and it would be impossible to list them all. The guide below is designed to give judges a framework for assessing how to handle a Game Play Error.
 
 Most Game Play Error infractions are assumed to have been committed unintentionally. If the judge believes that the error was intentional, he or she should first examine the Cheating infractions to see if one should be used instead.
@@ -193,7 +189,9 @@ A player is not considered to have looked at extra cards when he or she places a
 
 This penalty is applied only once if one or more cards are seen in the same action or sequence of actions.
 
-Examples A player accidentally reveals (drops, flips over) a card while shuffling her opponent's deck.
+Examples:
+
+A player accidentally reveals (drops, flips over) a card while shuffling her opponent's deck.
 
 A player flips over an extra card while drawing from his deck.
 
@@ -225,7 +223,9 @@ Philosophy Though this error is easy to commit accidentally, the potential for i
 
 Game Play Error — Improper Drawing at Start of Game Definition Penalty Warning Players committing this infraction draw extra cards (or too few cards) when they draw their hands, either initially or while resolving a mulligan.
 
-Examples A player draws eight cards in her initial hand (instead of seven).
+Examples:
+
+A player draws eight cards in her initial hand (instead of seven).
 
 A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
@@ -265,8 +265,6 @@ If a player failed to make a required choice for a permanent on the battlefield,
 
 If a player forgot to discard or return cards from their hand to another zone, that player does so.
 
-3.7.
-
 Game Play Error — Failure to Maintain Game State Definition Penalty Warning This infraction is committed by a player who has allowed another player in the game to commit a Game Play Error around an effect that he or she does not control and has not pointed it out it before he or she could potentially gain advantage. If a judge believes a player is intentionally not pointing out other players’ illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud.
 
 Examples:
@@ -276,8 +274,6 @@ A player's opponent forgets to discard to Masticore during his upkeep. It is not
 A player does not notice that his opponent has Armadillo Cloak on a creature with Protection from Green.
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error. Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
-
-4.
 
 TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional,
 
@@ -397,8 +393,6 @@ A player starts to put a card on top of his pile, then pulls it back.
 
 Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft, or the specific tournament rules for the format may specify additional penalties for Draft Procedure Violations.
 
-4.7.
-
 Tournament Error — Player Communication Violation Definition Penalty Warning A player unintentionally violates the Player Communication policy (see MTR 4.1). An intentional violation, or attempting to take advantage of a previously committed violation, is defined as Cheating — Fraud.
 
 Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
@@ -477,8 +471,6 @@ If the player has made an obvious error in recording the wrong land type, such a
 
 If the player, upon drawing an opening hand, discovers a mismatch due to failure to de-sideboard and calls a judge at that point, the Head Judge may downgrade the penalty, fix the deck, and allow the player to redraw the hand with one fewer card. The player may continue to take further mulligans if he or she desires.
 
-5.
-
 UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, or enjoyment of an event in a significantly negative fashion. An offense that doesn't seek in-game advantage is often unsporting behavior. If it could provide an in-game advantage the offense is handled by other infractions.
 
 Being enrolled in the tournament is not a requirement to receive an Unsporting Conduct penalty. Although these guidelines refer to players, other people in the venue, such as spectators, staff, or judges are held to the same standard of behavior.
@@ -506,8 +498,6 @@ A player taunts his opponent for making a bad play.
 A player leaves excessive trash in the play area after leaving the table.
 
 Philosophy All participants should expect a safe and enjoyable environment at a tournament, and a participant needs to be made aware if his or her behavior is unacceptable so that this environment may be maintained Additional Remedy The player must correct the problem immediately. Subsequent Unsporting Conduct — Minor infractions, even for different offenses, will result in a Game Loss. If a Game Loss is issued for repeated infractions, and it occurs at the end of a game, it is acceptable for the judge to apply the penalty to the next game instead.
-
-5.2.
 
 Unsporting Conduct — Major Definition Penalty Game Loss Unsporting Conduct — Major infractions fall into three categories:
 
@@ -599,7 +589,9 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 Unsporting Conduct — Theft of Tournament Material Definition Penalty Disqualification A player steals material from the event, such as cards or tournament equipment.
 
-Examples A player in a limited tournament pockets a Magic foil rare that he opened in the sealed pool he is registering.
+Examples:
+
+A player in a limited tournament pockets a Magic foil rare that he opened in the sealed pool he is registering.
 
 A player steals cards from the sideboard of his opponent.
 
@@ -610,8 +602,6 @@ A player realizes she has a previous opponent’s card, but she hides it instead
 Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament Organizer, though judges are encouraged to help in any way possible.
 
 Additional Remedy The offender should be asked to leave the venue by the organizer.
-
-6.
 
 CHEATING This section deals with infractions that occur as the intended result of an action taken by a player. In some cases, it doesn’t matter if advantage was gained, only that the potential for advantage exists. The philosophy for all these infractions is the same – they are unwelcome behavior that undermines the integrity of the tournament.
 
@@ -652,8 +642,6 @@ A player observes his opponent or teammate make an illegal play but does not cal
 A spectator gives false or misleading information to a tournament official that helps another player to cheat.
 
 A player sees another player mana weave and randomize insufficiently and pile shuffles to undo the weave instead of calling a judge.
-
-6.3.
 
 Cheating — Hidden Information Violation Definition Penalty Disqualification A player, spectator or other tournament participant intentionally and illegally seeks or reveals information in an attempt to gain advantage. A player has not committed an infraction if the information was revealed to them by his or her opponent accidentally, nor is he or she required to advise an opponent who may be doing so, as long as he or she does not go to excessive lengths to take advantage of this. Note that, in general, players are allowed to reveal information that is hidden to their opponents unless is it explicitly banned by the rules of the game or format.
 

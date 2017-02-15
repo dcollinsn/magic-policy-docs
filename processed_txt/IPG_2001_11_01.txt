@@ -10,7 +10,7 @@ Deck Problem—Illegal Sideboard List Deck Problem—Illegal Sideboard (Legal Li
 
 Deck Problem—Illegal Sideboard (No List Used)
 
-PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Misrepresentation Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw 130 MARKED CARDS Marked Cards—Minor Marked Cards—Major SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Penalty Quick-Reference Guide Appendix B—Contact Information FORMAT OF INFRACTIONS Infractions are listed in the following manner:
+PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Misrepresentation Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw MARKED CARDS Marked Cards—Minor Marked Cards—Major SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Penalty Quick-Reference Guide Appendix B—Contact Information FORMAT OF INFRACTIONS Infractions are listed in the following manner:
 
 •
 
@@ -268,7 +268,7 @@ Examples:
 
 During a Constructed Magic tournament, a player is found to have five Terrors in his sideboard, although the sideboard list is legal (listing only four).
 
-(B) A player has misplaced several cards from her sideboard (or lost the entire sideboard), but the sideboard list is legal.
+A player has misplaced several cards from her sideboard (or lost the entire sideboard), but the sideboard list is legal.
 
 Philosophy When the physical cards in the sideboard are illegal, but the sideboard list is legal,
 
@@ -370,7 +370,7 @@ Examples:
 
 A player in a Pokémon tournament attempts to evolve his Charmander into Charizard, illegally skipping the Charmeleon evolution.
 
-(B) A player in a Magic tournament plays Wrath of God (2WW) using one white mana and three colorless mana.
+A player in a Magic tournament plays Wrath of God (2WW) using one white mana and three colorless mana.
 
 A player in a Magic tournament attempts to play Treachery on a creature with protection from blue.
 
@@ -492,7 +492,9 @@ Philosophy If the possibility for advantage is fairly low, the player should be 
 
 Penalty Marked Cards—Minor REL 1 REL 2 REL 3 REL 4 Caution Caution Caution Warning REL 5 Warning Marked Cards—Major Definition A player’s cards are marked in such a way that could potentially give a significant advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
 
-Examples A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
+Examples:
+
+A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
 
 A player in a Magic tournament has four Powder Kegs in her deck, all of which are in card sleeves that have a slight bend in one corner.
 
@@ -586,7 +588,7 @@ Examples:
 
 A player intentionally looks at the faces of his opponent’s cards while shuffling and uses this information to stack the cards in an order unfavorable for the opponent.
 
-(B) A player marks cards in his deck and intentionally uses this information to gain an advantage.
+A player marks cards in his deck and intentionally uses this information to gain an advantage.
 
 A player intentionally draws extra cards while the opponent is distracted.
 

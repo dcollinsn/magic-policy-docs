@@ -16,9 +16,7 @@ CONTENTS Introduction
 Framework of this Document 
 Contents General Philosophy Definition of Penalties Applying Penalties Randomizing a Deck Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Hidden Card Error Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating 
 Appendix A — Penalty Quick Reference 
-Appendix B — Changes from Previous Versions 1.
-
-GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy.
+Appendix B — Changes from Previous Versions GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy.
 
 Judges may intervene to prevent or preempt errors occurring outside of a game. Knowledge of a player’s history or skill does not alter an infraction, but it may be taken into account during an investigation.
 
@@ -74,8 +72,6 @@ RANDOMIZING A DECK The remedy for some infractions in this document includes shu
 
 Shuffles perfomed by a judge as part of a remedy are not considered shuffles for game purposes.
 
-1.4.
-
 BACKING UP Some infractions in this document permit the judge to consider the possibility of a backup. Due to the amount of information that may become available to players and might affect their play,
 
 backups are regarded as a solution of last resort, only applied in situations where leaving the game in the current state is a substantially worse solution. A good backup will result in a situation where the gained information makes no difference and the line of play remains the same (excepting the error, which has been fixed). This means limiting backups to situations with minimal decision trees.
@@ -91,8 +87,6 @@ especially if they cause or threaten to cause a situation in which a player will
 returning cards to the library when a player has the ability to shuffle their library is not something that should be done except in extreme situations.
 
 Some remedies state a simple backup may be performed. A simple backup is backing up the last action completed (or one currently in progress) and is sometimes used to make another portion of the proscribed remedy smoother.
-
-2.
 
 GAME PLAY ERRORS Game Play Errors are caused by incorrect or inaccurate play of the game such that it results in violations of the Magic Comprehensive Rules. Many offenses fit into this category and it would be impossible to list them all. The guide below is designed to give judges a framework for assessing how to handle a Game Play Error.
 
@@ -266,8 +260,6 @@ A player does not notice that his opponent has Armadillo Cloak on a creature wit
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error.
 
-3.
-
 TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional, he or she should consider Unsporting Conduct — Cheating. (Previous versions of the MIPG made reference in each section about how to handle an intentional violation; with the exception of Slow Play, all intentional violations are now evaluated as potential Unsporting Conduct — Cheating.)
 
 If a player violates the Magic Tournament Rules in a way that is not covered by one of the infractions listed below, the judge should explain the appropriate procedure to the player, but not issue a penalty. Continued or willful disregard of these rules may require further investigation.
@@ -291,8 +283,6 @@ A player sits at an incorrect table and plays the wrong opponent.
 Philosophy Players are responsible for being on time and in the correct seat for their matches, and for completing registrations in a timely manner. The Tournament Organizer may announce that they are giving the players some additional time before a penalty is issued. Otherwise, the penalty is issued as soon as the round begins.
 
 Additional Remedy The players are given a time extension corresponding to the length of the tardiness. A player not in his or her seat 10 minutes into the round will receive a Match Loss and be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round.
-
-3.2.
 
 Tournament Error — Outside Assistance Penalty Match Loss Definition A player, spectator, or other tournament participant does any of the following:
 
@@ -328,7 +318,9 @@ Tournament Error — Slow Play Penalty Warning Definition A player takes longer 
 
 It is also slow play if a player continues to execute a loop without being able to provide an exact number of iterations and the expected resulting game state.
 
-Examples A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
+Examples:
+
+A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
 
 A player spends time writing down the contents of an opponent’s deck while resolving Thought Hemorrhage.
 
@@ -428,8 +420,6 @@ Downgrade: If a deck is discovered to be missing cards after the game has begun 
 
 Downgrade: If a player, before taking any game actions, discovers a deck (not decklist) problem and calls attention to it at that point, the Head Judge may issue a Warning, fix the deck, and, if the player has drawn their opening hand, instruct the player to mulligan. The player may continue to take further mulligans if he or she desires.
 
-3.6.
-
 Tournament Error — Limited Procedure Violation Penalty Warning Definition A player commits a technical error during a draft.
 
 Examples:
@@ -488,8 +478,6 @@ this change may be reverted at a later point if replacements for marked cards ar
 
 Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to take advantage of this knowledge, the penalty is a Game Loss.
 
-4.
-
 UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness,
 
 enjoyment, or integrity of an event in a significantly negative fashion.
@@ -522,8 +510,6 @@ Philosophy All participants should expect a safe and enjoyable environment at a 
 
 Additional Remedy The player must correct the problem immediately. Subsequent Unsporting Conduct — Minor infractions, even for different offenses, will result in a Game Loss. If a Game Loss is issued for repeated infractions, and it occurs at the end of a game, it is acceptable for the judge to apply the penalty to the next game instead.
 
-4.2.
-
 Unsporting Conduct — Major Penalty Match Loss Definition A player takes action towards one or more individuals that could reasonably be expected to create a feeling of being harassed, threatened, bullied, or stalked. This may include insults based on race, color, religion, national origin, age, gender, disability, or sexual orientation. Threats of physical violence should be treated as Unsporting Conduct – Aggressive Behavior.
 
 It is possible for an offender to commit this infraction without intending malice or harm to the subject of the harassment.
@@ -549,8 +535,6 @@ Officials must investigate these matters as soon as they are brought to their at
 Additional Remedy The player must correct the behavior immediately. If the offense occurs at the end of a match, it is acceptable for the judge to apply the penalty to the next match instead.
 
 Upgrade: If the offense was committed with malicious intent, the player displays no remorse, or the offense is repeated at a later time, the penalty is Disqualification and removal from the venue.
-
-4.3.
 
 Unsporting Conduct — Improperly Determining a Winner Penalty Disqualification Definition A player uses or offers to use a method that is not part of the current game (including actions not legal in the current game) to determine the outcome of a game or match.
 
@@ -628,8 +612,6 @@ though judges are encouraged to help in any way possible.
 
 Additional Remedy The offender should be asked to leave the venue by the organizer.
 
-4.7.
-
 Unsporting Conduct — Stalling Penalty Disqualification Definition A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional, please refer to Tournament Error — Slow Play instead.
 
 Examples:
@@ -676,7 +658,7 @@ A player peeks at another player’s picks during the draft.
 
 A player adds cards to his Sealed Deck pool.
 
-G. A player realizes he has accidentally drawn an extra card, then fails to call a judge in order to avoid a penalty.
+A player realizes he has accidentally drawn an extra card, then fails to call a judge in order to avoid a penalty.
 
 APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger None Looking at Extra Cards Warning Hidden Card Error Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Deck/Decklist Problem Game Loss Limited Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Match Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS January 22, 2016 General: Updated some examples to use more current cards.
 
