@@ -34,99 +34,13 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
+
 CONTENTS Introduction 
 Framework of this Document 
-Contents 
-1.
+Contents General Philosophy Definition of Rules Enforcement Level (REL) 
 
-General Philosophy 
-1.1.
 
-Definition of Rules Enforcement Level (REL) 
-1.2.
-
-Definition of Penalties 
-1.3.
-
-Applying Penalties 
-2.
-
-Game Play Errors 
-2.1.
-
-Game Play Error — Missed Trigger 
-2.2.
-
-Game Play Error — Looking at Extra Cards 
-2.3.
-
-Game Play Error — Drawing Extra Cards 
-2.4.
-
-Game Play Error — Improper Drawing at Start of Game 
-2.5.
-
-Game Play Error — Game Rule Violation 
-2.6.
-
-Game Play Error — Failure to Maintain Game State 
-3.
-
-Tournament Errors 
-3.1.
-
-Tournament Error — Tardiness 
-3.2.
-
-Tournament Error — Outside Assistance 
-3.3.
-
-Tournament Error — Slow Play 
-3.4.
-
-Tournament Error — Insufficient Shuffling 
-3.5.
-
-Tournament Error — Failure to Follow Official Announcements 
-3.6.
-
-Tournament Error — Draft Procedure Violation 
-3.7.
-
-Tournament Error — Communication Policy Violation 
-3.8.
-
-Tournament Error — Marked Cards 
-3.9.
-
-Tournament Error — Deck/Decklist Problem 
-4.
-
-Unsporting Conduct 
-4.1.
-
-Unsporting Conduct — Minor 
-4.2.
-
-Unsporting Conduct — Major 
-4.3.
-
-Unsporting Conduct — Improperly Determining a Winner 
-4.4.
-
-Unsporting Conduct — Bribery and Wagering 
-4.5.
-
-Unsporting Conduct — Aggressive Behavior 
-4.6.
-
-Unsporting Conduct — Theft of Tournament Material 
-4.7.
-
-Unsporting Conduct — Stalling 
-4.8.
-
-Unsporting Conduct — Cheating 
+Definition of Penalties Applying Penalties Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Failure to Follow Official Announcements Tournament Error — Draft Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Tournament Error — Deck/Decklist Problem Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating 
 Appendix A — Penalty Quick Reference 
 Appendix B — Rules Enforcement Levels of Premier Programs 
 Appendix C — Changes from Previous Versions 1.
@@ -179,6 +93,7 @@ apologize to the players, and fix it if it is not too late. If the judge gives a
 
 
 
+
 1.1.
 
 
@@ -209,7 +124,7 @@ These events hold players to a higher standard of behavior and technically corre
 
 
 
-1.2.
+
 
 
 
@@ -226,6 +141,7 @@ A time extension should be issued if the ruling has taken more than a minute.
 
 
 Game Loss A Game Loss is issued in situations where the procedure to correct the offense takes a significant amount of time that may slow the entire tournament or causes significant disruption to the tournament, or in which it is impossible to continue the game due to physical disruption. It is also used for some infractions that have a higher probability for a player to gain advantage.
+
 
 
 
@@ -257,7 +173,7 @@ When a player is disqualified during a tournament, he or she is removed from the
 
 
 
-1.3.
+
 
 
 
@@ -273,6 +189,7 @@ Any time a penalty is issued, the judge must explain to the players involved the
 
 
 
+
 Some infractions include remedies to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness against the judge to accusations of unfairness against the DCI. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it.
 
 These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
@@ -280,6 +197,7 @@ These procedures do not, and should not, take into account the game being played
 Separate infractions committed or discovered at the same time are treated as separate penalties, though if the root cause is the same, only the more severe one is applied. If the first penalty would cause the second one to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty is issued first, followed by the less severe penalty in the next round.
 
 Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit, even intentionally, are not covered by a specific infraction should be handled initially with a Caution. If repeated, the judge is expected to directly instruct the player not to repeat the offense, and further offenses are treated as Unsporting Conduct — Major for failing to follow the direct instruction of a tournament official.
+
 
 
 
@@ -303,7 +221,7 @@ judges are encouraged to request that the players make the situation clear, but 
 
 
 
-2.1.
+
 
 
 
@@ -355,6 +273,7 @@ automatically resolve, but awareness of the resulting objects must be demonstrat
 
 
 
+
 Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
 
 may also be applicable, especially as they relate to batches of actions or resolving items on the stack in an improper order.
@@ -365,7 +284,8 @@ For example, if the effect of a triggered ability instructs its controller to sa
 
 
 
-Examples A. Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
+
+A. Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
 
 B. A player forgets to remove the final time counter from a suspended spell and then draws a card during his draw step.
 
@@ -399,7 +319,7 @@ If the triggered ability isn’t covered by the previous two paragraphs, the opp
 
 
 
-2.2.
+
 
 
 
@@ -415,7 +335,8 @@ This penalty is applied only once if one or more cards are seen in the same acti
 
 
 
-Examples A. A player accidentally reveals (drops, flips over) a card while shuffling her opponent’s deck.
+
+A. A player accidentally reveals (drops, flips over) a card while shuffling her opponent’s deck.
 
 B. A player flips over an extra card while drawing from his deck.
 
@@ -437,7 +358,7 @@ Care must be taken before shuffling to make sure that there are no “legally kn
 
 
 
-2.3.
+
 
 
 
@@ -447,9 +368,11 @@ Additionally, it is Drawing Extra Cards if a player has excess cards in their ha
 
 
 
-Examples A. A player draws 4 cards after casting Ancestral Recall.
+
+A. A player draws 4 cards after casting Ancestral Recall.
 
 B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
+
 
 
 
@@ -465,7 +388,7 @@ Philosophy Though this error is easy to commit accidentally, the potential for i
 
 
 
-2.4.
+
 
 
 
@@ -473,7 +396,8 @@ Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition
 
 
 
-Examples A. A player draws eight cards in her initial hand (instead of seven).
+
+A. A player draws eight cards in her initial hand (instead of seven).
 
 B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
@@ -489,7 +413,7 @@ Additional Remedy If the player has drawn too few cards, instruct them to draw u
 
 
 
-2.5.
+
 
 
 
@@ -499,7 +423,8 @@ An error that an opponent can’t verify the legality of should have its penalty
 
 
 
-Examples A. A player casts Wrath of God for 3W (actual cost 2WW).
+
+A. A player casts Wrath of God for 3W (actual cost 2WW).
 
 B. A player does not attack with a creature that must attack each turn.
 
@@ -508,6 +433,7 @@ C. A player fails to put a creature with lethal damage into a graveyard and it i
 D. A Voice of All is on the battlefield that should have had a color named for it.
 
 E. A player casts Brainstorm and forgets to put two cards back on top of his library.
+
 
 
 
@@ -545,7 +471,7 @@ In a situation where the effect that caused the infraction is controlled by one 
 
 
 
-2.6.
+
 
 
 
@@ -553,13 +479,15 @@ Game Play Error — Failure to Maintain Game State Penalty Warning Definition A 
 
 
 
-Examples A. A player’s opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
+
+A. A player’s opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
 
 B. A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
 
 
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error. Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
+
 
 
 
@@ -575,7 +503,7 @@ A second or subsequent Warning for a Tournament Error offense in the same catego
 
 
 
-3.1.
+
 
 
 
@@ -583,7 +511,8 @@ Tournament Error — Tardiness Penalty Game Loss Definition A player fails to co
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -611,7 +540,7 @@ Additional Remedy Give no penalty if the round started early and a player arrive
 
 
 
-3.2.
+
 
 
 
@@ -639,7 +568,9 @@ Notes made outside the current match may only be referenced between games, and m
 
 
 
-Examples A. During a game, a player references play notes that were created before the tournament.
+
+A. During a game, a player references play notes that were created before the tournament.
+
 
 
 
@@ -655,7 +586,7 @@ Visual modifications to cards, including brief text, that provide minor strategi
 
 
 
-3.3.
+
 
 
 
@@ -665,7 +596,8 @@ It is also slow play if a player continues to execute a loop without being able 
 
 
 
-Examples A. A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
+
+A. A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
 
 B. A player spends time writing down the contents of an opponent’s deck while resolving Thought Hemorrhage.
 
@@ -687,7 +619,7 @@ If Slow Play has significantly affected the result of the match, the Head Judge 
 
 
 
-3.4.
+
 
 
 
@@ -695,7 +627,9 @@ Tournament Error — Insufficient Shuffling Definition Penalty Warning A player 
 
 
 
-Examples A. A player forgets to shuffle his library after searching for a card.
+
+A. A player forgets to shuffle his library after searching for a card.
+
 
 
 
@@ -719,7 +653,7 @@ Additional Remedy Shuffle the deck thoroughly, taking into account any parts of 
 
 
 
-3.5.
+
 
 
 
@@ -727,7 +661,8 @@ Tournament Error — Failure to Follow Official Announcements Definition Penalty
 
 
 
-Examples A. A player smokes in a venue where signage indicates such is forbidden.
+
+A. A player smokes in a venue where signage indicates such is forbidden.
 
 B. A player fails to leave an area of the venue that a general announcement has asked all players to leave.
 
@@ -737,7 +672,7 @@ Philosophy Players are required to be attentive and follow the instructions of t
 
 
 
-3.6.
+
 
 
 
@@ -745,7 +680,8 @@ Tournament Error — Draft Procedure Violation Penalty Warning Definition A play
 
 
 
-Examples A. A player passes a booster to his left when it is supposed to go to his right.
+
+A. A player passes a booster to his left when it is supposed to go to his right.
 
 B. A player exceeds the amount of time allotted for a pick.
 
@@ -754,6 +690,7 @@ C. A player starts to put a card on top of his pile, then pulls it back.
 
 
 Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft or the specific tournament rules for the format may specify additional penalties for Draft Procedure Violations.
+
 
 
 
@@ -795,7 +732,7 @@ Additional Remedy If the situation is simple enough to safely back up without to
 
 
 
-3.8.
+
 
 
 
@@ -803,7 +740,8 @@ Tournament Error — Marked Cards Penalty Warning Definition A player’s cards 
 
 
 
-Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
+
+A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
 
 and a Lightning Helix.
 
@@ -821,11 +759,12 @@ Additional Remedy The player needs to replace the card(s) or sleeve(s) with an u
 
 
 
+
 The Head Judge has the option to upgrade this penalty to a Game Loss if he or she believes that a player noticing the pattern of markings would clearly compromise the integrity of the game.
 
 
 
-3.9.
+
 
 
 
@@ -861,7 +800,8 @@ This infraction does not cover errors in registration made by another participan
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -917,9 +857,11 @@ These cards must not be sleeved in the same way as cards in the main deck and/or
 
 
 
+
 Additional Remedy Remove any cards from the deck that are illegal for the format or violate the maximum number allowed, fix any failures to de-sideboard, restore any missing cards if they (or identical replacements) can be located, then alter the decklist to reflect the remaining deck. If the remaining deck has too few cards, add basic lands of the player’s choice to reach the minimum number. If the deck and decklist both violate a maximum cards restriction (usually too many cards in a sideboard or more than four of a card), remove cards starting from the bottom of the appropriate section of the list.
 
 If the player, upon drawing an opening hand, discovers a deck problem and calls a judge at that point, the Head Judge may downgrade the penalty, fix the deck, and allow the player to redraw the hand with one fewer card. The player may continue to take further mulligans if he or she desires.
+
 
 
 
@@ -941,7 +883,7 @@ Judges should inform the player how his or her conduct is disruptive. The player
 
 
 
-4.1.
+
 
 
 
@@ -949,7 +891,8 @@ Unsporting Conduct — Minor Penalty Warning Definition A player takes action th
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -977,7 +920,7 @@ Philosophy All participants should expect a safe and enjoyable environment at a 
 
 
 
-4.2.
+
 
 
 
@@ -999,11 +942,13 @@ Commits aggressive or violent behavior that is not directed at another person or
 
 
 
-Examples A. A player is asked to leave the play area and is still watching a match a few minutes later.
+
+A. A player is asked to leave the play area and is still watching a match a few minutes later.
 
 B. A player continues to argue with the Head Judge about a ruling after being asked to stop doing so.
 
 C. A player uses a racial slur against his opponent.
+
 
 
 
@@ -1029,7 +974,7 @@ Additional Remedy The player must correct the behavior immediately, and can expe
 
 
 
-4.3.
+
 
 
 
@@ -1037,7 +982,8 @@ Unsporting Conduct — Improperly Determining a Winner Definition Penalty Disqua
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1065,13 +1011,14 @@ In most cases this penalty will be issued to both players, unless the other play
 
 
 
-4.4.
+
 
 
 
 Unsporting Conduct — Bribery and Wagering Penalty Disqualification Definition A player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match, or accepts such an offer. Refer to the Magic Tournament Rules for a more detailed description of what constitutes bribery.
 
 Wagering occurs when a player or spectator at a tournament places a bet on the outcome of a tournament, match or any portion of a tournament or match. The wager does not need to be monetary, nor is it relevant if a player is not betting on his or her own match.
+
 
 
 
@@ -1103,7 +1050,7 @@ Philosophy Bribery and wagering disrupt the integrity of the tournament and are 
 
 
 
-4.5.
+
 
 
 
@@ -1111,7 +1058,8 @@ Unsporting Conduct — Aggressive Behavior Penalty Disqualification Definition A
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1143,7 +1091,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
-4.6.
+
 
 
 
@@ -1151,7 +1099,8 @@ Unsporting Conduct — Theft of Tournament Material Penalty Disqualification Def
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1181,6 +1130,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
+
 4.7.
 
 
@@ -1191,7 +1141,8 @@ please refer to Tournament Error — Slow Play instead.
 
 
 
-Examples A. A player has two lands in his hand, no options available to significantly affect the game, and spends excessive time “thinking” about what to do to eat up time on the clock.
+
+A. A player has two lands in his hand, no options available to significantly affect the game, and spends excessive time “thinking” about what to do to eat up time on the clock.
 
 B. A player is ahead in games and significantly slows down his pace of play so the opponent has little chance to catch up.
 
@@ -1203,7 +1154,7 @@ E. A player losing a game starts slowing down the pace of play in an attempt to 
 
 
 
-4.8.
+
 
 
 
@@ -1227,7 +1178,8 @@ If all criteria are not met, the offense is not Cheating and should be handled b
 
 
 
-Examples A. A player alters the results of a match after the match is over.
+
+A. A player alters the results of a match after the match is over.
 
 B. A player lies to a tournament official about what happened in a game to make his case stronger.
 
@@ -1247,6 +1199,7 @@ H. A player realizes he has accidentally drawn an extra card, then fails to call
 
 
 
+
 APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
 
 
@@ -1255,27 +1208,36 @@ Missed Trigger Looking at Extra Cards Warning Drawing Extra Cards Game Loss Impr
 
 
 
-(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS May 3, 2013 1.2: Changed “damage” to “disruption” to avoid implying actual damage to cards.
+(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS May 3, 2013 Changed “damage” to “disruption” to avoid implying actual damage to cards.
 
-2.4: Rewrote definition to try to be clearer. No actual policy change.
 
-3.1: Three minutes is no longer the official time limit, so Tournament Organizers can use any value for Tardiness.
+Rewrote definition to try to be clearer. No actual policy change.
 
-3.3: Changed example C to no longer refer to a specific time limit.
 
-February 8, 2013 2.1: Adjusting the definitions of when a triggered ability is missed. Enhanced philosophy section.
+Three minutes is no longer the official time limit, so Tournament Organizers can use any value for Tardiness.
 
-2.1: Special handling for zone-change DTAs and tweaks to when default-action abilities are resolved.
 
-3.7: New name for the infraction. No more “It’s not PCV.”
+Changed example C to no longer refer to a specific time limit.
 
-4.3: Philosophy refers to methods other than just random ones.
+February 8, 2013 Adjusting the definitions of when a triggered ability is missed. Enhanced philosophy section.
 
-5: Streamlining of the Cheating section. Stalling moves to 4.7. Fraud becomes Unsporting Conduct — Cheating (4.8).
 
-5.3: Merged into 4.8. Now requires knowledge that the action is illegal.
+Special handling for zone-change DTAs and tweaks to when default-action abilities are resolved.
 
-5.4: Merged into 4.8. Now requires knowledge that the action is illegal.
+
+New name for the infraction. No more “It’s not PCV.”
+
+
+Philosophy refers to methods other than just random ones.
+
+
+Streamlining of the Cheating section. Stalling moves to 4.7. Fraud becomes Unsporting Conduct — Cheating (4.8).
+
+
+Merged into 4.8. Now requires knowledge that the action is illegal.
+
+
+Merged into 4.8. Now requires knowledge that the action is illegal.
 
 Appendix A: Updated chart.
 
@@ -1289,29 +1251,39 @@ September 20, 2012 General: Renumbering! Sections 3-6 have moved up a number. Li
 
 3/2: Removed explanation of turn cycle, since it is no longer used.
 
-3.1/2.1: Total revamp on when penalties are given and how to handle missed triggers. No more lapsing abilities.
 
-3.2: Removed and folded into 3.6/2.5.
+/2.1: Total revamp on when penalties are given and how to handle missed triggers. No more lapsing abilities.
 
-3.6/2.5: Added an upgrade and explanation for cannot-verify-legality infractions.
 
-3.6/2.5: Object in wrong zone is handled within a turn instead of a turn cycle.
+Removed and folded into 3.6/2.5.
 
-4.9/3.9: Added two card classes that are allowed to be with sideboards (not in the same sleeves!).
 
-June 20, 2012 1: The JAR now explicitly handles Regular REL. Trying to apply IPG philosophies is likely to cause confusion.
+/2.5: Added an upgrade and explanation for cannot-verify-legality infractions.
 
-1: Infractions caused by incorrect information from a judge are downgraded.
 
-3.1: Missing your turn draw is now handled as a GRV.
+/2.5: Object in wrong zone is handled within a turn instead of a turn cycle.
 
-3.6: Added a rule to handle missed turn draws. Clarified object-in-wrong-zone application.
 
-4.1: A time extension is given with Tardiness penalties.
+/3.9: Added two card classes that are allowed to be with sideboards (not in the same sleeves!).
+
+June 20, 2012 The JAR now explicitly handles Regular REL. Trying to apply IPG philosophies is likely to cause confusion.
+
+
+Infractions caused by incorrect information from a judge are downgraded.
+
+
+Missing your turn draw is now handled as a GRV.
+
+
+Added a rule to handle missed turn draws. Clarified object-in-wrong-zone application.
+
+
+A time extension is given with Tardiness penalties.
 
 Appendix C: Chart updated to current programs.
 
 All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2013 Wizards.
+
 
 
 

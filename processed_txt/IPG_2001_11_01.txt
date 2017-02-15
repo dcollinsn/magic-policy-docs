@@ -2,7 +2,7 @@ DCI™ UNIVERSAL PENALTY GUIDELINES 2000–2001 Tournament Season Effective Nove
 
 Note: See appendix B of the DCI Universal Tournament Rules for definitions of terms in this document.
 
-CONTENTS Format of Infractions Definitions of Penalties Applying Penalties Repeat Offenses 100 101 102 103 104 105 106 DECK PROBLEMS Deck Problem—Illegal Main Decklist Deck Problem—Illegal Main Deck (Legal Decklist)
+CONTENTS Format of Infractions Definitions of Penalties Applying Penalties Repeat Offenses DECK PROBLEMS Deck Problem—Illegal Main Decklist Deck Problem—Illegal Main Deck (Legal Decklist)
 
 Deck Problem—Illegal Main Deck (No Decklist Used)
 
@@ -12,11 +12,25 @@ Deck Problem—Illegal Sideboard (No List Used)
 
 
 
-110 111 112 113 114 115 116 117 PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Misrepresentation Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent 120 121 122 123 124 CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw 130 131 132 MARKED CARDS Marked Cards—Minor Marked Cards—Major 140 141 142 SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit 150 151 152 153 UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe 160 161 162 163 164 CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Penalty Quick-Reference Guide Appendix B—Contact Information 10.
 
 
 
-FORMAT OF INFRACTIONS Infractions are listed in the following manner:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Misrepresentation Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw 130 MARKED CARDS Marked Cards—Minor Marked Cards—Major SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Penalty Quick-Reference Guide Appendix B—Contact Information FORMAT OF INFRACTIONS Infractions are listed in the following manner:
 
 •
 
@@ -42,7 +56,7 @@ Penalty—Recommended penalties at each Rules Enforcement Level
 
 
 
-20.
+
 
 
 
@@ -60,7 +74,7 @@ A warning is an officially tracked penalty. The purpose of a warning is to alert
 
 
 
-30.
+
 
 
 
@@ -100,7 +114,7 @@ For events that feature one-game matches, a game loss would essentially be a mat
 
 
 
-40.
+
 
 
 
@@ -158,13 +172,13 @@ fourth offense a match loss, and fifth offense would result in the player’s di
 
 
 
-100.
+
 
 
 
 DECK PROBLEMS This section generally deals with deck problems and related issues for Constructed and Limited tournaments.
 
-101.
+
 
 
 
@@ -186,7 +200,6 @@ The decklist contains cards that would make the deck illegal because it would vi
 
 games).
 
-Examples
 
 (A) A player in a Standard Magic tournament has 59 cards listed on her decklist when the minimum is 60.
 
@@ -202,11 +215,7 @@ Penalty At all RELs, the basic procedure is to correct a player’s decklist so 
 
 (see the penalty chart below). If the submitted decklist consisted of 61 cards, no basic land would be added since the decklist was legal after the removal of the extra Disenchant.
 
-Deck Problem—Illegal Main Decklist REL 1 REL 2 REL 3 REL 4 Game Game Match Match 102.
-
-
-
-REL 5 Match Deck Problem—Illegal Main Deck (Legal Decklist)
+Deck Problem—Illegal Main Decklist REL 1 REL 2 REL 3 REL 4 Game Game Match Match REL 5 Match Deck Problem—Illegal Main Deck (Legal Decklist)
 
 Definition This penalty applies to tournaments for which decklists are being used. If sideboards are being used and the sideboard is illegal but the sideboard list is legal, please refer to section 115 instead. This penalty applies to players who have misplaced cards from their decks, have cards from a previous opponent in their decks, or whose decks do not otherwise match their decklists.
 
@@ -228,7 +237,6 @@ The main deck contains cards that would make the deck illegal because it would v
 
 The contents of the main deck do not match the decklist.
 
-Examples
 
 (A) A player in a Standard Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
 
@@ -246,13 +254,9 @@ Penalty At all RELs, the player should receive a game loss and then be instructe
 
 Deck Problem—Illegal Main Deck (Legal Decklist)
 
-All Levels Game 103.
+All Levels Game Deck Problem—Illegal Main Deck (No Decklist Used)
 
-
-
-Deck Problem—Illegal Main Deck (No Decklist Used)
-
-Definition This penalty applies to tournaments for which decklists are not being used. If sideboards are being used and only the sideboard is illegal, then refer to section 106 instead.
+Definition This penalty applies to tournaments for which decklists are not being used. If sideboards are being used and only the sideboard is illegal, then refer to section instead.
 
 Players are considered to have illegal main decks when one of the following conditions is true:
 
@@ -268,7 +272,6 @@ The main deck contains cards that are illegal for the format.
 
 The main deck contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
 
-Examples
 
 (A) A player in a Standard Magic tournament has fifty-nine cards in her deck when the minimum is sixty.
 
@@ -284,11 +287,7 @@ When decklists are not being used, the general philosophy is to correct a player
 
 Deck Problem—Illegal Main Deck (No Decklist)
 
-REL 1 REL 2 REL 3 REL 4 REL 5 Game Game N/A N/A N/A 104.
-
-
-
-Deck Problem—Illegal Sideboard List Definition This infraction applies only to games that use sideboards and only if players are required to register their sideboard cards for the tournament. If players are not required to register their sideboards, refer to section 106, Deck Problem—Illegal Sideboard (No Decklist Used). For purposes of this infraction, it is irrelevant whether the actual cards being used in a player’s sideboard are legal. The decklist
+REL 1 REL 2 REL 3 REL 4 REL 5 Game Game N/A N/A N/A Deck Problem—Illegal Sideboard List Definition This infraction applies only to games that use sideboards and only if players are required to register their sideboard cards for the tournament. If players are not required to register their sideboards, refer to section 106, Deck Problem—Illegal Sideboard (No Decklist Used). For purposes of this infraction, it is irrelevant whether the actual cards being used in a player’s sideboard are legal. The decklist
 
 (including sideboard list) is the final determination of the official contents of a player’s sideboard.
 
@@ -306,7 +305,6 @@ The sideboard list contains cards that are illegal for the format.
 
 The sideboard list contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
 
-Examples
 
 (A) A player in a Constructed Magic tournament lists only fourteen cards in his sideboard.
 
@@ -322,11 +320,7 @@ Penalty At all RELs, the basic procedure is to correct a player’s sideboard li
 
 the player should add only basic resources like basic lands (for Magic) or basic energy (for Pokémon). For example, a player in a Standard Magic tournament has submitted a thirteen-card sideboard list with five Disenchants. Because there is a four-of-a-kind card limit, one of the Disenchants must be removed. After removal, the sideboard list will contain only twelve cards, so three basic lands of the player’s choice are added to meet the fifteen-card requirement. In addition, the player receives a game loss.
 
-Deck Problem—Illegal Sideboard List All Levels Game 105.
-
-
-
-Deck Problem—Illegal Sideboard (Legal List)
+Deck Problem—Illegal Sideboard List All Levels Game Deck Problem—Illegal Sideboard (Legal List)
 
 Definition This infraction applies only to games that use sideboards and only if players are required to register their sideboards for the tournament. If players are not required to register their sideboards, refer to section 106, Deck Problem—Illegal Sideboard (No List Used). If a player’s sideboard list is illegal, refer to section 104, Deck Problem—Illegal Sideboard List. The decklist (including the sideboard list) is the final determination of the official contents of a player’s sideboard;
 
@@ -350,9 +344,9 @@ The sideboard contains cards that would make the deck illegal because it would v
 
 The contents of the sideboard do not match the sideboard list.
 
-Examples
 
 (A) During a Constructed Magic tournament, a player is found to have five Terrors in his sideboard, although the sideboard list is legal (listing only four).
+
 
 
 
@@ -366,11 +360,7 @@ Penalty In addition to the appropriate penalty, the sideboard is altered to matc
 
 Deck Problem—Illegal Sideboard (Legal List)
 
-All Levels Game 106.
-
-
-
-Deck Problem—Illegal Sideboard (No List Used)
+All Levels Game Deck Problem—Illegal Sideboard (No List Used)
 
 Definition This infraction applies only to games that use sideboards and only if players are not required to register their sideboards for the tournament. If players are required to register their sideboards, refer to section 104, Deck Problem—Illegal Sideboard List or section 105, Deck Problem—Illegal Sideboard (Legal List).
 
@@ -400,21 +390,16 @@ Minor.
 
 Deck Problem—Illegal Sideboard (No List Used)
 
-REL 1 REL 2 REL 3 REL 4 REL 5 Game Game N/A N/A N/A 110.
+REL 1 REL 2 REL 3 REL 4 REL 5 Game Game N/A N/A N/A PROCEDURAL ERROR This section provides penalties for procedural errors. Many infractions fit into this category, although it is impossible to list them all. The head judge should use his or her discretion when deciding which penalty applies to an unlisted procedural error.
 
 
 
-PROCEDURAL ERROR This section provides penalties for procedural errors. Many infractions fit into this category, although it is impossible to list them all. The head judge should use his or her discretion when deciding which penalty applies to an unlisted procedural error.
 
-
-
-111.
 
 
 
 Procedural Error—Minor Definition A minor procedural error occurs when a player performs an unintentional, slightly disruptive action at a tournament.
 
-Examples
 
 (A) A player indicates “Peregrine Drake” instead of “Pendrell Drake” while recording the contents of his sealed deck.
 
@@ -432,15 +417,10 @@ Philosophy Procedural errors vary significantly. The judge should adjust the pen
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
 
-Procedural Error—Minor All Levels Caution 112.
-
-
-
-Procedural Error—Major Definition A major procedural error occurs when a player performs an unintentional,
+Procedural Error—Minor All Levels Caution Procedural Error—Major Definition A major procedural error occurs when a player performs an unintentional,
 
 disruptive action at the tournament.
 
-Examples
 
 (A) A player fails to write her name on her decklist.
 
@@ -454,11 +434,7 @@ Philosophy Procedural errors vary significantly. The judge should adjust the pen
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
 
-Procedural Error—Major All Levels Warning 113.
-
-
-
-Procedural Error—Severe Definition A severe procedural error occurs when a player performs an unintentional,
+Procedural Error—Major All Levels Warning Procedural Error—Severe Definition A severe procedural error occurs when a player performs an unintentional,
 
 extremely disruptive action at the tournament.
 
@@ -468,15 +444,12 @@ Example
 
 
 
+
 Philosophy Procedural errors vary significantly and the judge should adjust the penalty appropriately to reflect the level of tournament disruption.
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty.
 
-Procedural Error—Severe All Levels Game 114.
-
-
-
-Procedural Error—Failure to Desideboard Definition Players are considered to have committed this infraction when they don’t return their decks to their original configurations before presenting their decks to their opponents at the beginning of the first game of a match. This infraction applies only to games that use sideboards.
+Procedural Error—Severe All Levels Game Procedural Error—Failure to Desideboard Definition Players are considered to have committed this infraction when they don’t return their decks to their original configurations before presenting their decks to their opponents at the beginning of the first game of a match. This infraction applies only to games that use sideboards.
 
 Example
 
@@ -484,15 +457,11 @@ Example
 
 Philosophy In this situation, a game loss is a fair penalty. Tournaments that do not use decklists should not use this offense unless some method of registering sideboards is used.
 
-Penalty Procedural Error—Failure to Desideboard All Levels Game 115.
+Penalty Procedural Error—Failure to Desideboard All Levels Game Procedural Error—Misrepresentation Definition A player is considered to have committed this infraction when he or she unintentionally misplayed a card or a game rule.
 
-
-
-Procedural Error—Misrepresentation Definition A player is considered to have committed this infraction when he or she unintentionally misplayed a card or a game rule.
-
-Examples
 
 (A) A player in a Pokémon tournament attempts to evolve his Charmander into Charizard, illegally skipping the Charmeleon evolution.
+
 
 
 
@@ -502,13 +471,8 @@ Examples
 
 Philosophy This penalty assumes an unintentional action on behalf of the player. If the judge believes the misrepresentation was intentional, see section 160, Cheating. When the error is noticed and no significant game actions have taken place, the error should be corrected. If any significant game actions have taken place (such as moving to the next player’s turn), it is better to leave the game undisturbed because players have made play decisions based on the present state of the game.
 
-Penalty Procedural Error—Misrepresentation REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning 116.
+Penalty Procedural Error—Misrepresentation REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning Procedural Error—Tardiness Definition A player is considered to have committed this infraction when he or she is not in his or her seat when the round begins.
 
-
-
-REL 5 Warning Procedural Error—Tardiness Definition A player is considered to have committed this infraction when he or she is not in his or her seat when the round begins.
-
-Examples
 
 (A) A player arrives to her seat 5 minutes after the round begins.
 
@@ -520,11 +484,7 @@ Penalty A tardiness penalty should not be given if a round started early and a p
 
 he or she should be awarded a second game loss. If a player does not arrive before the end of the round, he or she should be dropped from the event.
 
-Procedural Error—Tardiness REL 1 REL 2 REL 3 REL 4 REL 5 Warning 117.
-
-
-
-Warning Game Game Game Procedural Error—Playing the Wrong Opponent Definition Two people played against each other when they were paired against different players for that round.
+Procedural Error—Tardiness REL 1 REL 2 REL 3 REL 4 REL 5 Warning Warning Game Game Game Procedural Error—Playing the Wrong Opponent Definition Two people played against each other when they were paired against different players for that round.
 
 Example
 
@@ -532,23 +492,20 @@ Example
 
 Philosophy It is each player’s responsibility to ensure they are sitting in the correct seat.
 
-Penalty If the error is discovered within the pregame time limit for the first game (usually 3 minutes), then the player sitting at the wrong table should receive a warning and report to the correct seat. If the error is discovered after the pregame time limit has expired but before the time that a second game loss would be awarded for section 116, Procedural Error—Tardiness (usually 10 minutes), the player sitting at the wrong table should receive a game loss and should report to the correct table. If the error is not discovered until after the time that a second game loss would be awarded for section 116, Procedural Error—Tardiness, the player sitting at the wrong table should receive a match loss.
+Penalty If the error is discovered within the pregame time limit for the first game (usually minutes), then the player sitting at the wrong table should receive a warning and report to the correct seat. If the error is discovered after the pregame time limit has expired but before the time that a second game loss would be awarded for section 116, Procedural Error—Tardiness (usually 10 minutes), the player sitting at the wrong table should receive a game loss and should report to the correct table. If the error is not discovered until after the time that a second game loss would be awarded for section 116, Procedural Error—Tardiness, the player sitting at the wrong table should receive a match loss.
 
-Procedural Error—Playing the Wrong Opponent All Levels Warning 120.
-
-
-
-CARD DRAWING This section includes infractions relating to inappropriate card drawing, card viewing, and related topics.
+Procedural Error—Playing the Wrong Opponent All Levels Warning CARD DRAWING This section includes infractions relating to inappropriate card drawing, card viewing, and related topics.
 
 
 
-121.
+
 
 
 
 Card Drawing—Drawing Extra Cards Definition Players are considered to have drawn a card when they move a card more than one card length away from their decks (unless this is in the act of counting out cards face down). Players are also considered to have drawn a card when they take a card from their decks and perform any other action (playing a spell,
 
 advancing a phase in the game, and so on). If a player draws a card in this manner, the card is considered to have entered his or her hand immediately. In Magic games, this is generally considered an indication that the player has moved to his or her draw step (unless instructed to draw by some other effect).
+
 
 
 
@@ -572,17 +529,12 @@ Penalty For the game to continue, the situation should always be corrected. When
 
 An automatic game loss should be applied if a player has drawn so many cards that a judge is unable to correct the situation. If the judge feels that the player has received enough of an advantage by drawing an extra card (for example, the player has had his or her library modified by his or her opponent or the player sees the next card, which reveals some crucial strategic information), the penalty should be upgraded to a game loss.
 
-Card Drawing—Drawing Extra Cards REL 1 REL 2 REL 3 REL 4 REL 5 Warning Warning Game Game Game 122.
-
-
-
-Card Drawing—Looking at Extra Cards Definition Players are considered to have looked at a card when the card is moved any significant amount from their decks. This could include dropping cards on the floor, turning a card over while shuffling their opponents’ decks, or revealing cards from their decks in the act of misplaying a card. This penalty also applies when a player has looked at a card in an opponent’s deck or hand in the course of a game (such as turning over an extra card while resolving a random discard effect).
+Card Drawing—Drawing Extra Cards REL 1 REL 2 REL 3 REL 4 REL 5 Warning Warning Game Game Game Card Drawing—Looking at Extra Cards Definition Players are considered to have looked at a card when the card is moved any significant amount from their decks. This could include dropping cards on the floor, turning a card over while shuffling their opponents’ decks, or revealing cards from their decks in the act of misplaying a card. This penalty also applies when a player has looked at a card in an opponent’s deck or hand in the course of a game (such as turning over an extra card while resolving a random discard effect).
 
 A player is not considered to have looked at extra cards when he or she places a card face down on the table (without looking at the card) in an effort to count out cards he or she will draw.
 
 This penalty should be applied only once to one or more cards if they are seen in the same action or sequence of actions.
 
-Examples
 
 (A) A player accidentally flips over a card while shuffling her opponent’s deck.
 
@@ -602,13 +554,8 @@ The opponent of the player committing the infraction should be allowed to see an
 
 An automatic game loss should be applied if a player has seen so many cards that a judge is unable to correct the situation or has received too much of an advantage by seeing an extra card (for example, the player sees the next card, which reveals some crucial, strategic information).
 
-Card Drawing—Looking at Extra Cards REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning 123.
+Card Drawing—Looking at Extra Cards REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning Card Drawing—Improper Drawing at Start of Game Definition Players committing this infraction draw extra cards (or too few cards) when they draw their hands, either initially or while resolving a mulligan.
 
-
-
-REL 5 Warning Card Drawing—Improper Drawing at Start of Game Definition Players committing this infraction draw extra cards (or too few cards) when they draw their hands, either initially or while resolving a mulligan.
-
-Examples
 
 (A) A player in a Pokémon tournament draws eight cards in her initial hand
 
@@ -622,13 +569,8 @@ Philosophy This is generally a minor infraction and deserves a fairly minor pena
 
 Penalty The player must shuffle his or her hand into his or her deck and redraw the opening hand, drawing one less card than the number he or she should have drawn—not the number he or she actually drew. (This is similar to a forcing a mulligan in a Magic game.)
 
-Card Drawing—Improper Drawing at Start of Game REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Warning Warning Warning 124.
+Card Drawing—Improper Drawing at Start of Game REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Warning Warning Warning Card Drawing—Failure to Draw Definition A player does not draw a card that he or she was required to draw.
 
-
-
-Card Drawing—Failure to Draw Definition A player does not draw a card that he or she was required to draw.
-
-Examples
 
 (A) A player in a Pokémon tournament forgets to draw a card at the start of her turn.
 
@@ -638,23 +580,19 @@ Philosophy This is generally a minor infraction and deserves a fairly minor pena
 
 
 
+
 Penalty Players must correct the situations by drawing however many cards they neglected to draw (unless a turn has passed).
 
-Card Drawing—Failure to Draw REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning 130.
+Card Drawing—Failure to Draw REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning MARKED CARDS This section deals with marked cards or sleeves. As always, the penalties for these infractions assume the infraction was unintentional. If the head judge feels the markings are intentional, he or she should refer to section 160, Cheating.
 
 
 
-MARKED CARDS This section deals with marked cards or sleeves. As always, the penalties for these infractions assume the infraction was unintentional. If the head judge feels the markings are intentional, he or she should refer to section 160, Cheating.
 
-
-
-131.
 
 
 
 Marked Cards—Minor Definition A player’s cards are marked in a way that is disruptive but unlikely to give an advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
 
-Examples
 
 (A) A player in a Magic tournament has small marks on a few of his sleeves. The markings are on an island, a Counterspell, and a Masticore.
 
@@ -662,11 +600,8 @@ Examples
 
 Philosophy If the possibility for advantage is fairly low, the player should be required to replace the card(s) or sleeve(s) but should not receive a significant penalty.
 
-Penalty Marked Cards—Minor REL 1 REL 2 REL 3 REL 4 Caution Caution Caution Warning 132.
+Penalty Marked Cards—Minor REL 1 REL 2 REL 3 REL 4 Caution Caution Caution Warning REL 5 Warning Marked Cards—Major Definition A player’s cards are marked in such a way that could potentially give a significant advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
 
-
-
-REL 5 Warning Marked Cards—Major Definition A player’s cards are marked in such a way that could potentially give a significant advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
 
 
 
@@ -678,15 +613,11 @@ Examples
 
 Philosophy If the possibility for advantage is high, the player should receive a significant penalty. Please note that this penalty still assumes that the cards are marked unintentionally. If the head judge believes that the cards were marked intentionally, he or she should refer to section 160, Cheating.
 
-Penalty Marked Cards—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match 140.
+Penalty Marked Cards—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match SLOW PLAY This section includes penalties for players who unintentionally play slowly.
 
 
 
-SLOW PLAY This section includes penalties for players who unintentionally play slowly.
 
-
-
-141.
 
 
 
@@ -700,11 +631,7 @@ Philosophy Slow-play penalties do not require a judge to determine whether a pla
 
 Penalty No extra time should be included with the penalty unless a lengthy ruling occurred (see the Universal Tournament Rules, section 18). If slow play has significantly affected the result of the match, the judge should upgrade the penalty as appropriate.
 
-Slow Play—Playing Slowly REL 1 Caution 142.
-
-
-
-REL 2 REL 3 Caution Warning REL 4 Warning REL 5 Warning Slow Play—Exceeding the Pregame Time Limit Definition A player exceeds the time limit for completing his or her pregame steps.
+Slow Play—Playing Slowly REL 1 Caution REL 2 REL 3 Caution Warning REL 4 Warning REL 5 Warning Slow Play—Exceeding the Pregame Time Limit Definition A player exceeds the time limit for completing his or her pregame steps.
 
 Example
 
@@ -714,21 +641,16 @@ Philosophy This penalty assumes the player is not intentionally stalling. If the
 
 Penalty A 1-minute time extension is included with the penalty.
 
-Slow Play—Exceeding the Pregame Time Limit REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Caution Warning Warning 150.
+Slow Play—Exceeding the Pregame Time Limit REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Caution Warning Warning UNSPORTING CONDUCT This section deals with unsporting conduct at tournaments. A player does not have to be actively involved in a match to receive a penalty for unsporting conduct.
 
 
 
-UNSPORTING CONDUCT This section deals with unsporting conduct at tournaments. A player does not have to be actively involved in a match to receive a penalty for unsporting conduct.
 
-
-
-151.
 
 
 
 Unsporting Conduct—Minor Definition Minor unsporting conduct is defined as behavior that may be disruptive to a person at the tournament, but that has no significant impact on the operation of the tournament in any way.
 
-Examples
 
 (A) A player uses profanity in the presence of a parent or young player.
 
@@ -738,13 +660,9 @@ Philosophy Different levels of unsporting conduct should be penalized accordingl
 
 
 
-Penalty Unsporting Conduct—Minor All Levels Warning 152.
 
+Penalty Unsporting Conduct—Minor All Levels Warning Unsporting Conduct—Major Definition Major unsporting conduct is defined as behavior that is disruptive to a player or players at the tournament, but does not cause delays or include any form of physical contact or significant emotional distress.
 
-
-Unsporting Conduct—Major Definition Major unsporting conduct is defined as behavior that is disruptive to a player or players at the tournament, but does not cause delays or include any form of physical contact or significant emotional distress.
-
-Examples
 
 (A) A player repeatedly calls a judge and argues that his opponent should lose the game for insignificant procedural oversights.
 
@@ -752,13 +670,8 @@ Examples
 
 Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is always the final authority on what constitutes unsporting conduct and is free to interpret the guidelines as he or she sees fit.
 
-Penalty Unsporting Conduct—Major REL 1 REL 2 REL 3 Game Game Match 153.
+Penalty Unsporting Conduct—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match Unsporting Conduct—Severe Definition Severe unsporting conduct is defined as behavior that is disruptive to a player or players at a tournament, causes delays, and may include any form of physical contact or significant emotional distress.
 
-
-
-REL 4 Match REL 5 Match Unsporting Conduct—Severe Definition Severe unsporting conduct is defined as behavior that is disruptive to a player or players at a tournament, causes delays, and may include any form of physical contact or significant emotional distress.
-
-Examples
 
 (A) A player pulls a chair from beneath another player, causing her to fall to the ground with a minor injury.
 
@@ -766,23 +679,19 @@ Examples
 
 
 
+
 Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is always the final authority on what constitutes unsporting conduct and is free to interpret the guidelines as he or she sees fit.
 
-Penalty Unsporting Conduct—Severe All Levels Disqualification without prize 160.
+Penalty Unsporting Conduct—Severe All Levels Disqualification without prize Cheating This section deals with intentionally committed infractions that can give a player a significant advantage over others.
 
 
 
-Cheating This section deals with intentionally committed infractions that can give a player a significant advantage over others.
 
-
-
-161.
 
 
 
 Cheating—Bribery Definition A player attempts to bribe an opponent into conceding, drawing, or changing the results of a match, or two players attempt to determine the outcome of a game or match using a random method such as a coin flip or die roll. Refer to section 25 of the Universal Tournament Rules for a more detailed description of what constitutes bribery.
 
-Examples
 
 (A) A player in a Swiss round offers his opponent $100 to concede the match.
 
@@ -792,13 +701,10 @@ Philosophy Bribery disrupts the integrity of the tournament and is strictly forb
 
 Randomly determining the outcome of a game or match is also specifically prohibited. Please refer to section 25 of the Universal Tournament Rules to ensure the proper application of this penalty.
 
-Penalty Cheating—Bribery All Levels Disqualification without prize 162.
-
-
-
-Cheating—Stalling Definition A player intentionally plays slowly in order to take advantage of the time limit.
+Penalty Cheating—Bribery All Levels Disqualification without prize Cheating—Stalling Definition A player intentionally plays slowly in order to take advantage of the time limit.
 
 Refer to section 161 for unintentional slow play.
+
 
 
 
@@ -808,13 +714,8 @@ Example
 
 Philosophy If it is clear that a player is stalling, he or she should face a serious penalty.
 
-Penalty Cheating—Stalling REL 1 REL 2 REL 3 Match Match Match 163.
+Penalty Cheating—Stalling REL 1 REL 2 REL 3 Match Match Match REL 4 DQ REL 5 DQ Cheating—Fraud Definition A player intentionally misrepresents rules, procedures, personal information, or any other relevant tournament information.
 
-
-
-REL 4 DQ REL 5 DQ Cheating—Fraud Definition A player intentionally misrepresents rules, procedures, personal information, or any other relevant tournament information.
-
-Examples
 
 (A) A player uses a fake name and DCI number when registering for a tournament.
 
@@ -822,15 +723,11 @@ Examples
 
 Philosophy There should be zero tolerance for this type of activity.
 
-Penalty Cheating—Fraud All Levels Disqualification without prize 164.
+Penalty Cheating—Fraud All Levels Disqualification without prize Cheating—Other Definition This category includes any intentional infraction that does not fall into the categories of bribery, stalling, or fraud.
 
-
-
-Cheating—Other Definition This category includes any intentional infraction that does not fall into the categories of bribery, stalling, or fraud.
-
-Examples
 
 (A) A player intentionally looks at the faces of his opponent’s cards while shuffling and uses this information to stack the cards in an order unfavorable for the opponent.
+
 
 
 
@@ -857,6 +754,7 @@ For the most recent version of this document, or to learn about DCI tournaments 
 DCI Website: thedci.com DCI Judge’s Website: wizards.com/dci/judge/Welcome.asp Email: dcijudge@wizards.com (DCI judge certification and training administrator)
 
 Phone: (800) 324-6496 (Wizards of the Coast® Game Support)
+
 
 
 

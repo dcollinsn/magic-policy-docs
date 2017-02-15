@@ -38,9 +38,11 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS 1. General Philosophy 10. Definition of Rules Enforcement Level (REL)
 
-20. Definition of Penalties 30. Applying Penalties 40. Repeat Offenses 50. Player Communication 51. Shortcuts 52. Out-of-Order Sequencing 100. Universal Infractions 110. Deck/Warband Errors 111. Deck/Warband Error — Illegal Decklist 112. Deck/Warband Error — Deck/Decklist Mismatch 113. Deck/Warband Error — Improper Registration of Limited Card Pool 114. Deck/Warband Error — Lost Sideboard/Miniature 120. Game Play Errors 121. Game Play Error — Incorrect Representation 122. Game Play Error — Illegal Game State 123. Game Play Error — Missed Trigger 124. Game Play Error — Failure to Reveal 125. Game Play Error — Game Rule Violation 126. Game Play Error — Failure to Maintain Game State 130. Tournament Errors 131. Tournament Error — Tardiness 132. Tournament Error — Outside Assistance 133. Tournament Error — Slow Play 134. Tournament Error — Insufficient Randomization 135. Tournament Error — Failure to Follow Official Announcements 136. Tournament Error — Draft Procedure Violation 137. Tournament Error — Player Communication Violation 140. Unsporting Conduct 141. Unsporting Conduct — Minor 142. Unsporting Conduct — Major 143. Unsporting Conduct — Randomly Determining a Winner 144. Unsporting Conduct — Bribery and Wagering 145. Unsporting Conduct — Aggressive Behavior 146. Unsporting Conduct — Theft of Tournament Material 150. Cheating 151. Cheating — Stalling 152. Cheating — Fraud 153. Cheating — Hidden Information Violation 154. Cheating — Manipulation of Game Materials 200. Card Game-Specific Infractions 210. Card Drawing 211. Card Drawing — Looking at Extra Cards 212. Card Drawing — Drawing Extra Cards 213. Card Drawing — Improper Drawing at Start of Game 214. Card Drawing — Failure to Discard 220. Marked Cards 221. Marked Cards — No Pattern 222. Marked Cards — Pattern 300. Miniatures Game-Specific Infractions 310. Dice Errors 311. Dice Error — Too Few Rolled 312. Dice Error — Too Many Rolled Appendix A — Penalty Quick Reference Appendix B — Changes from Previous Version Appendix C — Using Reporter V2.X with these guidelines Appendix D — Rule Enforcement Levels of Premiere Programs PAGE 1. GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
+CONTENTS General Philosophy Definition of Rules Enforcement Level (REL)
+
+
+Definition of Penalties Applying Penalties Repeat Offenses Player Communication Shortcuts Out-of-Order Sequencing Universal Infractions Deck/Warband Errors Deck/Warband Error — Illegal Decklist Deck/Warband Error — Deck/Decklist Mismatch Deck/Warband Error — Improper Registration of Limited Card Pool Deck/Warband Error — Lost Sideboard/Miniature Game Play Errors Game Play Error — Incorrect Representation Game Play Error — Illegal Game State Game Play Error — Missed Trigger Game Play Error — Failure to Reveal Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Randomization Tournament Error — Failure to Follow Official Announcements Tournament Error — Draft Procedure Violation Tournament Error — Player Communication Violation Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Randomly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Cheating Cheating — Stalling Cheating — Fraud Cheating — Hidden Information Violation Cheating — Manipulation of Game Materials Card Game-Specific Infractions Card Drawing Card Drawing — Looking at Extra Cards Card Drawing — Drawing Extra Cards Card Drawing — Improper Drawing at Start of Game Card Drawing — Failure to Discard Marked Cards Marked Cards — No Pattern Marked Cards — Pattern Miniatures Game-Specific Infractions Dice Errors Dice Error — Too Few Rolled Dice Error — Too Many Rolled Appendix A — Penalty Quick Reference Appendix B — Changes from Previous Version Appendix C — Using Reporter V2.X with these guidelines Appendix D — Rule Enforcement Levels of Premiere Programs PAGE 1. GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
 
 or to prevent a situation from escalating. Judges do not stop play errors from occurring, but deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
 
@@ -82,13 +84,14 @@ The infractions in this document (with the exception of the Cheating and Unsport
 
 
 
-10.
+
 
 
 
 DEFINITION OF RULES ENFORCEMENT LEVEL (REL)
 
 Rules Enforcement Level is a means to communicate to the players and judges what expectations they can have of the event in terms of rigidity of rules enforcement, technically correct play, and procedures used.
+
 
 
 
@@ -150,7 +153,7 @@ Offenses will often receive a harsher penalty, even for minor errors.
 
 
 
-20.
+
 
 
 
@@ -165,6 +168,7 @@ These events will use several certified judges in support.
 DEFINITION OF PENALTIES Caution A Caution is a verbal admonition to a player. This is the lightest penalty that can be given. Cautions are used in situations of minor incorrect play or disruption where a quick word can easily correct the behavior or situation. It is also used for common mistakes in Regular events where the potential for advantage is low. No extra time is required for a Caution, as any Caution that takes more than a few moments to resolve should be upgraded to a Warning. A Caution is noted for the duration of the tournament in case of repeated offense, but does not need to be reported to the DCI.
 
 The word “caution” does not need to be used in issuing this penalty. Any verbal admonition to a player, even if it is not made clear to the player that an official Caution has been issued, should be considered a Caution for purposes of upgrading repeated infractions.
+
 
 
 
@@ -206,6 +210,7 @@ Disqualification A Disqualification is issued for activity that damages the inte
 
 
 
+
 The recipient of a Disqualification does not need to be a player in the tournament. He or she may be a spectator or other bystander. If this happens, he or she must be entered into the tournament in DCI Reporter so that he or she may be disqualified and reported to the DCI.
 
 Disqualification can occur without proof of action so long as the Head Judge determines sufficient information exists to believe the tournament’s integrity may have been compromised. It is recommended that the Head Judge’s report to the DCI reflect this fact.
@@ -218,7 +223,7 @@ Reports for the DCI Investigations Manager are submitted via the Judge Center: h
 
 
 
-30.
+
 
 
 
@@ -246,11 +251,12 @@ Separate infractions committed or discovered at the same time are treated as sep
 
 
 
+
 Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit, even intentionally, are not covered by a specific infraction should be handled initially with a Caution. If repeated, directly instruct the player not to repeat the offense, and handle further offenses as Unsporting Conduct — Major for failing to follow the direct instruction of a tournament official.
 
 
 
-40.
+
 
 
 
@@ -259,6 +265,7 @@ REPEAT OFFENSES The penalty for the first offense is listed in the "Penalty" por
 Caution — Warning — Game Loss — Match Loss — Disqualification Penalties continue to be upgraded with further offenses. Repeat offenses at Regular events may be upgraded at the Head Judge’s discretion. A Match Point penalty is never used for repeat offenses. If a Match Point penalty is issued and the offense is repeated, it is upgraded to a Match Loss.
 
 Game Play Errors have their own separate path that should be used for repeat offenses of infractions in that section.
+
 
 
 
@@ -386,6 +393,7 @@ Judges are encouraged to help players in determining free information, but must 
 
 
 
+
 51.
 
 
@@ -492,6 +500,7 @@ it is up to the team that knows it may be relevant to ask for clarification or t
 
 
 
+
 52.
 
 
@@ -506,7 +515,8 @@ Players at Professional REL events are expected to play in a technically precise
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -530,6 +540,7 @@ E. A player declares a blocker, then activates a Treetop Village to block as wel
 
 
 
+
 100.
 
 
@@ -538,7 +549,7 @@ UNIVERSAL INFRACTIONS These are errors that apply to all games, though individua
 
 
 
-110.
+
 
 
 
@@ -554,7 +565,7 @@ Sideboards are considered to be part of a player’s deck for the purpose of the
 
 
 
-111.
+
 
 
 
@@ -584,7 +595,8 @@ In events that are not using decklists, the contents of the deck itself are cons
 
 
 
-Examples A. A player in a Magic tournament has 59 cards listed on her decklist when the minimum is 60.
+
+A. A player in a Magic tournament has 59 cards listed on her decklist when the minimum is 60.
 
 B. A player in an Extended Magic tournament lists Skullclamp (a banned card) on his decklist.
 
@@ -622,7 +634,7 @@ the three Terrors would be added to the decklist and the player would be allowed
 
 
 
-112.
+
 
 
 
@@ -634,7 +646,8 @@ The infraction for a lost miniature or lost sideboard cards is different and cov
 
 
 
-Examples A. A player in a Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
+
+A. A player in a Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
 
 B. A player in an Extended Magic tournament is playing with Skullclamp (a banned card) in his deck. His decklist indicates a legal deck with no banned cards.
 
@@ -643,6 +656,7 @@ C. A player in a Magic tournament has a Pacifism in his deck from a previous opp
 D. A player in a Dreamblade tournament has four copies of Blight Rat in his warband because he accidentally picked up a previous opponent’s Blight Rat.
 
 E. A player in a Dreamblade tournament has listed only 15 miniatures, but is playing 16 miniatures.
+
 
 
 
@@ -668,7 +682,7 @@ In the case that cards from the main deck are lost and cannot be recovered or re
 
 
 
-113.
+
 
 
 
@@ -676,7 +690,8 @@ Deck/Warband Error — Improper Registration of Limited Card Pool Definition Thi
 
 
 
-Examples A. A player registers one copy of a card one slot below the card physically present. There are no copies of the registered card.
+
+A. A player registers one copy of a card one slot below the card physically present. There are no copies of the registered card.
 
 B. A player fails to register a miniature opened in a starter when registering a warband.
 
@@ -690,11 +705,12 @@ Philosophy The correctness of card pools at a limited event is important. Errors
 
 
 
+
 Penalty Regular Caution Competitive Warning Professional Warning Once the judge has verified that the registering player has made an error, correct the decklist.
 
 
 
-114.
+
 
 
 
@@ -704,7 +720,8 @@ Similarly, if a player no longer has the full contents of his or her registered 
 
 
 
-Examples A. A player in a Dreamblade tournament finds herself with only 15 miniatures instead of the 16 expected.
+
+A. A player in a Dreamblade tournament finds herself with only 15 miniatures instead of the 16 expected.
 
 The 15 remaining miniatures are all registered on her registration list, but the 16th miniature registered cannot be found.
 
@@ -722,6 +739,7 @@ Penalty All Levels Caution If the miniatures or cards are discovered to be missi
 
 
 
+
 120.
 
 
@@ -732,15 +750,15 @@ Most Game Play Error infractions are assumed to have been committed unintentiona
 
 Some infractions (such as Drawing Extra Cards) have their own separate penalties defined specific to their game types. All remaining Game Play Errors fall into one of the following five categories:
 
-1.
 
-2.
 
-3.
 
-4.
 
-5.
+
+
+
+
+
 
 
 
@@ -762,7 +780,7 @@ Caution — Warning — Warning — Game Loss — Match Loss — Disqualificatio
 
 
 
-121.
+
 
 
 
@@ -770,7 +788,8 @@ Game Play Error — Incorrect Representation Definition Due to a minor clerical 
 
 
 
-Examples A. A player in a Magic tournament forgets to put counters onto a creature that comes into play with counters on it.
+
+A. A player in a Magic tournament forgets to put counters onto a creature that comes into play with counters on it.
 
 
 
@@ -784,6 +803,7 @@ Penalty All Levels Caution Correct the erroneous representation.
 
 
 
+
 122.
 
 
@@ -792,7 +812,8 @@ Game Play Error — Illegal Game State Definition The ongoing state of the curre
 
 
 
-Examples A. In a Magic tournament, two copies of the same Legendary permanent are in play.
+
+A. In a Magic tournament, two copies of the same Legendary permanent are in play.
 
 B. In a Magic tournament, an Armadillo Cloak (cost 1GW) is enchanting a creature with Protection from Green.
 
@@ -808,7 +829,7 @@ Penalty Regular Caution Competitive Warning Professional Warning Apply state-bas
 
 
 
-123.
+
 
 
 
@@ -816,7 +837,8 @@ Game Play Error — Missed Trigger Definition A game event triggers, but the pla
 
 
 
-Examples A. In a Magic tournament, a player has Braids, Cabal Minion in play. After he has declared attackers, he realizes that he has failed to sacrifice a permanent to Braids' upkeep trigger.
+
+A. In a Magic tournament, a player has Braids, Cabal Minion in play. After he has declared attackers, he realizes that he has failed to sacrifice a permanent to Braids' upkeep trigger.
 
 B. In a Magic tournament, a player realizes that she forgot to remove the final counter from a Suspend spell.
 
@@ -846,7 +868,7 @@ If the missed trigger is not caught within a time that a player could reasonably
 
 
 
-124.
+
 
 
 
@@ -854,7 +876,8 @@ Game Play Error — Failure to Reveal Definition A player forgets to reveal info
 
 
 
-Examples A. A player in a Magic tournament plays Worldly Tutor and places the card he searched for on top of his library without revealing it.
+
+A. A player in a Magic tournament plays Worldly Tutor and places the card he searched for on top of his library without revealing it.
 
 B. A player in a Magic tournament resolves the trigger from his Dark Confidant., but puts the card directly into his hand.
 
@@ -874,6 +897,7 @@ teammates and opponents who might potentially have benefited from the error rece
 
 
 
+
 125.
 
 
@@ -882,7 +906,8 @@ Game Play Error — Game Rule Violation Definition This infraction covers the ma
 
 
 
-Examples A. In a Dreamblade tournament, a player forgets to pay extra spawn points for a miniature when that player does not have miniatures of the appropriate aspects in play or in the graveyard.
+
+A. In a Dreamblade tournament, a player forgets to pay extra spawn points for a miniature when that player does not have miniatures of the appropriate aspects in play or in the graveyard.
 
 B. In a Magic tournament, a player plays Wrath of God for 3W (actual cost 2WW).
 
@@ -910,7 +935,7 @@ either reverse all actions or none. Additionally, teammates and opponents who mi
 
 
 
-126.
+
 
 
 
@@ -918,9 +943,11 @@ Game Play Error — Failure to Maintain Game State Definition This infraction is
 
 
 
-Examples A. In a Magic tournament, a player's opponent forgets to discard a card to Masticore during his upkeep. It is not noticed until the end of turn.
+
+A. In a Magic tournament, a player's opponent forgets to discard a card to Masticore during his upkeep. It is not noticed until the end of turn.
 
 B. In a Dreamblade tournament, a player’s opponent forgets to sacrifice a creature after spawning a creature with the Appease ability. The error is not noticed until the end of turn.
+
 
 
 
@@ -936,13 +963,14 @@ Penalty Regular Caution Competitive Warning Professional Warning Judges should n
 
 
 
+
 130. TOURNAMENT ERRORS Tournament errors are violations of the Universal Tournament Rules or the Floor Rules for the game being played.
 
 If the judge believes that the error was intentional, he or she should first examine the Cheating infractions to see if one should be used instead.
 
 
 
-131.
+
 
 
 
@@ -950,7 +978,8 @@ Tournament Error — Tardiness Definition A player fails to comply with announce
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -982,7 +1011,7 @@ Repeated Tardiness infractions are only upgraded in exceptional circumstances.
 
 
 
-132.
+
 
 
 
@@ -1012,6 +1041,7 @@ Notes made during a match may be referenced during that match or between matches
 
 
 
+
 Examples A. During a Magic tournament match, a player references sideboarding notes that were created before the tournament.
 
 B. A player in a Dreamblade tournament references notes about his opponent’s warband after arriving at the table for his match.
@@ -1030,7 +1060,7 @@ Penalty Regular Warning Competitive Match Loss Professional Match Loss Spectator
 
 
 
-133.
+
 
 
 
@@ -1040,7 +1070,8 @@ Stalling.
 
 
 
-Examples A. A player in a Dreamblade tournament repeatedly manipulates his figures without committing to a specific course of action.
+
+A. A player in a Dreamblade tournament repeatedly manipulates his figures without committing to a specific course of action.
 
 B. A player in a Magic tournament repeatedly reviews his opponent’s graveyard without any significant change in game state.
 
@@ -1064,13 +1095,14 @@ Penalty All Levels Warning An extra turn is awarded for each player, to be appli
 
 
 
+
 No extra turns are awarded if the match is already in extra turns, though the Warning still applies.
 
 If Slow Play has significantly affected the result of the match, the Head Judge may upgrade the penalty.
 
 
 
-134.
+
 
 
 
@@ -1078,7 +1110,8 @@ Tournament Error — Insufficient Randomization Definition A player unintentiona
 
 
 
-Examples A. A player in a Magic tournament forgets to shuffle his library after searching for a card.
+
+A. A player in a Magic tournament forgets to shuffle his library after searching for a card.
 
 B. A player in a Magic tournament searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
 
@@ -1098,7 +1131,7 @@ Penalty Regular Warning Competitive Game Professional Game If a Game Loss is cal
 
 
 
-135.
+
 
 
 
@@ -1106,7 +1139,8 @@ Tournament Error — Failure to Follow Official Announcements Definition This in
 
 
 
-Examples A. In a tournament, a player forgets to list her name or DCI# on a decklist following such an announcement made during the tournament registration period.
+
+A. In a tournament, a player forgets to list her name or DCI# on a decklist following such an announcement made during the tournament registration period.
 
 B. A player smokes in a venue where signage indicates such is forbidden.
 
@@ -1116,19 +1150,17 @@ C. A player fails to leave an area of the venue that a general announcement has 
 
 
 
+
 Philosophy Players are required to be attentive and follow the instructions of tournament officials for the efficiency of the tournament and safety of all.
 
 
 
-Penalty All Levels Warning 136.
+Penalty All Levels Warning Tournament Error — Draft Procedure Violation Definition A player commits a technical error during a draft. This does not cover any attempts to view or reveal cards that are hidden, which is handled by Cheating — Hidden Information Violation.
 
 
 
-Tournament Error — Draft Procedure Violation Definition A player commits a technical error during a draft. This does not cover any attempts to view or reveal cards that are hidden, which is handled by Cheating — Hidden Information Violation.
 
-
-
-Examples A. A player passes a booster to his left when it is supposed to go to his right.
+A. A player passes a booster to his left when it is supposed to go to his right.
 
 B. A player exceeds the amount of time allotted for a pick.
 
@@ -1144,7 +1176,7 @@ Penalty Regular Caution Competitive Caution Professional Warning Announcements p
 
 
 
-137.
+
 
 
 
@@ -1178,7 +1210,7 @@ Judges should inform the player how his or her conduct is disruptive. The player
 
 
 
-141.
+
 
 
 
@@ -1188,7 +1220,8 @@ It may affect the comfort level of those around the individual, but determining 
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1218,7 +1251,7 @@ If a Game Loss is issued for repeated or upgraded infractions, and it occurs at 
 
 
 
-142.
+
 
 
 
@@ -1229,6 +1262,7 @@ Unsporting Conduct — Major Definition Unsporting Conduct — Major infractions
 
 
 Failing to follow a direct instruction from a tournament official.
+
 
 
 
@@ -1248,7 +1282,8 @@ Aggressive or violent behavior that is not directed at another person or another
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1286,7 +1321,7 @@ Penalty All Levels Game The player must correct the behavior immediately, and be
 
 
 
-143.
+
 
 
 
@@ -1294,7 +1329,8 @@ Unsporting Conduct — Randomly Determining a Winner Definition Players use or o
 
 
 
-Examples A. As time is called in a tournament, two players about to draw roll a die to determine the winner.
+
+A. As time is called in a tournament, two players about to draw roll a die to determine the winner.
 
 B. A player offers to flip a coin to determine the winner of a match.
 
@@ -1312,7 +1348,7 @@ In most cases this penalty will be issued to both players, unless the other play
 
 
 
-144.
+
 
 
 
@@ -1322,7 +1358,8 @@ Wagering occurs when a player or spectator at a tournament places a bet on the o
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1352,7 +1389,7 @@ Penalty All Levels Disqualification At Regular REL, the Head Judge may, at his o
 
 
 
-145.
+
 
 
 
@@ -1360,7 +1397,8 @@ Unsporting Conduct — Aggressive Behavior Definition A player acts in a threate
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1390,11 +1428,12 @@ Philosophy The safety of all people at a tournament is of paramount importance. 
 
 
 
+
 Penalty All Levels Disqualification The offender should be asked to leave the venue by the organizer.
 
 
 
-146.
+
 
 
 
@@ -1402,7 +1441,8 @@ Unsporting Conduct — Theft of Tournament Material Definition A player steals m
 
 
 
-Examples A. A player in a limited tournament pockets a Magic foil rare that he opened in the sealed pool he is registering.
+
+A. A player in a limited tournament pockets a Magic foil rare that he opened in the sealed pool he is registering.
 
 B. A player steals cards from the sideboard of his opponent.
 
@@ -1422,6 +1462,7 @@ Penalty All Levels Disqualification The offender should be asked to leave the ve
 
 
 
+
 150.
 
 
@@ -1432,7 +1473,7 @@ At Regular REL only, the Head Judge may downgrade the penalty for a Cheating inf
 
 
 
-151.
+
 
 
 
@@ -1456,15 +1497,12 @@ Philosophy If it is clear that a player is stalling, the integrity of the match 
 
 
 
-Penalty All Levels Disqualification 152.
+Penalty All Levels Disqualification Cheating — Fraud Definition A person intentionally violates the Player Communication Policy or intentionally misrepresents procedures, personal information, or any other relevant tournament information in an attempt to gain advantage. Note that Fraud, like most cheating, is determined by an investigation and will often appear on the surface as a Game Play Error or Tournament Error.
 
 
 
-Cheating — Fraud Definition A person intentionally violates the Player Communication Policy or intentionally misrepresents procedures, personal information, or any other relevant tournament information in an attempt to gain advantage. Note that Fraud, like most cheating, is determined by an investigation and will often appear on the surface as a Game Play Error or Tournament Error.
 
-
-
-Examples A. A player enters a tournament under an assumed name and/or using a different DCI number in an attempt to manipulate ratings.
+A. A player enters a tournament under an assumed name and/or using a different DCI number in an attempt to manipulate ratings.
 
 B. A player alters the results of a match after the match is over.
 
@@ -1482,21 +1520,19 @@ G. A player gives false or misleading information to a judge or tournament offic
 
 
 
+
 Philosophy There will be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud. In particular, teammates observing the game are expected to point out problems and summon a judge to help deal with them if necessary.
 
 A player must be aware that he or she has committed an error in representation in order for the infraction to be Fraud. For example, a player targeting a black creature with Terror has not committed Fraud if he or she forgot that Terror can not target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes he or she was aware and hoping that his or her opponent would miss it.
 
 
 
-Penalty All Levels Disqualification 153.
+Penalty All Levels Disqualification Cheating — Hidden Information Violation Definition A player, spectator or other tournament participant intentionally and illegally seeks or reveals information in an attempt to gain advantage. A player has not committed an infraction if the information was revealed to them by his or her opponent accidentally, nor is he or she required to advise an opponent who may be doing so, as long as he or she does not go to excessive lengths to take advantage of this.
 
 
 
-Cheating — Hidden Information Violation Definition A player, spectator or other tournament participant intentionally and illegally seeks or reveals information in an attempt to gain advantage. A player has not committed an infraction if the information was revealed to them by his or her opponent accidentally, nor is he or she required to advise an opponent who may be doing so, as long as he or she does not go to excessive lengths to take advantage of this.
 
-
-
-Examples A. A player in a Magic booster draft intentionally reveals a card she drafted to another player during the draft.
+A. A player in a Magic booster draft intentionally reveals a card she drafted to another player during the draft.
 
 B. A player in a Magic booster draft intentionally peeks at the cards from which his neighbor is selecting.
 
@@ -1510,15 +1546,12 @@ Philosophy Hidden information is a fundamental part of the play experience of ma
 
 
 
-Penalty All Levels Disqualification 154.
+Penalty All Levels Disqualification Cheating — Manipulation of Game Materials Definition A player physically manipulates game materials (cards, dice, sleeves, figures, etc.) illegally to try to gain an advantage.
 
 
 
-Cheating — Manipulation of Game Materials Definition A player physically manipulates game materials (cards, dice, sleeves, figures, etc.) illegally to try to gain an advantage.
 
-
-
-Examples A. A player in a Magic tournament orders some cards in his deck during a search and does not sufficiently randomize afterwards.
+A. A player in a Magic tournament orders some cards in his deck during a search and does not sufficiently randomize afterwards.
 
 B. A player in a Dreamblade tournament intentionally rolls dice into other dice that have been rolled but not tabulated, in an attempt to change the result.
 
@@ -1527,6 +1560,7 @@ C. A player in a Dreamblade tournament moves a figure while her opponent is not 
 D. A player in a Magic tournament marks all of her Islands with a thumbnail mark on the corner of the sleeve.
 
 E. A player in a Magic tournament draws extra cards when his opponent is not looking.
+
 
 
 
@@ -1548,7 +1582,7 @@ CARD GAME-SPECIFIC INFRACTIONS These infractions apply to games using cards, suc
 
 
 
-210.
+
 
 
 
@@ -1556,7 +1590,7 @@ CARD DRAWING Card games usually involve drawing and discarding cards. Infraction
 
 
 
-211.
+
 
 
 
@@ -1570,7 +1604,8 @@ This penalty is applied only once if one or more cards are seen in the same acti
 
 
 
-Examples A.
+
+A.
 
 B.
 
@@ -1602,6 +1637,7 @@ Care must be taken before shuffling to make sure that there are no "legally know
 
 
 
+
 212.
 
 
@@ -1612,7 +1648,8 @@ If a player moves cards into his or her hand while correctly resolving a legally
 
 
 
-Examples A. A player in a Magic tournament draws 4 cards after playing Ancestral Recall.
+
+A. A player in a Magic tournament draws 4 cards after playing Ancestral Recall.
 
 B. A player in a Magic tournament draws an extra card from the ability of a Howling Mine that is no longer in play.
 
@@ -1630,7 +1667,7 @@ Penalty Regular Warning Competitive Game Professional Game If a Game Loss is cal
 
 
 
-213.
+
 
 
 
@@ -1638,7 +1675,8 @@ Card Drawing — Improper Drawing at Start of Game Definition Players committing
 
 
 
-Examples A. A player in a Magic tournament draws eight cards in her initial hand (instead of seven).
+
+A. A player in a Magic tournament draws eight cards in her initial hand (instead of seven).
 
 B. A player in a Magic tournament draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
@@ -1652,11 +1690,12 @@ Philosophy This is generally a minor infraction and deserves a fairly minor pena
 
 
 
+
 Penalty Regular Caution Competitive Warning Professional Warning If the player has drawn too few cards, instruct them to draw up to the correct number. If the player has drawn too many cards, the judge will remove one more than the number of excess cards from the hand at random and shuffle them into the deck. The player may continue mulliganning from that point if he or she wishes.
 
 
 
-214.
+
 
 
 
@@ -1664,7 +1703,8 @@ Card Drawing — Failure to Discard Definition A player fails to move one or mor
 
 
 
-Examples A. A player in a Magic tournament discards a single non-land card to Compulsive Research.
+
+A. A player in a Magic tournament discards a single non-land card to Compulsive Research.
 
 B. A player in a Magic tournament forgets to discard down to seven cards at the end of his turn.
 
@@ -1680,7 +1720,7 @@ Penalty Regular Caution Competitive Warning Professional Warning The player move
 
 
 
-220.
+
 
 
 
@@ -1690,7 +1730,7 @@ If the player is using sleeves, the cards must be examined while in the sleeves 
 
 
 
-221.
+
 
 
 
@@ -1698,7 +1738,8 @@ Marked Cards — No Pattern Definition A player's cards are marked or oriented i
 
 
 
-Examples A. A player in a Magic tournament has small marks on a few of his sleeves. The markings are on a Mountain,
+
+A. A player in a Magic tournament has small marks on a few of his sleeves. The markings are on a Mountain,
 
 a Loxodon Hierarch, and a Lightning Helix.
 
@@ -1712,11 +1753,12 @@ Philosophy If the possibility for advantage is fairly low, the player should not
 
 
 
+
 Penalty Regular Caution Competitive Warning Professional Warning The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy.
 
 
 
-222.
+
 
 
 
@@ -1726,7 +1768,8 @@ the infraction is Cheating — Manipulation of Game Materials.
 
 
 
-Examples A. A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
+
+A. A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
 
 B. A player in a Magic tournament has four Early Harvests in her deck, all of which are in card sleeves that have a slight bend in one corner.
 
@@ -1746,6 +1789,7 @@ If a Game Loss is called for in the Swiss portion of an event that has single-ga
 
 
 
+
 300.
 
 
@@ -1756,7 +1800,7 @@ Dragons® Miniatures.
 
 
 
-310.
+
 
 
 
@@ -1764,7 +1808,7 @@ DICE ERRORS Many miniatures games require players to determine a number of dice 
 
 
 
-311.
+
 
 
 
@@ -1772,7 +1816,8 @@ Dice Error — Too Few Rolled Definition A player rolls fewer dice than required
 
 
 
-Examples A. A player in a Dreamblade tournament attacks with a seven-power creature, but only rolls six attack dice.
+
+A. A player in a Dreamblade tournament attacks with a seven-power creature, but only rolls six attack dice.
 
 B. A player in a Dreamblade tournament rolls three attack dice for a deathblow when the creature’s power is five.
 
@@ -1786,7 +1831,7 @@ Penalty Regular Caution Competitive Warning Professional Warning The player need
 
 
 
-312.
+
 
 
 
@@ -1794,7 +1839,8 @@ Dice Error — Too Many Rolled Definition A player rolls more dice than required
 
 
 
-Examples A. In a Dreamblade tournament, a player rolls six attack dice when the combined power of his attackers is only five.
+
+A. In a Dreamblade tournament, a player rolls six attack dice when the combined power of his attackers is only five.
 
 
 
@@ -1807,6 +1853,7 @@ the potential advantage of a player rolling extra dice without his or her oppone
 Penalty Regular Warning Competitive Warning Professional Game The opponent chooses which extra dice are not used.
 
 If a Game Loss is called for in the Swiss portion of an event that has single-game matches, a Match Point penalty is issued instead and the game continued.
+
 
 
 
@@ -1832,43 +1879,60 @@ USC — Randomly Determining a Winner Disqualification USC — Bribery and Wager
 
 
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 1, 2008 52: New section covering how to handle game actions that are taken out of order.
 
-121: Removed two examples that are now properly handled under Out-of-Order Sequencing.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 1, 2008 New section covering how to handle game actions that are taken out of order.
 
-124: Made it clear that an optional reveal should be treated as though that option was not selected.
 
-132: Merged into section 131. Playing the wrong opponent is treated as Tardiness.
+Removed two examples that are now properly handled under Out-of-Order Sequencing.
 
-138: Moved to section 132 to fill the gap.
+
+Made it clear that an optional reveal should be treated as though that option was not selected.
+
+
+Merged into section 131. Playing the wrong opponent is treated as Tardiness.
+
+
+Moved to section 132 to fill the gap.
 
 June 1, 2008 General: Lots of grammatical touchups. Using “he or she” to refer to a singular player.
 
 General: Removed distinction between Disqualification with and without prize.
 
-1: Judges may intervene to prevent errors outside of game situations.
 
-40: Added reminder that Game Play Errors have their own upgrade path.
+Judges may intervene to prevent errors outside of game situations.
 
-110: Making the fix for the infraction in single-game matches handled by the specific penalty.
 
-112: Cleaner explanation of the first turn of the game.
+Added reminder that Game Play Errors have their own upgrade path.
 
-130: Removed “unintentional” from the definition.
 
-134: In games that are to continue, take into account any ordered parts of the deck from game play when randomizing.
+Making the fix for the infraction in single-game matches handled by the specific penalty.
 
-137: Now a Caution at Regular REL.
 
-150: Removed redundant sentence from first paragraph (now encompassed by the second paragraph).
+Cleaner explanation of the first turn of the game.
 
-151: Added example D to indicate that Stalling can take place outside of a game.
 
-210: Infractions in this section follow the Game Play Error upgrade path.
+Removed “unintentional” from the definition.
 
-211: Removed example D (drawing from opponent’s deck), as it is more accurately Drawing Extra Cards.
 
-212: Better separation of Definition and Philosophy.
+In games that are to continue, take into account any ordered parts of the deck from game play when randomizing.
+
+
+Now a Caution at Regular REL.
+
+
+Removed redundant sentence from first paragraph (now encompassed by the second paragraph).
+
+
+Added example D to indicate that Stalling can take place outside of a game.
+
+
+Infractions in this section follow the Game Play Error upgrade path.
+
+
+Removed example D (drawing from opponent’s deck), as it is more accurately Drawing Extra Cards.
+
+
+Better separation of Definition and Philosophy.
 
 Appendix A: Player Communication Violation updated.
 
@@ -1878,57 +1942,81 @@ General: Removal of instructions to not deviate for purposes of education (some 
 
 General: Making it clear that intentional infractions may be Cheating or Unsporting Conduct, but not always.
 
-10: Softening severity of handling infractions at Regular REL.
 
-50: Revised communication guide to take an information-centric approach.
+Softening severity of handling infractions at Regular REL.
 
-110: Lots of consolidation and cleanup in this section.
 
-111: In the absence of decklists, the deck is treated as the decklist.
+Revised communication guide to take an information-centric approach.
 
-112: Renamed to Deck/Decklist Mismatch, incorporating old Failure to Desideboard.
 
-112: Extending the deck reconfiguration option to all limited events that do not use decklists.
+Lots of consolidation and cleanup in this section.
 
-112: Provisions for continuing the game at Regular REL (now a Warning).
 
-112: New allowance for discovering the error before the game begins.
+In the absence of decklists, the deck is treated as the decklist.
 
-113: Section removed (folded into 111).
 
-114: Renumbered to 113.
+Renamed to Deck/Decklist Mismatch, incorporating old Failure to Desideboard.
 
-115: Section removed (folded into 112).
 
-116: Renumbered to 114. Added lost sideboards to the infraction.
+Extending the deck reconfiguration option to all limited events that do not use decklists.
 
-120: Most infractions in this section now Caution at Regular REL.
 
-138: Added Tournament Error — Outside Assistance for situations involving notes and spectator aid.
+Provisions for continuing the game at Regular REL (now a Warning).
 
-143: Allow for Regular REL downgrade if the player wasn’t aware they were breaking a rule.
 
-144: Allow for Regular REL downgrade if the player wasn’t aware they were breaking a rule.
+New allowance for discovering the error before the game begins.
 
-150: Allow for Regular REL downgrade if the player wasn’t aware they were breaking a rule.
 
-153: Revised and renamed to only handle intentional errors involving hidden information.
+Section removed (folded into 111).
 
-212: Redefined to remove confusion with the Comp Rules definition of draw, which was different.
 
-212: Adding moving cards into hands from the wrong zone to this infraction.
+Renumbered to 113.
 
-212: Instructions on continuing the game if needed.
 
-213: Faster approach to a remedy.
+Section removed (folded into 112).
 
-214: Discarding now covers moving cards to zones other than the graveyard.
+
+Renumbered to 114. Added lost sideboards to the infraction.
+
+
+Most infractions in this section now Caution at Regular REL.
+
+
+Added Tournament Error — Outside Assistance for situations involving notes and spectator aid.
+
+
+Allow for Regular REL downgrade if the player wasn’t aware they were breaking a rule.
+
+
+Allow for Regular REL downgrade if the player wasn’t aware they were breaking a rule.
+
+
+Allow for Regular REL downgrade if the player wasn’t aware they were breaking a rule.
+
+
+Revised and renamed to only handle intentional errors involving hidden information.
+
+
+Redefined to remove confusion with the Comp Rules definition of draw, which was different.
+
+
+Adding moving cards into hands from the wrong zone to this infraction.
+
+
+Instructions on continuing the game if needed.
+
+
+Faster approach to a remedy.
+
+
+Discarding now covers moving cards to zones other than the graveyard.
 
 Appendix A: Updated to reflect the new penalty levels.
 
 Appendix C: Deprecated.
 
 Appendix D: Updated tournament list. Grand Prix Trials are now Competitive.
+
 
 
 
@@ -1955,6 +2043,7 @@ Competitive Magic Nationals (Open)
 
 
 Competitive Magic Prerelease Regular Magic Pro Tour Professional Magic Pro Tour Qualifier Competitive Magic Regionals Competitive Magic Release Event Regular Magic Japan: U-18 Series Regular Magic The Limits Store Qualifier Regular Magic The Finals Store Qualifier Regular Magic The Limits Regional Qualifier Competitive Magic The Finals Regional Qualifier Competitive Magic The Limits Competitive Magic The Finals Competitive Magic World Championships Professional Star Wars Minis Championship Competitive Star Wars Minis Qualifer Competitive Star Wars Minis Release Event Regular
+
 
 
 
