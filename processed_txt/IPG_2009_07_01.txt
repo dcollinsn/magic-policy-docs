@@ -38,7 +38,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -223,7 +223,7 @@ Rules Enforcement Level is a means to communicate to the players and judges what
 
 
 
-The REL of an event will increase based on the prizes awarded and the distance a player may be expected to travel.
+The REL of an event will increase based on the prizes awarded and the distance a player may be expected to travel.
 
 People who travel further are often more competitive and are likely to desire correctness over fun. The REL of the event should reflect this.
 
@@ -299,7 +299,7 @@ The word “caution” does not need to be used in issuing this penalty. Any ver
 
 
 
-Warning A Warning is an officially tracked penalty. Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database.
+Warning A Warning is an officially tracked penalty. Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database.
 
 A time extension should be issued if the ruling has taken more than a minute.
 
@@ -335,7 +335,7 @@ Disqualification A Disqualification is issued for activity that damages the inte
 
 
 
-The recipient of a Disqualification does not need to be a player in the tournament. He or she may be a spectator or other bystander. If this happens, he or she must be entered into the tournament in DCI Reporter so that he or she may be disqualified and reported to the DCI.
+The recipient of a Disqualification does not need to be a player in the tournament. He or she may be a spectator or other bystander. If this happens, he or she must be entered into the tournament in DCI Reporter so that he or she may be disqualified and reported to the DCI.
 
 Disqualification can occur without proof of action so long as the Head Judge determines sufficient information exists to believe the tournament’s integrity may have been compromised. It is recommended that the Head Judge’s report to the DCI reflect this fact.
 
@@ -371,7 +371,7 @@ Some violations of tournament rules will not meet the criteria for any specific 
 
 
 
-1.4.
+1.4.
 
 
 
@@ -385,7 +385,7 @@ Game Play Errors have their own separate path that should be used for repeat off
 
 
 
-INFRACTIONS 2.
+INFRACTIONS 2.
 
 
 
@@ -509,7 +509,7 @@ If the sideboard is not kept sufficiently separate from the deck during play, it
 
 
 
-Penalty Regular Warning Competitive Game Professional Game The player must make any changes necessary to make the contents of the deck match what is recorded on the decklist. If the game is to continue, replace all illegal cards with their legal counterparts (including random cards from the deck for any illegal cards in hand) and shuffle the randomized portion of the deck. If this is not possible,
+Penalty Regular Warning Competitive Game Professional Game The player must make any changes necessary to make the contents of the deck match what is recorded on the decklist. If the game is to continue, replace all illegal cards with their legal counterparts (including random cards from the deck for any illegal cards in hand) and shuffle the randomized portion of the deck. If this is not possible,
 
 due to the illegal card being in a public zone or in a non-randomized portion of the deck, upgrade the penalty to a Game Loss.
 
@@ -561,13 +561,13 @@ Philosophy There is no advantage to playing with less than the required number o
 
 
 
-Penalty All Levels Caution If the cards are discovered to be missing during a round, or are found during a round, they may not be used in that round. If the card cannot be found between rounds, note which ones were lost. The player may continue playing without these cards until he or she succeeds in finding them or exact copies. A player is not allowed to replace the cards with items that have a different name.
+Penalty All Levels Caution If the cards are discovered to be missing during a round, or are found during a round, they may not be used in that round. If the card cannot be found between rounds, note which ones were lost. The player may continue playing without these cards until he or she succeeds in finding them or exact copies. A player is not allowed to replace the cards with items that have a different name.
 
 
 
 
 
-3.
+3.
 
 
 
@@ -621,7 +621,7 @@ C. A Voice of All is in play that continues to have had no color chosen for it.
 
 
 
-Philosophy Both players share a responsibility in allowing the game to continue in this illegal state. Because many decisions and plans may have been made based on this state, no effort should be made to back up the game in order to fix it or try to compensate for the effects of the illegal state.
+Philosophy Both players share a responsibility in allowing the game to continue in this illegal state. Because many decisions and plans may have been made based on this state, no effort should be made to back up the game in order to fix it or try to compensate for the effects of the illegal state.
 
 
 
@@ -767,7 +767,7 @@ Examples A. A player draws eight cards in her initial hand (instead of seven).
 
 
 
-B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
+B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
 C. A player who is playing first (as opposed to drawing first) incorrectly draws a card during her first draw step.
 
@@ -825,7 +825,7 @@ D. A player draws a card from a Howling Mine that is no longer in play.
 
 
 
-Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and "fix" these errors, but it is important that they be handled consistently, regardless of their impact on the game.
+Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and "fix" these errors, but it is important that they be handled consistently, regardless of their impact on the game.
 
 
 
@@ -861,7 +861,7 @@ Penalty Regular Caution Competitive Warning Professional Warning Judges should n
 
 
 
-4.
+4.
 
 
 
@@ -941,7 +941,7 @@ Notes made during a match may be referenced during that match or between matches
 
 
 
-Examples A. During a game, a player references play notes that were created before the tournament.
+Examples A. During a game, a player references play notes that were created before the tournament.
 
 B. A spectator points out the correct play to the player, who had not solicited the information.
 
@@ -999,7 +999,7 @@ Tournament Error — Insufficient Randomization Definition A player unintentiona
 
 
 
-Examples A. A player forgets to shuffle his library after searching for a card.
+Examples A. A player forgets to shuffle his library after searching for a card.
 
 B. A player searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
 
@@ -1099,7 +1099,7 @@ B. A player without sleeves has several foil cards that stand out significantly 
 
 
 
-Philosophy If the possibility for advantage is fairly low, the player should not receive a significant penalty. Note that almost all sleeves can be considered marked in some way; judges should keep this in mind when determining penalties. In cases of marked cards, educating players to shuffle their cards and sleeves before sleeving the cards is very important. A Marked Cards - No Pattern penalty is generally not upgraded on repeat offenses.
+Philosophy If the possibility for advantage is fairly low, the player should not receive a significant penalty. Note that almost all sleeves can be considered marked in some way; judges should keep this in mind when determining penalties. In cases of marked cards, educating players to shuffle their cards and sleeves before sleeving the cards is very important. A Marked Cards - No Pattern penalty is generally not upgraded on repeat offenses.
 
 
 
@@ -1141,7 +1141,7 @@ If a Game Loss is called for in the Swiss portion of an event that has single-ga
 
 
 
-5.
+5.
 
 
 
@@ -1213,7 +1213,7 @@ Failing to follow a direct instruction from a tournament official.
 
 
 
-•
+•
 
 
 
@@ -1399,7 +1399,7 @@ Penalty All Levels Disqualification The offender should be asked to leave the ve
 
 
 
-6.
+6.
 
 
 
@@ -1461,7 +1461,7 @@ F. A spectator gives false or misleading information to a tournament official th
 
 
 
-Philosophy There will be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud. In particular, teammates observing a game are expected to point out problems and call a judge to help if required.
+Philosophy There will be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud. In particular, teammates observing a game are expected to point out problems and call a judge to help if required.
 
 A player must be aware that he or she has committed an error in representation in order for the infraction to be Fraud. For example, a player targeting a black creature with Terror has not committed Fraud if he or she forgot that Terror can not target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes he or she was aware and hoping that his or her opponent would miss it.
 
@@ -1533,7 +1533,7 @@ Philosophy There will be no tolerance for such blatant disregard for the rules.
 
 
 
-Penalty All Levels Disqualification APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Professional Deck Errors Illegal Decklist Deck/Decklist Mismatch Improper Registration of Limited Card Pool Lost Sideboard Game Warning Caution Game Warning Caution Game Play Errors Incorrect Representation Illegal Game State Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Failure to Discard Game Rule Violation Failure to Maintain Game State Tardiness Outside Assistance Slow Play Insufficient Randomization Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards - No Pattern Marked Cards - Pattern Caution Caution Caution Warning Caution Warning Caution Caution Caution Caution Tournament Errors Warning Warning Warning Warning Game Warning Game Warning Warning Warning Warning Game*
+Penalty All Levels Disqualification APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Professional Deck Errors Illegal Decklist Deck/Decklist Mismatch Improper Registration of Limited Card Pool Lost Sideboard Game Warning Caution Game Warning Caution Game Play Errors Incorrect Representation Illegal Game State Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Failure to Discard Game Rule Violation Failure to Maintain Game State Tardiness Outside Assistance Slow Play Insufficient Randomization Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards - No Pattern Marked Cards - Pattern Caution Caution Caution Warning Caution Warning Caution Caution Caution Caution Tournament Errors Warning Warning Warning Warning Game Warning Game Warning Warning Warning Warning Game*
 
 Match Warning Warning Game Warning Caution Caution Caution Warning Unsporting Conduct (USC)
 
@@ -1549,7 +1549,7 @@ Disqualification Disqualification Disqualification Disqualification Cheating Che
 
 
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSIONS June 20, 2009 General: Title changed.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS June 20, 2009 General: Title changed.
 
 General: References to Universal Tournament Rules or Magic Floor Rules now refer to Magic Tournament Rules.
 
@@ -1619,7 +1619,7 @@ Appendix A: Player Communication Violation updated.
 
 
 
-APPENDIX C – RULE ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL City Championship Finals Competitive Friday Night Magic Regular Game Days Regular Gateway Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
+APPENDIX C – RULE ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL City Championship Finals Competitive Friday Night Magic Regular Game Days Regular Gateway Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
 
 
@@ -1637,4 +1637,3 @@ Competitive National Qualifiers Competitive Prerelease Regular Pro Tour Professi
 
 
 
-

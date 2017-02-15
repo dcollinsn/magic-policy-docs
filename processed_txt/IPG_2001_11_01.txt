@@ -356,7 +356,7 @@ Examples
 
 
 
-(B) A player has misplaced several cards from her sideboard (or lost the entire sideboard), but the sideboard list is legal.
+(B) A player has misplaced several cards from her sideboard (or lost the entire sideboard), but the sideboard list is legal.
 
 Philosophy When the physical cards in the sideboard are illegal, but the sideboard list is legal,
 
@@ -468,7 +468,7 @@ Example
 
 
 
-Philosophy Procedural errors vary significantly and the judge should adjust the penalty appropriately to reflect the level of tournament disruption.
+Philosophy Procedural errors vary significantly and the judge should adjust the penalty appropriately to reflect the level of tournament disruption.
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty.
 
@@ -496,7 +496,7 @@ Examples
 
 
 
-(B) A player in a Magic tournament plays Wrath of God (2WW) using one white mana and three colorless mana.
+(B) A player in a Magic tournament plays Wrath of God (2WW) using one white mana and three colorless mana.
 
 (C) A player in a Magic tournament attempts to play Treachery on a creature with protection from blue.
 
@@ -552,7 +552,7 @@ advancing a phase in the game, and so on). If a player draws a card in this mann
 
 
 
-Players are not considered to have drawn extra cards when they place a card face down on the table (without looking at the card) in an effort to accurately count out cards as they draw. This penalty should be applied only once to one or more cards if they are drawn in the same action or sequence of actions, at the judge’s discretion.
+Players are not considered to have drawn extra cards when they place a card face down on the table (without looking at the card) in an effort to accurately count out cards as they draw. This penalty should be applied only once to one or more cards if they are drawn in the same action or sequence of actions, at the judge’s discretion.
 
 Philosophy Any time players draw extra cards, there is always a chance they will go unnoticed by their opponent, potentially giving them a significant advantage.
 
@@ -638,7 +638,7 @@ Philosophy This is generally a minor infraction and deserves a fairly minor pena
 
 
 
-Penalty Players must correct the situations by drawing however many cards they neglected to draw (unless a turn has passed).
+Penalty Players must correct the situations by drawing however many cards they neglected to draw (unless a turn has passed).
 
 Card Drawing—Failure to Draw REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning 130.
 
@@ -670,7 +670,7 @@ REL 5 Warning Marked Cards—Major Definition A player’s cards are marked in s
 
 
 
-Examples
+Examples
 
 (A) A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
 
@@ -738,7 +738,7 @@ Philosophy Different levels of unsporting conduct should be penalized accordingl
 
 
 
-Penalty Unsporting Conduct—Minor All Levels Warning 152.
+Penalty Unsporting Conduct—Minor All Levels Warning 152.
 
 
 
@@ -766,7 +766,7 @@ Examples
 
 
 
-Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is always the final authority on what constitutes unsporting conduct and is free to interpret the guidelines as he or she sees fit.
+Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is always the final authority on what constitutes unsporting conduct and is free to interpret the guidelines as he or she sees fit.
 
 Penalty Unsporting Conduct—Severe All Levels Disqualification without prize 160.
 
@@ -802,7 +802,7 @@ Refer to section 161 for unintentional slow play.
 
 
 
-Example
+Example
 
 (A) A player has two lands in his hand, no options available to significantly affect the game, and spends several minutes “thinking” about what to do.
 
@@ -834,7 +834,7 @@ Examples
 
 
 
-(B) A player marks cards in his deck and intentionally uses this information to gain an advantage.
+(B) A player marks cards in his deck and intentionally uses this information to gain an advantage.
 
 (C) A player intentionally draws extra cards while the opponent is distracted.
 
@@ -860,4 +860,3 @@ Phone: (800) 324-6496 (Wizards of the Coast® Game Support)
 
 
 
-

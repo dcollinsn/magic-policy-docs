@@ -48,7 +48,7 @@ This is the smallest penalty that can be given. A caution is a verbal warning to
 
 
 
-Warning:
+Warning:
 
 A warning is an officially tracked penalty. The purpose of a warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database. Warnings must be communicated to the head judge and the tournament official responsible for the permanent tracking of the warning. Warnings must also be communicated to the players to whom they are issued, explaining the infractions as well as possible consequences if the infractions are repeated.
 
@@ -154,7 +154,7 @@ Examples
 
 
 
-Philosophy The decklist is the ultimate guide to a player's deck. If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal decklist.
+Philosophy The decklist is the ultimate guide to a player's deck. If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal decklist.
 
 Whenever possible, it is best to correct the decklist to match the players actual deck.
 
@@ -216,7 +216,7 @@ Players are considered to have illegal main decks when one of the following cond
 
 
 
-•
+•
 
 
 
@@ -254,7 +254,7 @@ Players are considered to have illegal sideboard lists when one of the following
 
 
 
-Examples
+Examples
 
 (A) A player in a Constructed Magic tournament lists only fourteen cards in his sideboard.
 
@@ -314,7 +314,7 @@ Definition This infraction applies only to games that use sideboards and only if
 
 
 
-Players are considered to have illegal sideboards when one of the following conditions is true:
+Players are considered to have illegal sideboards when one of the following conditions is true:
 
 • The sideboard contains either too many or too few cards.
 
@@ -360,7 +360,7 @@ Examples
 
 
 
-Philosophy Procedural errors vary significantly. The judge should adjust the penalty appropriately to reflect the level of tournament disruption.
+Philosophy Procedural errors vary significantly. The judge should adjust the penalty appropriately to reflect the level of tournament disruption.
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
 
@@ -400,7 +400,7 @@ Penalty If the procedural error makes it impossible for a player to effectively 
 
 
 
-Procedural Error—Major All Levels Warning 113.
+Procedural Error—Major All Levels Warning 113.
 
 
 
@@ -434,7 +434,7 @@ Philosophy In this situation, a game loss is a fair penalty. Tournaments that do
 
 
 
-Penalty Procedural Error—Failure to Desideboard All Levels Game 115.
+Penalty Procedural Error—Failure to Desideboard All Levels Game 115.
 
 
 
@@ -466,7 +466,7 @@ Philosophy It is each player's responsibility to ensure they are sitting in the 
 
 
 
-Penalty If the error is discovered within the pregame time limit for the first game (usually 3 minutes), the player sitting at the wrong table should receive a warning and report to the correct seat. If the error is discovered after the pregame time limit has expired, but before the time a second game loss would be awarded for section 116, Procedural Error—Tardiness (usually 10 minutes), the player sitting at the wrong table should receive a game loss and should report to the correct table. If the error is not discovered until after the time a second game loss would be awarded for section 116, Procedural Error—Tardiness, the player sitting at the wrong table should receive a match loss.
+Penalty If the error is discovered within the pregame time limit for the first game (usually 3 minutes), the player sitting at the wrong table should receive a warning and report to the correct seat. If the error is discovered after the pregame time limit has expired, but before the time a second game loss would be awarded for section 116, Procedural Error—Tardiness (usually 10 minutes), the player sitting at the wrong table should receive a game loss and should report to the correct table. If the error is not discovered until after the time a second game loss would be awarded for section 116, Procedural Error—Tardiness, the player sitting at the wrong table should receive a match loss.
 
 Procedural Error—Playing the Wrong Opponent All Levels Warning 120.
 
@@ -494,7 +494,7 @@ Philosophy Any time players draw extra cards, there is always a chance they will
 
 
 
-Correcting the problem always involves putting the extra card (if known, or a random card from the player's hand, if not known) on top of the deck. This ensures that a player does not receive an advantage from a free shuffle (which he or she would receive if the card were shuffled back into the deck) and that the game will be impacted as little as possible.
+Correcting the problem always involves putting the extra card (if known, or a random card from the player's hand, if not known) on top of the deck. This ensures that a player does not receive an advantage from a free shuffle (which he or she would receive if the card were shuffled back into the deck) and that the game will be impacted as little as possible.
 
 Card Drawing—Improper Drawing at Start of Game (section 123) is a separate, lesssevere penalty.
 
@@ -514,7 +514,7 @@ This penalty should be applied only once to one or more cards if they are seen i
 
 
 
-Examples
+Examples
 
 (A) A player accidentally flips over a card while shuffling her opponent's deck.
 
@@ -576,7 +576,7 @@ REL 5 Warning MARKED CARDS This section deals with marked cards or sleeves. As a
 
 
 
-131.
+131.
 
 
 
@@ -608,7 +608,7 @@ Please note that this penalty still assumes that the cards are marked unintentio
 
 
 
-Penalty Marked Cards—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match 140.
+Penalty Marked Cards—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match 140.
 
 
 
@@ -642,7 +642,7 @@ REL 4 Warning REL 5 Warning Slow Play—Exceeding the Pregame Time Limit Definit
 
 
 
-Example
+Example
 
 (A) After 3 minutes into a round at a Magic Pro Tour™ Qualifier, a player has not completed his shuffling.
 
@@ -740,7 +740,7 @@ Philosophy If it is clear that a player is stalling, he or she should face a ser
 
 
 
-Penalty Cheating—Stalling All Levels Disqualification without prize 163.
+Penalty Cheating—Stalling All Levels Disqualification without prize 163.
 
 
 
@@ -810,4 +810,3 @@ Major League Baseball trademarks and copyrights are used with permission of Majo
 
 
 
-

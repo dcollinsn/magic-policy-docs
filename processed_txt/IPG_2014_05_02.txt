@@ -36,7 +36,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -178,7 +178,7 @@ apologize to the players, and fix it if it is not too late. If the judge gives a
 
 
 
-1.1.
+1.1.
 
 
 
@@ -230,7 +230,7 @@ Game Loss A Game Loss is issued in situations where the procedure to correct the
 
 
 
-A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
+A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
 
 Game Losses are applied to the game in which the offense occurred unless the players have begun a new game or the tournament is between rounds, in which case the loss is applied to the player’s next game. If a player receives a Game Loss at the same time his or her opponent receives a Match Loss, the Game Loss is carried over into the next round. Simultaneous Game Loss penalties are applied together even if their application would give one player the match win. It is also acceptable for simultaneous Game Loss penalties to extend a match past the expected number of games if neither player has won a majority. Players will still receive a Game Loss if they drop from the tournament; if the penalty is issued between rounds, they will still receive it even though they will not be paired for the next round.
 
@@ -272,7 +272,7 @@ Any time a penalty is issued, the judge must explain the infraction, the procedu
 
 
 
-Some infractions include remedies to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness against the judge to accusations of unfairness against the DCI. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it.
+Some infractions include remedies to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness against the judge to accusations of unfairness against the DCI. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it.
 
 These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
 
@@ -284,7 +284,7 @@ Some violations of tournament rules will not meet the criteria for any specific 
 
 
 
-2.
+2.
 
 
 
@@ -354,7 +354,7 @@ automatically resolve, but awareness of the resulting objects must be demonstrat
 
 
 
-Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
+Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
 
 may also be applicable, especially as they relate to batches of actions or resolving items on the stack in an improper order.
 
@@ -452,7 +452,7 @@ Examples A. A player draws 4 cards after casting Ancestral Recall.
 
 
 
-B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
+B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
 
 C. A player draws for his turn, and then draws again for his turn a few moments later.
 
@@ -520,7 +520,7 @@ C. A player fails to put a creature with lethal damage into a graveyard and it i
 
 
 
-D. A Voice of All is on the battlefield that should have had a color named for it.
+D. A Voice of All is on the battlefield that should have had a color named for it.
 
 E. A player casts Brainstorm and forgets to put two cards back on top of his library.
 
@@ -576,7 +576,7 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 
 
-3.
+3.
 
 
 
@@ -658,7 +658,7 @@ B. A spectator points out the correct play to a player who had not solicited the
 
 
 
-Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
+Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
 
 Visual modifications to cards, including brief text, that provide minor strategic information or hints are acceptable and not considered notes. Detailed instructions or complex strategic advice may not be written on cards. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament. Spectators who commit this infraction may be asked to leave the venue if they are not enrolled in the tournament.
 
@@ -714,7 +714,7 @@ C. A player fails to shuffle the portion of his deck revealed during the resolut
 
 
 
-Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
+Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
 
 Any time cards in a deck could be seen, including during shuffling, it is no longer shuffled, even if the player only knows the position of one or two cards. Players are expected to take care in shuffling not to reveal cards to themselves, their teammates, or their opponents.
 
@@ -802,7 +802,7 @@ Ambiguous or unclear names on a decklist may allow a player to manipulate the co
 
 
 
-If the sideboard is not kept sufficiently separate from the deck during play, it becomes impossible to determine the legality of the deck. Additionally, if there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard unless they are:
+If the sideboard is not kept sufficiently separate from the deck during play, it becomes impossible to determine the legality of the deck. Additionally, if there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard unless they are:
 
 •
 
@@ -870,7 +870,7 @@ Philosophy Errors in Limited procedures are disruptive and may become more so if
 
 
 
-3.7.
+3.7.
 
 
 
@@ -934,7 +934,7 @@ The Head Judge has the option to upgrade this penalty to a Game Loss if he or sh
 
 
 
-4.
+4.
 
 
 
@@ -1014,7 +1014,7 @@ Examples A. A player uses a racial slur against his opponent.
 
 
 
-B. After losing a match, a player throws his cards onto the table and knocks his chair over in anger.
+B. After losing a match, a player throws his cards onto the table and knocks his chair over in anger.
 
 C. A player picks up one of his tokens that has been exiled and tosses it across the room.
 
@@ -1088,7 +1088,7 @@ Wagering occurs when a player or spectator at a tournament places a bet on the o
 
 
 
-Examples A.
+Examples A.
 
 B.
 
@@ -1192,7 +1192,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
-4.7.
+4.7.
 
 
 
@@ -1256,7 +1256,7 @@ G. A player realizes he has accidentally drawn an extra card, then fails to call
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
 
 
 
@@ -1316,4 +1316,3 @@ All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other 
 
 
 
-

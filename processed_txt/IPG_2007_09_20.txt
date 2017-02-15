@@ -38,7 +38,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS 1. General Philosophy 10. Definition of Rules Enforcement Level (REL)
+CONTENTS 1. General Philosophy 10. Definition of Rules Enforcement Level (REL)
 
 20. Definition of Penalties 30. Applying Penalties 40. Repeat Offenses 50. Player Communication 51. Shortcuts 100. Universal Infractions 110. Deck/Warband Errors 111. Deck/Warband Error — Illegal Decklist 112. Deck/Warband Error — Illegal Deck (Legal Decklist)
 
@@ -96,7 +96,7 @@ Rules Enforcement Level is a means to communicate to the players and judges what
 
 
 
-The REL of an event should increase based on the prizes awarded and the distance a player may be expected to travel. People who travel further are often more competitive and are likely to desire correctness over fun. The REL of the event should reflect this.
+The REL of an event should increase based on the prizes awarded and the distance a player may be expected to travel. People who travel further are often more competitive and are likely to desire correctness over fun. The REL of the event should reflect this.
 
 The penalties in this guide already take into account the REL of the event and as such judges should not deviate from this guide based on a perceived “lower REL”.
 
@@ -206,7 +206,7 @@ The recipient of a Disqualification does not need to be a player in the tourname
 
 
 
-Disqualification can occur without proof of action so long as the Head Judge determines sufficient information exists to believe the tournament’s integrity may have been compromised. It is recommended that the Head Judge’s report to the DCI reflect this fact.
+Disqualification can occur without proof of action so long as the Head Judge determines sufficient information exists to believe the tournament’s integrity may have been compromised. It is recommended that the Head Judge’s report to the DCI reflect this fact.
 
 When this penalty is applied, the player loses his or her current match and is dropped from the tournament. Players will still receive whatever prizes they had earned before the disqualification unless they were disqualified without prize. A player disqualified without prize receives no prize and no awards (such as pro points, event invitations,
 
@@ -244,7 +244,7 @@ Separate infractions committed or discovered at the same time should be treated 
 
 
 
-Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit are not covered by a specific infraction should be handled initially with a Caution. If repeated,
+Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit are not covered by a specific infraction should be handled initially with a Caution. If repeated,
 
 directly instruct the player not to repeat the offense, and handle further offenses as Unsporting Conduct — Major for failing to follow the direct instruction of a tournament official.
 
@@ -320,7 +320,7 @@ Players must answer completely and honestly specific questions about past game a
 
 
 
-51.
+51.
 
 
 
@@ -414,7 +414,7 @@ Players are assumed to have paid any cost of 0 unless they announce otherwise.
 
 
 
-•
+•
 
 
 
@@ -442,7 +442,7 @@ it is up to the team that knows it may be relevant to ask for clarification or t
 
 
 
-100.
+100.
 
 
 
@@ -518,7 +518,7 @@ Philosophy If the decklist is illegal, the player is considered to have an illeg
 
 
 
-Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of their deck up until the point at which they are discovered. Use of a truncated name that is not unique may be downgraded to a Warning at the Head Judge’s discretion if they believe that the intended card is obvious and the potential for abuse minimal.
+Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of their deck up until the point at which they are discovered. Use of a truncated name that is not unique may be downgraded to a Warning at the Head Judge’s discretion if they believe that the intended card is obvious and the potential for abuse minimal.
 
 When determining if a name is ambiguous, judges may take into account the format being played.
 
@@ -566,7 +566,7 @@ F. A player in a Magic tournament looking at their sideboard during a game fails
 
 
 
-Philosophy The decklist is the ultimate guide to a player's deck. Decklists are used to ensure that decks are not altered in the course of a tournament. If the decklist indicates a legal deck, but the actual contents of the deck do not match the decklist, the player should restore the deck to reflect the decklist. However, if the Head Judge believes that the error was obviously clerical (for example, a player marks “10 Islands” on their decklist and is only playing black cards),
+Philosophy The decklist is the ultimate guide to a player's deck. Decklists are used to ensure that decks are not altered in the course of a tournament. If the decklist indicates a legal deck, but the actual contents of the deck do not match the decklist, the player should restore the deck to reflect the decklist. However, if the Head Judge believes that the error was obviously clerical (for example, a player marks “10 Islands” on their decklist and is only playing black cards),
 
 the decklist should be altered to match the deck. When making this decision, judges should be mindful of potential abuse and if the potential exists or needs to be considered, they should use the contents of the decklist.
 
@@ -702,7 +702,7 @@ Penalty All Levels Caution If the miniatures are discovered to be missing during
 
 
 
-120.
+120.
 
 
 
@@ -766,7 +766,7 @@ Penalty All Levels Caution Correct the erroneous representation.
 
 
 
-122.
+122.
 
 
 
@@ -818,7 +818,7 @@ If the trigger requires no choices to be made and has no effect on the visual re
 
 
 
-If the trigger has an instruction that specifies a default action associated with a choice (usually "If you don't ... ")
+If the trigger has an instruction that specifies a default action associated with a choice (usually "If you don't ... ")
 
 resolve the default action immediately without regard to the timing rules for that particular game. For example, in Magic, such a default action would be resolved without using the stack. If there are unresolved spells or effects that are no longer legal as a result of this action, rewind the game to remove all such spells or abilities. Resulting triggers generated by the action still trigger and resolve as normal.
 
@@ -860,7 +860,7 @@ downgrade this penalty at Regular and Competitive RELs. If the card is still uni
 
 
 
-125.
+125.
 
 
 
@@ -914,13 +914,13 @@ Philosophy If an error is caught immediately, then the dangers of the ongoing ga
 
 
 
-Penalty All Levels Warning Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
+Penalty All Levels Warning Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
 
 
 
 
 
-130. TOURNAMENT ERRORS Tournament errors are unintentional violations of the Universal Tournament Rules or the Floor Rules for the game being played.
+130. TOURNAMENT ERRORS Tournament errors are unintentional violations of the Universal Tournament Rules or the Floor Rules for the game being played.
 
 
 
@@ -1028,7 +1028,7 @@ B. A player in a Magic tournament searches for a card, then gives the deck a sin
 
 
 
-Philosophy Players are expected to randomize their deck thoroughly when it is required and are expected, especially at Competitive and Professional RELs, to have the skill and understanding of randomization to do so. Any time cards in a deck could be seen, including during shuffling, it is no longer randomized, even if the player only knows the position of one or two cards. Players should take care in shuffling not to reveal cards to themselves, their teammates or their opponents.
+Philosophy Players are expected to randomize their deck thoroughly when it is required and are expected, especially at Competitive and Professional RELs, to have the skill and understanding of randomization to do so. Any time cards in a deck could be seen, including during shuffling, it is no longer randomized, even if the player only knows the position of one or two cards. Players should take care in shuffling not to reveal cards to themselves, their teammates or their opponents.
 
 Players are assumed to know the order of their cards before starting to shuffle and sufficient randomization means the player could not gain advantage from this knowledge. A player should randomize his or her deck using multiple methods. Patterned pile-shuffling alone is not sufficient randomization.
 
@@ -1080,7 +1080,7 @@ C. A player starts to put a card on top of their pile, then pulls it back.
 
 
 
-Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly.
+Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly.
 
 
 
@@ -1174,7 +1174,7 @@ Unsporting Conduct — Major Definition Unsporting Conduct — Major infractions
 
 
 
-•
+•
 
 •
 
@@ -1330,7 +1330,7 @@ Penalty All Levels Disqualification without prize The player should be asked to 
 
 
 
-146.
+146.
 
 
 
@@ -1358,7 +1358,7 @@ Penalty All Levels Disqualification without prize The player should be asked to 
 
 
 
-150.
+150.
 
 
 
@@ -1424,7 +1424,7 @@ In particular, teammates observing the game are expected to point out problems a
 
 
 
-A player must be aware that they have committed a error in representation in order for the infraction to be Fraud.
+A player must be aware that they have committed a error in representation in order for the infraction to be Fraud.
 
 For example, a player targeting a black creature with Terror has not committed Fraud if they forgot that Terror can not target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes they were aware and hoping that their opponent would miss it.
 
@@ -1572,7 +1572,7 @@ Care must be taken before shuffling to make sure that there are no "legally know
 
 
 
-212.
+212.
 
 
 
@@ -1616,7 +1616,7 @@ Penalty Regular Caution Competitive Warning Professional Warning If the player h
 
 
 
-214.
+214.
 
 
 
@@ -1674,7 +1674,7 @@ Penalty Regular Caution Competitive Warning Professional Warning The player shou
 
 
 
-222.
+222.
 
 
 
@@ -1702,7 +1702,7 @@ If a Game Loss is called for in the Swiss portion of an event that has single-ga
 
 
 
-300.
+300.
 
 
 
@@ -1768,7 +1768,7 @@ If a Game Loss is called for in the Swiss portion of an event that has single-ga
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Deck/Warband Error (DWE)
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Deck/Warband Error (DWE)
 
 DWE — Illegal Decklist DWE — Illegal Deck (Legal Decklist)
 
@@ -1804,7 +1804,7 @@ Disqualification without Prize Disqualification without Prize Disqualification w
 
 
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSION September 1, 2007 Game Loss: Clarification on how to handle simultaneous Game Loss penalties.
+APPENDIX B — CHANGES FROM PREVIOUS VERSION September 1, 2007 Game Loss: Clarification on how to handle simultaneous Game Loss penalties.
 
 30: Clarified when Game Loss and Match Loss should be applied if the game or match already complete.
 
@@ -1852,7 +1852,7 @@ General: Using the terms “public information” and “hidden information” t
 
 
 
-Appendix C — Using Reporter V2.X with these guidelines DCI Reporter Version 3 has been updated to match these guidelines. Organizers may download the most recent version by visiting the TO center. https://membership.wizards.com/login.aspx?dcionly=true Log in with the DCI number and password you upload events with. Then click downloads. Download the first 3 files, the update, the full installation and the latest PIN database (.mdb file).
+Appendix C — Using Reporter V2.X with these guidelines DCI Reporter Version 3 has been updated to match these guidelines. Organizers may download the most recent version by visiting the TO center. https://membership.wizards.com/login.aspx?dcionly=true Log in with the DCI number and password you upload events with. Then click downloads. Download the first 3 files, the update, the full installation and the latest PIN database (.mdb file).
 
 
 
@@ -1918,4 +1918,3 @@ Competitive Magic Prerelease Regular Magic Pro Tour Professional Magic Pro Tour 
 
 
 
-

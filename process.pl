@@ -14,6 +14,7 @@ foreach my $filename (@files) {
         @text = map {s/\.{10,}\s*\d{1,2}\s*//;$_} @text;
         my $text = join("\n", @text);
         $text =~ s/(\w)\s*\n\s+(\w)/$1 $2/g;
+        $text =~ s/^\014//mg;
         open(my $outfh, ">processed_txt/$txt");
         print $outfh $text;
         close $outfh;

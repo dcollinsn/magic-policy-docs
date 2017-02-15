@@ -16,7 +16,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 1.
 
@@ -125,7 +125,7 @@ DEFINITION OF PENALTIES Warning A Warning is an officially tracked penalty. Warn
 
 
 
-Game Loss A Game Loss is issued in situations where the procedure to correct the offense takes a significant amount of time that may slow the entire tournament or causes significant disruption to the tournament, or in which it is impossible to continue the game due to physical disruption. It is also used for some infractions that have a higher probability for a player to gain advantage.
+Game Loss A Game Loss is issued in situations where the procedure to correct the offense takes a significant amount of time that may slow the entire tournament or causes significant disruption to the tournament, or in which it is impossible to continue the game due to physical disruption. It is also used for some infractions that have a higher probability for a player to gain advantage.
 
 A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
 
@@ -151,7 +151,7 @@ When this penalty is applied, the player loses his or her current match and is d
 
 
 
-When a player is disqualified during a tournament, he or she is removed from the tournament and does not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified during the quarterfinal round of a Preliminary Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but he or she does move into 8th place in the standings.
+When a player is disqualified during a tournament, he or she is removed from the tournament and does not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified during the quarterfinal round of a Preliminary Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but he or she does move into 8th place in the standings.
 
 More information about the Disqualification process may be found at http://blogs.magicjudges.org/o/disqualification-process/.
 
@@ -205,7 +205,7 @@ Some remedies state a simple backup may be performed. A simple backup is backing
 
 
 
-2.
+2.
 
 
 
@@ -305,7 +305,7 @@ This penalty is applied only once if one or more cards are seen in the same acti
 
 
 
-Examples A. A player accidentally reveals (drops, flips over) a card while shuffling her opponent’s deck.
+Examples A. A player accidentally reveals (drops, flips over) a card while shuffling her opponent’s deck.
 
 B. A player pulls up an extra card while drawing from his deck.
 
@@ -343,7 +343,7 @@ F. A player, going first, draws for his turn.
 
 
 
-Philosophy Though the game state cannot be reversed to the ‘correct’ state, this error can be mitigated by giving the opponent sufficient knowledge and ability to offset the error so that it is less likely to generate advantage.
+Philosophy Though the game state cannot be reversed to the ‘correct’ state, this error can be mitigated by giving the opponent sufficient knowledge and ability to offset the error so that it is less likely to generate advantage.
 
 If cards are placed into a public zone, then their order is known and the infraction can be handled as a Game Rule Violation. Order cannot be determined from card faces only visible to one player unless the card is in a uniquely identifiable position (such as on top of the library, or as the only card in hand.)
 
@@ -399,7 +399,7 @@ Additional Remedy If the player has too many cards in hand, he or she may choose
 
 
 
-If cards are not removed from the hand this way (either due to an error that didn't lead to too many cards, or by the player choosing not to reveal), that player takes an additional mulligan.
+If cards are not removed from the hand this way (either due to an error that didn't lead to too many cards, or by the player choosing not to reveal), that player takes an additional mulligan.
 
 Players may continue taking mulligans after the remedy has been completed.
 
@@ -471,7 +471,7 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 
 
-3.
+3.
 
 
 
@@ -507,13 +507,13 @@ Additional Remedy The players are given a time extension corresponding to the le
 
 
 
-Upgrade: A player not in his or her seat 10 minutes into the round will receive a Match Loss and will be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round.
+Upgrade: A player not in his or her seat 10 minutes into the round will receive a Match Loss and will be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round.
 
 
 
 
 
-3.2.
+3.2.
 
 
 
@@ -561,7 +561,7 @@ It is also slow play if a player continues to execute a loop without being able 
 
 
 
-Examples A. A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
+Examples A. A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
 
 B. A player spends time writing down the contents of an opponent’s deck while resolving Thought Hemorrhage.
 
@@ -597,7 +597,7 @@ Any time cards in a deck could be seen, including during shuffling, it is no lon
 
 
 
-A player should shuffle his or her deck using multiple methods. Patterned pile-shuffling alone is not sufficient. Any manipulation, weaving, or stacking prior to randomization is acceptable, as long as the deck is thoroughly shuffled afterwards.
+A player should shuffle his or her deck using multiple methods. Patterned pile-shuffling alone is not sufficient. Any manipulation, weaving, or stacking prior to randomization is acceptable, as long as the deck is thoroughly shuffled afterwards.
 
 Additional Remedy Shuffle the random portion of the deck thoroughly.
 
@@ -665,7 +665,7 @@ E. A player lists ‘Sarkhan’ in a format with both Sarkhan, the Dragonspeaker
 
 
 
-Philosophy Decklists are used to ensure that decks are not altered in the course of a tournament. Judges and other tournament officials should be vigilant about reminding players before the tournament begins of the importance of submitting a legal decklist, and playing with a legal deck. A player normally receives a Game Loss if his or her decklist is altered after tournament play has begun.
+Philosophy Decklists are used to ensure that decks are not altered in the course of a tournament. Judges and other tournament officials should be vigilant about reminding players before the tournament begins of the importance of submitting a legal decklist, and playing with a legal deck. A player normally receives a Game Loss if his or her decklist is altered after tournament play has begun.
 
 Penalties for decklist errors discovered during a deckcheck and deck/sideboard errors are issued immediately. Other decklist penalties are issued at the start of the next round to minimize the disruption to the match currently being played and provide consistency in case some players have finished playing their match before the penalty can be administered.
 
@@ -687,7 +687,7 @@ Tournament Error — Limited Procedure Violation Warning Definition A player com
 
 
 
-Examples A. A player passes a booster to his left when it is supposed to go to his right.
+Examples A. A player passes a booster to his left when it is supposed to go to his right.
 
 B. A player exceeds the amount of time allotted for a draft pick.
 
@@ -737,7 +737,7 @@ Tournament Error — Marked Cards Warning Definition The cards in a player’s d
 
 
 
-Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
+Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
 
 B. A player without sleeves has several foil cards that stand out significantly from the rest of her deck.
 
@@ -757,7 +757,7 @@ Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern o
 
 
 
-4.
+4.
 
 
 
@@ -797,7 +797,7 @@ Additional Remedy The player must correct the problem immediately. Subsequent Un
 
 
 
-4.2.
+4.2.
 
 
 
@@ -829,7 +829,7 @@ Upgrade: If the offense was committed with malicious intent, the player displays
 
 
 
-4.3.
+4.3.
 
 
 
@@ -873,7 +873,7 @@ E. Two spectators place a bet on the number of games that will be needed to deci
 
 
 
-Philosophy Bribery and wagering disrupt the integrity of the tournament and are strictly forbidden.
+Philosophy Bribery and wagering disrupt the integrity of the tournament and are strictly forbidden.
 
 4.5.
 
@@ -917,7 +917,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
-4.7.
+4.7.
 
 
 
@@ -975,7 +975,7 @@ G. A player realizes he has accidentally drawn an extra card, then fails to call
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger None Looking at Extra Cards Warning Hidden Card Error Warning Mulligan Procedure Error Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Deck/Decklist Problem Game Loss Limited Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Match Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 30, 2016 2.1: Default-option triggers let the opponent choose whether to resolve it.
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger None Looking at Extra Cards Warning Hidden Card Error Warning Mulligan Procedure Error Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Deck/Decklist Problem Game Loss Limited Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Match Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 30, 2016 2.1: Default-option triggers let the opponent choose whether to resolve it.
 
 2.1: If you control my turn, you’re responsible for my triggers.
 
@@ -1045,4 +1045,3 @@ All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other 
 
 
 
-

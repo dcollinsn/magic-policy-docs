@@ -36,7 +36,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -192,7 +192,7 @@ The infractions in this document (with the exception of the Cheating and Unsport
 
 
 
-1.1 DEFINITION OF RULES ENFORCEMENT LEVEL (REL)
+1.1 DEFINITION OF RULES ENFORCEMENT LEVEL (REL)
 
 Rules Enforcement Level is a means to communicate to the players and judges what expectations they can have of the event in terms of rigidity of rules enforcement, technically correct play, and procedures used.
 
@@ -284,7 +284,7 @@ Some violations of tournament rules will not meet the criteria for any specific 
 
 
 
-2.
+2.
 
 
 
@@ -340,7 +340,7 @@ The controller of the missed trigger only receives a Warning if the triggered ab
 
 
 
-Judges should not intervene in a missed trigger situation unless they intend to issue a Warning or have reason to suspect that the controller is intentionally missing his or her triggers.
+Judges should not intervene in a missed trigger situation unless they intend to issue a Warning or have reason to suspect that the controller is intentionally missing his or her triggers.
 
 
 
@@ -400,7 +400,7 @@ Additional Remedy Shuffle the randomized portion of the deck (which may include 
 
 
 
-Care must be taken before shuffling to make sure that there are no “legally known” cards in the library. Check with both players to verify this, and check the graveyard, exile, and battlefield for deck manipulation cards, such as Brainstorm and cards with the scry mechanic.
+Care must be taken before shuffling to make sure that there are no “legally known” cards in the library. Check with both players to verify this, and check the graveyard, exile, and battlefield for deck manipulation cards, such as Brainstorm and cards with the scry mechanic.
 
 
 
@@ -464,7 +464,7 @@ Additional Remedy If the player has drawn too few cards, instruct them to draw u
 
 
 
-2.5.
+2.5.
 
 
 
@@ -520,7 +520,7 @@ In a situation where the effect that caused the infraction is controlled by one 
 
 
 
-2.6.
+2.6.
 
 
 
@@ -540,7 +540,7 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 
 
-3.
+3.
 
 
 
@@ -622,7 +622,7 @@ B. A spectator points out the correct play to a player who had not solicited the
 
 
 
-Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
+Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
 
 Visual modifications to cards, including brief text, that provide minor strategic information or hints are acceptable and not considered notes. Detailed instructions or complex strategic advice may not be written on cards. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament. Spectators who commit this infraction may be asked to leave the venue if they are not enrolled in the tournament.
 
@@ -678,7 +678,7 @@ B. A player searches for a card, then gives the deck a single riffle-shuffle bef
 
 
 
-C. A player fails to shuffle the portion of his deck revealed during the resolution of a cascade ability.
+C. A player fails to shuffle the portion of his deck revealed during the resolution of a cascade ability.
 
 
 
@@ -734,7 +734,7 @@ Philosophy Errors in draft procedure are disruptive and may become more so if th
 
 
 
-3.7.
+3.7.
 
 
 
@@ -884,7 +884,7 @@ Double-faced cards being used to represent the ‘night’ side of cards in the 
 
 
 
-These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
+These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
 
 
 
@@ -896,7 +896,7 @@ If the player, upon drawing an opening hand, discovers a deck problem and calls 
 
 
 
-4.
+4.
 
 
 
@@ -978,7 +978,7 @@ B. A player continues to argue with the Head Judge about a ruling after being as
 
 
 
-C. A player uses a racial slur against his opponent.
+C. A player uses a racial slur against his opponent.
 
 D. After losing a match, a player throws his cards onto the table and knocks his chair over in anger.
 
@@ -1048,7 +1048,7 @@ Wagering occurs when a player or spectator at a tournament places a bet on the o
 
 
 
-Examples A.
+Examples A.
 
 B.
 
@@ -1152,7 +1152,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
-5.
+5.
 
 
 
@@ -1214,7 +1214,7 @@ G. A player sees her opponent mana weave and randomize insufficiently and pile s
 
 
 
-5.3.
+5.3.
 
 
 
@@ -1262,7 +1262,7 @@ A player in a sealed deck tournament adds cards to his card pool.
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
 
 
 
@@ -1332,4 +1332,3 @@ December 20, 2011 General: Language fixes, particularly streamlining the opening
 
 
 
-

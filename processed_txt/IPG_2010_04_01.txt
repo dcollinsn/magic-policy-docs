@@ -36,7 +36,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -211,7 +211,7 @@ Rules Enforcement Level is a means to communicate to the players and judges what
 
 
 
-The REL of an event will increase based on the prizes awarded and the distance a player may be expected to travel.
+The REL of an event will increase based on the prizes awarded and the distance a player may be expected to travel.
 
 People who travel further are often more competitive and are likely to desire correctness over fun. The REL of the event should reflect this.
 
@@ -331,7 +331,7 @@ Game Play Errors have their own separate path that should be used for repeat off
 
 
 
-INFRACTIONS 2.
+INFRACTIONS 2.
 
 
 
@@ -457,7 +457,7 @@ If the sideboard is not kept sufficiently separate from the deck during play, it
 
 
 
-Penalty Regular Warning Competitive Game Professional Game The player must make any changes necessary to make the contents of the deck match what is recorded on the decklist. If the game is to continue, replace all illegal cards with their legal counterparts (including random cards from the deck for any illegal cards in hand) and shuffle the randomized portion of the deck. If this is not possible,
+Penalty Regular Warning Competitive Game Professional Game The player must make any changes necessary to make the contents of the deck match what is recorded on the decklist. If the game is to continue, replace all illegal cards with their legal counterparts (including random cards from the deck for any illegal cards in hand) and shuffle the randomized portion of the deck. If this is not possible,
 
 due to the illegal card being in a public zone or in a non-randomized portion of the deck, upgrade the penalty to a Game Loss.
 
@@ -505,7 +505,7 @@ Examples A. A player loses two of his sideboard cards. The 13 remaining cards ar
 
 
 
-Philosophy There is no advantage to playing with less than the required number of sideboard cards.
+Philosophy There is no advantage to playing with less than the required number of sideboard cards.
 
 
 
@@ -515,7 +515,7 @@ Penalty All Levels Caution If the card cannot be found between rounds, note whic
 
 
 
-3.
+3.
 
 
 
@@ -709,7 +709,7 @@ Philosophy While Game Rule Violations can be attributed to one player, they usua
 
 
 
-Penalty Regular Caution Competitive Warning Professional Warning If the error was discovered within a time frame in which a player could reasonably be expected to notice the error and the situation is simple enough to safely back up without too much disruption to the course of the game, the judge may get permission from the Head Judge to back up the game to the point of the error. Each action taken is undone until the game reaches the point immediately prior to the error. Cards incorrectly placed in hand are returned to the location in the zone from which they were moved (if the identity of the incorrectly drawn card is not known to all players, a random card is returned instead). Once the game is backed up, it continues from that point.
+Penalty Regular Caution Competitive Warning Professional Warning If the error was discovered within a time frame in which a player could reasonably be expected to notice the error and the situation is simple enough to safely back up without too much disruption to the course of the game, the judge may get permission from the Head Judge to back up the game to the point of the error. Each action taken is undone until the game reaches the point immediately prior to the error. Cards incorrectly placed in hand are returned to the location in the zone from which they were moved (if the identity of the incorrectly drawn card is not known to all players, a random card is returned instead). Once the game is backed up, it continues from that point.
 
 If not caught within a reasonable time frame, or backing up is impossible or sufficiently complex that it could affect the course of the game, the judge should leave the game state as it is after applying state-based actions and not attempt any form of partial ‘fix’ – either reverse all actions or none, with the following exceptions:
 
@@ -753,7 +753,7 @@ Penalty Regular Caution Competitive Warning Professional Warning Judges should n
 
 
 
-4.
+4.
 
 
 
@@ -831,7 +831,7 @@ Notes made outside the current match may only be referenced between games, and m
 
 
 
-Examples A. During a game, a player references play notes that were created before the tournament.
+Examples A. During a game, a player references play notes that were created before the tournament.
 
 B. A spectator points out the correct play to the player, who had not solicited the information.
 
@@ -883,7 +883,7 @@ If Slow Play has significantly affected the result of the match, the Head Judge 
 
 
 
-4.4.
+4.4.
 
 
 
@@ -985,7 +985,7 @@ Competitive Warning Professional Warning Tournament Error — Marked Cards Defin
 
 
 
-Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
+Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
 
 and a Lightning Helix.
 
@@ -1005,7 +1005,7 @@ The Head Judge has the option to upgrade this penalty to a Game Loss if he or sh
 
 
 
-5.
+5.
 
 
 
@@ -1063,7 +1063,7 @@ If a Game Loss is issued for repeated or upgraded infractions, and it occurs at 
 
 
 
-5.2.
+5.2.
 
 
 
@@ -1147,7 +1147,7 @@ Philosophy Using a random method to determine a winner compromises the integrity
 
 
 
-Matches that result in a draw due to time are expected to be reported as such and are not excluded from this penalty if the players use a random method to determine the outcome.
+Matches that result in a draw due to time are expected to be reported as such and are not excluded from this penalty if the players use a random method to determine the outcome.
 
 
 
@@ -1231,7 +1231,7 @@ A player intentionally turns over a table.
 
 
 
-Philosophy The safety of all people at a tournament is of paramount importance. There will be no tolerance of physical abuse or intimidation.
+Philosophy The safety of all people at a tournament is of paramount importance. There will be no tolerance of physical abuse or intimidation.
 
 
 
@@ -1267,7 +1267,7 @@ Penalty All Levels Disqualification The offender should be asked to leave the ve
 
 
 
-6.
+6.
 
 
 
@@ -1323,7 +1323,7 @@ C. A player lies to a tournament official to gain or keep an advantage.
 
 
 
-D. A player lies to his opponent about his life total.
+D. A player lies to his opponent about his life total.
 
 E. A player observes his opponent or teammate make an illegal play but does not call a judge because it is to his advantage.
 
@@ -1453,7 +1453,7 @@ Appendix C: Removed, and Appendix D renumbered to Appendix C.
 
 
 
-APPENDIX C — RULE ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
+APPENDIX C — RULE ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
 
 
@@ -1463,4 +1463,3 @@ Appendix C: Removed, and Appendix D renumbered to Appendix C.
 
 
 
-

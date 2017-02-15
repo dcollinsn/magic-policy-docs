@@ -36,7 +36,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -181,7 +181,7 @@ apologize to the players, and fix it if it is not too late. If the judge gives a
 
 
 
-1.1.
+1.1.
 
 
 
@@ -233,7 +233,7 @@ Game Loss A Game Loss is issued in situations where the procedure to correct the
 
 
 
-A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
+A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
 
 Game Losses should be applied to the game in which the offense occurred unless the players have begun a new game or the tournament is between rounds, in which case the loss should be applied to the player’s next game. If a player receives a Game Loss at the same time his or her opponent receives a Match Loss, the Game Loss should be carried over into the next round. Simultaneous Game Loss penalties should be applied together even if their application would give one player the match win. It is also acceptable for simultaneous Game Loss penalties to extend a match past the expected number of games if neither player has won a majority. Players will still receive a Game Loss if they drop from the tournament; if the penalty is issued between rounds, they will still receive it even though they will not be paired for the next round.
 
@@ -275,7 +275,7 @@ Any time a penalty is issued, the judge must explain to the players involved the
 
 
 
-Some infractions include remedies to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness against the judge to accusations of unfairness against the DCI. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it.
+Some infractions include remedies to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness against the judge to accusations of unfairness against the DCI. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it.
 
 These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
 
@@ -287,7 +287,7 @@ Some violations of tournament rules will not meet the criteria for any specific 
 
 
 
-2.
+2.
 
 
 
@@ -357,7 +357,7 @@ automatically resolve, but awareness of the resulting objects must be demonstrat
 
 
 
-Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
+Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
 
 may also be applicable, especially as they relate to batches of actions or resolving items on the stack in an improper order.
 
@@ -455,7 +455,7 @@ Examples A. A player draws 4 cards after casting Ancestral Recall.
 
 
 
-B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
+B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
 
 C. A player draws for his turn, and then draws again for his turn a few moments later.
 
@@ -515,7 +515,7 @@ E. A player casts Brainstorm and forgets to put two cards back on top of his lib
 
 
 
-Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game.
+Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game.
 
 
 
@@ -565,7 +565,7 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 
 
-3.
+3.
 
 
 
@@ -645,7 +645,7 @@ Examples A. During a game, a player references play notes that were created befo
 
 
 
-B. A spectator points out the correct play to a player who had not solicited the information.
+B. A spectator points out the correct play to a player who had not solicited the information.
 
 
 
@@ -701,7 +701,7 @@ Examples A. A player forgets to shuffle his library after searching for a card.
 
 
 
-B. A player searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
+B. A player searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
 
 C. A player fails to shuffle the portion of his deck revealed during the resolution of a cascade ability.
 
@@ -759,7 +759,7 @@ Philosophy Errors in draft procedure are disruptive and may become more so if th
 
 
 
-3.7.
+3.7.
 
 
 
@@ -909,7 +909,7 @@ Double-faced cards being used to represent the ‘night’ side of cards in the 
 
 
 
-These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
+These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
 
 
 
@@ -921,7 +921,7 @@ If the player, upon drawing an opening hand, discovers a deck problem and calls 
 
 
 
-4.
+4.
 
 
 
@@ -1005,7 +1005,7 @@ C. A player uses a racial slur against his opponent.
 
 
 
-D. After losing a match, a player throws his cards onto the table and knocks his chair over in anger.
+D. After losing a match, a player throws his cards onto the table and knocks his chair over in anger.
 
 E. A player picks up one of his tokens that has been exiled and tosses it across the room.
 
@@ -1073,7 +1073,7 @@ Wagering occurs when a player or spectator at a tournament places a bet on the o
 
 
 
-Examples A.
+Examples A.
 
 B.
 
@@ -1177,7 +1177,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
-4.7.
+4.7.
 
 
 
@@ -1243,7 +1243,7 @@ H. A player realizes he has accidentally drawn an extra card, then fails to call
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
 
 
 
@@ -1317,4 +1317,3 @@ All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other 
 
 
 
-

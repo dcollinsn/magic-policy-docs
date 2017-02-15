@@ -38,7 +38,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -223,7 +223,7 @@ Rules Enforcement Level is a means to communicate to the players and judges what
 
 
 
-The REL of an event will increase based on the prizes awarded and the distance a player may be expected to travel.
+The REL of an event will increase based on the prizes awarded and the distance a player may be expected to travel.
 
 People who travel further are often more competitive and are likely to desire correctness over fun. The REL of the event should reflect this.
 
@@ -339,13 +339,13 @@ further upgrades from repeated infractions are based on this path, and not the p
 
 
 
-Game Play Errors have their own separate path that should be used for repeat offenses of infractions in that section.
+Game Play Errors have their own separate path that should be used for repeat offenses of infractions in that section.
 
 
 
 
 
-INFRACTIONS 2.
+INFRACTIONS 2.
 
 
 
@@ -471,7 +471,7 @@ If the player has made a clerical error that involves accidentally recording the
 
 
 
-If the sideboard is not kept sufficiently separate from the deck during play, it becomes impossible to determine the legality of the deck. Additionally, if there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard.
+If the sideboard is not kept sufficiently separate from the deck during play, it becomes impossible to determine the legality of the deck. Additionally, if there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard.
 
 
 
@@ -519,7 +519,7 @@ Deck Error — Lost Sideboard Definition If a player no longer has the full cont
 
 
 
-Examples A. A player loses two of his sideboard cards. The 13 remaining cards are registered on the decklist.
+Examples A. A player loses two of his sideboard cards. The 13 remaining cards are registered on the decklist.
 
 
 
@@ -533,7 +533,7 @@ Penalty All Levels Caution If the cards are discovered to be missing during a ro
 
 
 
-3.
+3.
 
 
 
@@ -587,7 +587,7 @@ C. A Voice of All is in play that continues to have had no color chosen for it.
 
 
 
-Philosophy Both players share a responsibility in allowing the game to continue in this illegal state. Because many decisions and plans may have been made based on this state, no effort should be made to back up the game in order to fix it or try to compensate for the effects of the illegal state.
+Philosophy Both players share a responsibility in allowing the game to continue in this illegal state. Because many decisions and plans may have been made based on this state, no effort should be made to back up the game in order to fix it or try to compensate for the effects of the illegal state.
 
 
 
@@ -733,7 +733,7 @@ Examples A. A player draws eight cards in her initial hand (instead of seven).
 
 
 
-B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
+B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
 C. A player who is playing first (as opposed to drawing first) incorrectly draws a card during her first draw step.
 
@@ -791,7 +791,7 @@ D. A player draws a card from a Howling Mine that is no longer in play.
 
 
 
-Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and "fix" these errors, but it is important that they be handled consistently, regardless of their impact on the game.
+Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and "fix" these errors, but it is important that they be handled consistently, regardless of their impact on the game.
 
 
 
@@ -827,7 +827,7 @@ Penalty Regular Caution Competitive Warning Professional Warning Judges should n
 
 
 
-4.
+4.
 
 
 
@@ -907,7 +907,7 @@ Notes made during a match may be referenced during that match or between matches
 
 
 
-Examples A. During a game, a player references play notes that were created before the tournament.
+Examples A. During a game, a player references play notes that were created before the tournament.
 
 B. A spectator points out the correct play to the player, who had not solicited the information.
 
@@ -959,7 +959,7 @@ If Slow Play has significantly affected the result of the match, the Head Judge 
 
 
 
-4.4.
+4.4.
 
 
 
@@ -1009,7 +1009,7 @@ Philosophy Players are required to be attentive and follow the instructions of t
 
 
 
-Penalty All Levels Warning 4.6.
+Penalty All Levels Warning 4.6.
 
 
 
@@ -1061,7 +1061,7 @@ Competitive Warning Professional Warning Tournament Error — Marked Cards - No 
 
 
 
-Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
+Examples A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
 
 and a Lightning Helix.
 
@@ -1111,7 +1111,7 @@ If a Game Loss is called for in the Swiss portion of an event that has single-ga
 
 
 
-5.
+5.
 
 
 
@@ -1183,7 +1183,7 @@ Failing to follow a direct instruction from a tournament official.
 
 
 
-•
+•
 
 
 
@@ -1369,7 +1369,7 @@ Penalty All Levels Disqualification The offender should be asked to leave the ve
 
 
 
-6.
+6.
 
 
 
@@ -1431,7 +1431,7 @@ F. A spectator gives false or misleading information to a tournament official th
 
 
 
-Philosophy There will be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud. In particular, teammates observing a game are expected to point out problems and call a judge to help if required.
+Philosophy There will be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud. In particular, teammates observing a game are expected to point out problems and call a judge to help if required.
 
 A player must be aware that he or she has committed an error in representation in order for the infraction to be Fraud. For example, a player targeting a black creature with Terror has not committed Fraud if he or she forgot that Terror can not target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes he or she was aware and hoping that his or her opponent would miss it.
 
@@ -1503,7 +1503,7 @@ Philosophy There will be no tolerance for such blatant disregard for the rules.
 
 
 
-Penalty All Levels Disqualification APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Professional Deck Errors Illegal Decklist Deck/Decklist Mismatch Improper Registration of Limited Card Pool Lost Sideboard Game Warning Caution Game Warning Caution Game Play Errors Incorrect Representation Illegal Game State Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Failure to Discard Game Rule Violation Failure to Maintain Game State Tardiness Outside Assistance Slow Play Insufficient Randomization Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards - No Pattern Marked Cards - Pattern Caution Caution Caution Warning Caution Warning Caution Caution Caution Caution Tournament Errors Warning Warning Warning Warning Game Warning Game Warning Warning Warning Warning Game*
+Penalty All Levels Disqualification APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Professional Deck Errors Illegal Decklist Deck/Decklist Mismatch Improper Registration of Limited Card Pool Lost Sideboard Game Warning Caution Game Warning Caution Game Play Errors Incorrect Representation Illegal Game State Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Failure to Discard Game Rule Violation Failure to Maintain Game State Tardiness Outside Assistance Slow Play Insufficient Randomization Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards - No Pattern Marked Cards - Pattern Caution Caution Caution Warning Caution Warning Caution Caution Caution Caution Tournament Errors Warning Warning Warning Warning Game Warning Game Warning Warning Warning Warning Game*
 
 Match Warning Warning Game Warning Caution Caution Caution Warning Unsporting Conduct (USC)
 
@@ -1519,7 +1519,7 @@ Disqualification Disqualification Disqualification Disqualification Cheating Che
 
 
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 20, 2009 General: Minor grammatical cleanup, including new M10 terminology.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 20, 2009 General: Minor grammatical cleanup, including new M10 terminology.
 
 1.1: Removed rules for various RELs in favor of just having the philosophy.
 
@@ -1609,7 +1609,7 @@ Appendix A: Player Communication Violation updated.
 
 
 
-APPENDIX C – RULE ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
+APPENDIX C – RULE ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
 
 
@@ -1619,4 +1619,3 @@ Appendix A: Player Communication Violation updated.
 
 
 
-

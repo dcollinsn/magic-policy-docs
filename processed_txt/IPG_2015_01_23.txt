@@ -16,7 +16,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -161,7 +161,7 @@ apologize to the players, and fix it if it is not too late. If the judge gives a
 
 
 
-1.1.
+1.1.
 
 
 
@@ -255,7 +255,7 @@ These procedures do not, and should not, take into account the game being played
 
 
 
-Separate infractions committed or discovered at the same time are treated as separate penalties, though if the root cause is the same, only the more severe one is applied. If the first penalty would cause the second one to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty is issued first, followed by the less severe penalty in the next round.
+Separate infractions committed or discovered at the same time are treated as separate penalties, though if the root cause is the same, only the more severe one is applied. If the first penalty would cause the second one to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty is issued first, followed by the less severe penalty in the next round.
 
 Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit, even intentionally, are not covered by a specific infraction and can be handled initially with a Caution. If these behaviors continue, the judge may instruct them to stop and treat further incidents as Unsporting Conduct – Minor.
 
@@ -277,7 +277,7 @@ Backups involving random/unknown elements should be approached with extreme caut
 
 
 
-2.
+2.
 
 
 
@@ -347,7 +347,7 @@ automatically resolve, but awareness of the resulting objects must be demonstrat
 
 
 
-Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
+Players may not cause triggered abilities controlled by an opponent to be missed by taking game actions or otherwise prematurely advancing the game. For example, if a player draws a card during his or her draw step without allowing an opponent to demonstrate awareness of a triggered ability, the controller still has an opportunity to fulfill the appropriate obligation by doing so at that point. The Out-of-Order Sequencing rules (MTR section 4.3)
 
 may also be applicable, especially as they relate to batches of actions or resolving items on the stack in an improper order.
 
@@ -445,7 +445,7 @@ Examples A. A player draws 4 cards after casting Ancestral Recall.
 
 
 
-B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
+B. A player draws a card forgetting that a Howling Mine is no longer on the battlefield.
 
 C. A player draws for his turn, and then draws again for his turn a few moments later.
 
@@ -519,7 +519,7 @@ E. A player casts Brainstorm and forgets to put two cards back on top of his lib
 
 
 
-Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game.
+Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game.
 
 
 
@@ -569,7 +569,7 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 
 
-3.
+3.
 
 
 
@@ -651,7 +651,7 @@ B. A spectator points out the correct play to a player who had not solicited the
 
 
 
-Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
+Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
 
 Visual modifications to cards, including brief text, that provide minor strategic information or hints are acceptable and not considered notes. Detailed instructions or complex strategic advice may not be written on cards. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament. Spectators who commit this infraction may be asked to leave the venue if they are not enrolled in the tournament.
 
@@ -707,7 +707,7 @@ C. A player fails to shuffle the portion of his deck revealed during the resolut
 
 
 
-Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
+Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
 
 Any time cards in a deck could be seen, including during shuffling, it is no longer shuffled, even if the player only knows the position of one or two cards. Players are expected to take care in shuffling not to reveal cards to themselves, their teammates, or their opponents.
 
@@ -857,7 +857,7 @@ Philosophy Errors in Limited procedures are disruptive and may become more so if
 
 
 
-3.7.
+3.7.
 
 
 
@@ -921,7 +921,7 @@ The Head Judge has the option to upgrade this penalty to a Game Loss if he or sh
 
 
 
-4.
+4.
 
 
 
@@ -993,7 +993,7 @@ It is possible for an offender to commit this infraction without intending malic
 
 
 
-Examples A.
+Examples A.
 
 B.
 
@@ -1077,7 +1077,7 @@ In most cases this penalty will be issued to both players, unless the other play
 
 
 
-4.4.
+4.4.
 
 
 
@@ -1183,7 +1183,7 @@ A player realizes she has a previous opponent’s card, but she hides it instead
 
 
 
-Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament Organizer, though judges are encouraged to help in any way possible.
+Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament Organizer, though judges are encouraged to help in any way possible.
 
 
 
@@ -1255,7 +1255,7 @@ G. A player realizes he has accidentally drawn an extra card, then fails to call
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warning*
 
 
 
@@ -1341,4 +1341,3 @@ All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other 
 
 
 
-

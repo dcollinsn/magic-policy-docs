@@ -40,7 +40,7 @@ This document is updated periodically. Please obtain the most current version at
 
 
 
-CONTENTS Introduction 
+CONTENTS Introduction 
 Framework of this Document 
 Contents 
 1.
@@ -201,7 +201,7 @@ People who travel further are often more competitive and are likely to desire co
 
 
 
-The penalties in this guide already take into account the REL of the event and as such judges are not to deviate from this guide based on a perceived “lower REL”.
+The penalties in this guide already take into account the REL of the event and as such judges are not to deviate from this guide based on a perceived “lower REL”.
 
 
 
@@ -243,7 +243,7 @@ A Game Loss ends the current game immediately and the player who committed the i
 
 
 
-Game Losses should be applied to the game in which the offense occurred unless the players have begun a new game or the tournament is between rounds, in which case the loss should be applied to the player's next game. If a player receives a Game Loss at the same time his or her opponent receives a Match Loss, the Game Loss should be carried over into the next round. Simultaneous Game Loss penalties should be applied together even if their application would give one player the match win. It is also acceptable for simultaneous Game Loss penalties to extend a match past the expected number of games if neither player has won a majority. Players will still receive a Game Loss if they drop from the tournament; if the penalty is issued between rounds, they will still receive it even though they will not be paired for the next round.
+Game Losses should be applied to the game in which the offense occurred unless the players have begun a new game or the tournament is between rounds, in which case the loss should be applied to the player's next game. If a player receives a Game Loss at the same time his or her opponent receives a Match Loss, the Game Loss should be carried over into the next round. Simultaneous Game Loss penalties should be applied together even if their application would give one player the match win. It is also acceptable for simultaneous Game Loss penalties to extend a match past the expected number of games if neither player has won a majority. Players will still receive a Game Loss if they drop from the tournament; if the penalty is issued between rounds, they will still receive it even though they will not be paired for the next round.
 
 
 
@@ -281,7 +281,7 @@ Some infractions feature remedies to handle the offense beyond the base penalty.
 
 
 
-These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
+These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
 
 Separate infractions committed or discovered at the same time are treated as separate penalties, though if the root cause is the same, only the more severe one is applied. If the first penalty would cause the second one to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty is issued first, followed by the less severe penalty in the next round.
 
@@ -291,7 +291,7 @@ Some violations of tournament rules will not meet the criteria for any specific 
 
 
 
-3.
+3.
 
 
 
@@ -383,7 +383,7 @@ This penalty is applied only once if one or more cards are seen in the same acti
 
 
 
-Examples A.
+Examples A.
 
 A player accidentally reveals (drops, flips over) a card while shuffling her opponent's deck.
 
@@ -455,7 +455,7 @@ Game Play Error — Improper Drawing at Start of Game Definition Penalty Warning
 
 
 
-Examples A. A player draws eight cards in her initial hand (instead of seven).
+Examples A. A player draws eight cards in her initial hand (instead of seven).
 
 B. A player draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
@@ -515,7 +515,7 @@ If a player forgot to discard or return cards from their hand to another zone, t
 
 
 
-3.7.
+3.7.
 
 
 
@@ -535,7 +535,7 @@ Philosophy If an error is caught before a player could gain advantage, then the 
 
 
 
-4.
+4.
 
 
 
@@ -619,7 +619,7 @@ B. A spectator points out the correct play to the player, who had not solicited 
 
 
 
-Philosophy Tournaments test the skill of a player, not their ability to follow external advice or directions. Any strategy advice,
+Philosophy Tournaments test the skill of a player, not their ability to follow external advice or directions. Any strategy advice,
 
 play advice, or construction advice from an external source is considered assistance.
 
@@ -679,7 +679,7 @@ C. A player fails to shuffle the portion of his deck revealed during the resolut
 
 
 
-Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
+Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
 
 Any time cards in a deck could be seen, including during shuffling, it is no longer shuffled, even if the player only knows the position of one or two cards. Players are expected to take care in shuffling not to reveal cards to themselves, their teammates, or their opponents.
 
@@ -733,7 +733,7 @@ Philosophy Errors in draft procedure are disruptive and may become more so if th
 
 
 
-4.7.
+4.7.
 
 
 
@@ -797,7 +797,7 @@ The deck and/or decklist contain one or more cards that are illegal for the form
 
 
 
-•
+•
 
 
 
@@ -867,13 +867,13 @@ If the player has made an obvious error in recording the wrong land type, such a
 
 
 
-If the player, upon drawing an opening hand, discovers a mismatch due to failure to de-sideboard and calls a judge at that point, the Head Judge may downgrade the penalty, fix the deck, and allow the player to redraw the hand with one fewer card. The player may continue to take further mulligans if he or she desires.
+If the player, upon drawing an opening hand, discovers a mismatch due to failure to de-sideboard and calls a judge at that point, the Head Judge may downgrade the penalty, fix the deck, and allow the player to redraw the hand with one fewer card. The player may continue to take further mulligans if he or she desires.
 
 
 
 
 
-5.
+5.
 
 
 
@@ -929,7 +929,7 @@ Philosophy All participants should expect a safe and enjoyable environment at a 
 
 
 
-5.2.
+5.2.
 
 
 
@@ -1013,7 +1013,7 @@ Matches that result in a draw due to time are expected to be reported as such an
 
 
 
-In most cases this penalty will be issued to both players, unless the other player calls over a judge as soon as the suggestion to randomly determine the winner is made.
+In most cases this penalty will be issued to both players, unless the other player calls over a judge as soon as the suggestion to randomly determine the winner is made.
 
 
 
@@ -1103,7 +1103,7 @@ Unsporting Conduct — Theft of Tournament Material Definition Penalty Disqualif
 
 
 
-Examples A. A player in a limited tournament pockets a Magic foil rare that he opened in the sealed pool he is registering.
+Examples A. A player in a limited tournament pockets a Magic foil rare that he opened in the sealed pool he is registering.
 
 B. A player steals cards from the sideboard of his opponent.
 
@@ -1123,7 +1123,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 
 
-6.
+6.
 
 
 
@@ -1185,7 +1185,7 @@ G. A player sees another player mana weave and randomize insufficiently and pile
 
 
 
-6.3.
+6.3.
 
 
 
@@ -1231,7 +1231,7 @@ A player in a sealed deck tournament adds cards to his card pool.
 
 
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Game Rule Violation Failure to Maintain Game State Warning Game Loss Warning Game Loss Warning Warning Warning Tournament Errors Tardiness Outside Assistance Slow Play Insufficient Shuffling Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards Deck/Decklist Problem Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Improperly Determining a Winner Bribery and Wagering Aggressive Behavior Theft of Tournament Material Cheating Stalling Fraud Hidden Information Violation Manipulation of Game Materials Game Loss Match Loss Warning Warning Warning Warning Warning Warning Game Loss Warning Game Loss Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 20, 2010 3.2: Removed Dark Confidant example because it was confusing.
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Game Rule Violation Failure to Maintain Game State Warning Game Loss Warning Game Loss Warning Warning Warning Tournament Errors Tardiness Outside Assistance Slow Play Insufficient Shuffling Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards Deck/Decklist Problem Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Improperly Determining a Winner Bribery and Wagering Aggressive Behavior Theft of Tournament Material Cheating Stalling Fraud Hidden Information Violation Manipulation of Game Materials Game Loss Match Loss Warning Warning Warning Warning Warning Warning Game Loss Warning Game Loss Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 20, 2010 3.2: Removed Dark Confidant example because it was confusing.
 
 3.4: Infraction looks for all other GPEs to determine if there was another error.
 
@@ -1289,7 +1289,7 @@ December 20, 2009 3: Instruction to fix, but not penalize, game states that are 
 
 
 
-APPENDIX C — RULES ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
+APPENDIX C — RULES ENFORCEMENT LEVELS OF PREMIERE PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
 
 
@@ -1299,4 +1299,3 @@ December 20, 2009 3: Instruction to fix, but not penalize, game states that are 
 
 
 
-
