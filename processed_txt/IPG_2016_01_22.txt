@@ -130,13 +130,15 @@ If a triggered ability would have no impact on the game, it’s not an infractio
 
 Judges do not intervene in a missed trigger situation unless they intend to issue a Warning or have reason to suspect that the controller is intentionally missing his or her triggered abilities.
 
-A. Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
+Examples:
 
-B. A player forgets to remove the final time counter from a suspended spell and then draws a card during his draw step.
+Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
 
-C. A player casts Manic Vandal, then forgets its triggered ability by not choosing a target for it. He realizes this only after casting another spell.
+A player forgets to remove the final time counter from a suspended spell and then draws a card during his draw step.
 
-D. A player forgets to exile the Angel token created by Geist of Saint Traft at end of combat.
+A player casts Manic Vandal, then forgets its triggered ability by not choosing a target for it. He realizes this only after casting another spell.
+
+A player forgets to exile the Angel token created by Geist of Saint Traft at end of combat.
 
 She realizes the error when declaring blockers during the next turn.
 
@@ -164,13 +166,15 @@ A player is not considered to have looked at extra cards when he or she places a
 
 This penalty is applied only once if one or more cards are seen in the same action or sequence of actions.
 
-A. A player accidentally reveals (drops, flips over) a card while shuffling her opponent’s deck.
+Examples:
 
-B. A player pulls up an extra card while drawing from his deck.
+A player accidentally reveals (drops, flips over) a card while shuffling her opponent’s deck.
 
-C. A player sees the bottom card of her deck when presenting it to her opponent for cutting/shuffling.
+A player pulls up an extra card while drawing from his deck.
 
-D. A player activates a Sensei’s Divining Top that is no longer on the battlefield, and sees 3 cards before the mistake is noticed.
+A player sees the bottom card of her deck when presenting it to her opponent for cutting/shuffling.
+
+A player activates a Sensei’s Divining Top that is no longer on the battlefield, and sees 3 cards before the mistake is noticed.
 
 Philosophy A player can accidentally look at extra cards easily. Drawing Extra Cards is a separate Game Play Error and does handle looking at extra cards in certain circumstances.
 
@@ -182,17 +186,19 @@ Game Play Error — Hidden Card Error Penalty Warning Definition A player commit
 
 This infraction only applies when an unknown card is in a hidden location both before and after the error. If cards are placed into a public zone their order is known and the infraction can be handled as a Game Rule Violation. Order cannot be determined from card faces only visible to one player unless the zone in question contains only a single card.
 
-A. A player draws four cards after casting Ancestral Recall.
+Examples:
 
-B. A player scries two cards when he should only have scried one.
+A player draws four cards after casting Ancestral Recall.
 
-C. A player resolves a Dark Confidant trigger, but forgets to reveal the card before putting it into her hand .
+A player scries two cards when he should only have scried one.
 
-D. A player has more cards in his hand than can be accounted for.
+A player resolves a Dark Confidant trigger, but forgets to reveal the card before putting it into her hand .
 
-E. A player casts Anticipate and picks up the top four cards of her library.
+A player has more cards in his hand than can be accounted for.
 
-F. A player draws one card too many while drawing their opening hand.
+A player casts Anticipate and picks up the top four cards of her library.
+
+A player draws one card too many while drawing their opening hand.
 
 Philosophy Though the game state cannot be reversed to the ‘correct’ state, this error can be offset by giving the opponent sufficient knowledge and ability to correct the error so that it cannot generate advantage.
 
@@ -208,15 +214,17 @@ Upgrade: If a face-down card cast using a morph ability is discovered during the
 
 Game Play Error — Game Rule Violation Penalty Warning Definition This infraction covers the majority of game situations in which a player makes an error or fails to follow a game procedure correctly. It handles violations of the Comprehensive Rules that are not covered by the other Game Play Errors.
 
-A. A player casts Wrath of God for 3W (actual cost 2WW).
+Examples:
 
-B. A player does not attack with a creature that must attack each turn.
+A player casts Wrath of God for 3W (actual cost 2WW).
 
-C. A player fails to put a creature with lethal damage into a graveyard and it is not noticed until several turns later.
+A player does not attack with a creature that must attack each turn.
 
-D. A Phyrexian Revoker is on the battlefield that should have had a card named for it.
+A player fails to put a creature with lethal damage into a graveyard and it is not noticed until several turns later.
 
-E. A player casts Brainstorm and forgets to put two cards back on top of his library.
+A Phyrexian Revoker is on the battlefield that should have had a card named for it.
+
+A player casts Brainstorm and forgets to put two cards back on top of his library.
 
 Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game.
 
@@ -250,9 +258,11 @@ Game Play Error — Failure to Maintain Game State Penalty Warning Definition A 
 
 illegal actions, either for his or her own advantage, or in the hope of bringing it up at a more strategically advantageous time, they should consider an Unsporting Conduct — Cheating infraction. Not reminding an opponent about his or her triggered abilities is never Failure to Maintain Game State nor Cheating.
 
-A. A player’s opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
+Examples:
 
-B. A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
+A player’s opponent forgets to reveal the card searched for by Worldly Tutor. It is not noticed until the end of turn.
+
+A player does not notice that his opponent has Armadillo Cloak on a creature with protection from green.
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error.
 
@@ -268,13 +278,15 @@ Tournament Error — Tardiness Penalty Game Loss Definition A player is not in h
 
 A player is not tardy at the start of a round if he or she has notified a judge of a delay, provided the delay is not excessive. Extra time may be given in these situations.
 
-A. A player arrives to her seat 5 minutes after the round begins.
+Examples:
 
-B. A player hands in his decklist after the time designated by the judge or organizer.
+A player arrives to her seat 5 minutes after the round begins.
 
-C. A player loses his or her deck and cannot find replacement cards within the first 10 minutes of the round.
+A player hands in his decklist after the time designated by the judge or organizer.
 
-D. A player sits at an incorrect table and plays the wrong opponent.
+A player loses his or her deck and cannot find replacement cards within the first 10 minutes of the round.
+
+A player sits at an incorrect table and plays the wrong opponent.
 
 Philosophy Players are responsible for being on time and in the correct seat for their matches, and for completing registrations in a timely manner. The Tournament Organizer may announce that they are giving the players some additional time before a penalty is issued. Otherwise, the penalty is issued as soon as the round begins.
 
@@ -302,9 +314,11 @@ Additionally, no notes of any kind may be made during a draft. Some team formats
 
 Notes made outside the current match may only be referenced between games, and must have been in the player’s possession since the beginning of the match.
 
-A. During a game, a player references play notes that were created before the tournament.
+Examples:
 
-B. A spectator points out the correct play to a player who had not solicited the information.
+During a game, a player references play notes that were created before the tournament.
+
+A spectator points out the correct play to a player who had not solicited the information.
 
 Philosophy Tournaments test the skill of a player, not his or her ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered outside assistance.
 
@@ -314,13 +328,13 @@ Tournament Error — Slow Play Penalty Warning Definition A player takes longer 
 
 It is also slow play if a player continues to execute a loop without being able to provide an exact number of iterations and the expected resulting game state.
 
-Examples A. A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
+Examples A player repeatedly reviews his opponent’s graveyard without any significant change in game state.
 
-B. A player spends time writing down the contents of an opponent’s deck while resolving Thought Hemorrhage.
+A player spends time writing down the contents of an opponent’s deck while resolving Thought Hemorrhage.
 
-C. A player takes an excessive amount of time to shuffle his deck between games.
+A player takes an excessive amount of time to shuffle his deck between games.
 
-D. A player gets up from his seat to look at standings or goes to the bathroom without permission of an official.
+A player gets up from his seat to look at standings or goes to the bathroom without permission of an official.
 
 Philosophy All players have the responsibility to play quickly enough so that their opponents are not at a significant disadvantage because of the time limit. A player may be playing slowly without realizing it. A comment of “I need you to play faster” is often appropriate and all that is needed.
 
@@ -334,11 +348,13 @@ No additional turns are awarded if the match is already in additional turns, tho
 
 Tournament Error — Insufficient Shuffling Penalty Warning Definition A player unintentionally fails to sufficiently shuffle his or her deck or portion of his or her deck before presenting it to his or her opponent or fails to present it to his or her opponent for further randomization. A deck is not shuffled if the judge believes a player could know the position or distribution of one or more cards in his or her deck.
 
-A. A player forgets to shuffle his library after searching for a card.
+Examples:
 
-B. A player searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
+A player forgets to shuffle his library after searching for a card.
 
-C. A player fails to shuffle the portion of his deck revealed during the resolution of a cascade ability.
+A player searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
+
+A player fails to shuffle the portion of his deck revealed during the resolution of a cascade ability.
 
 Philosophy Players are expected to shuffle their deck thoroughly when it is required and are expected to have the skill and understanding of randomization to do so. However, as the opponent has the opportunity to shuffle after the player does, the potential for advantage is lowered if tournament policy is followed.
 
@@ -370,17 +386,19 @@ Sideboards are considered to be a part of the deck for the purpose of this infra
 
 This infraction does not cover errors in registration made by another participant prior to a sealed pool swap, which should be corrected at the discretion of the judge.
 
-A. A player has 59 cards in her deck, but 60 listed on the decklist.
+Examples:
 
-B. A player in a Legacy tournament lists Mana Drain (a banned card) on his decklist.
+A player has 59 cards in her deck, but 60 listed on the decklist.
 
-C. A player has a 56-card decklist. His actual deck contains 60 cards, with four Dispels not listed.
+A player in a Legacy tournament lists Mana Drain (a banned card) on his decklist.
 
-D. A player has a Pacifism in his deck from a previous opponent.
+A player has a 56-card decklist. His actual deck contains 60 cards, with four Dispels not listed.
 
-E. A player lists ‘Sarkhan’ in a format with both Sarkhan, the Dragonspeaker and Sarkhan Unbroken.
+A player has a Pacifism in his deck from a previous opponent.
 
-F. A player looking at her sideboard during a game fails to keep it clearly separate from her deck.
+A player lists ‘Sarkhan’ in a format with both Sarkhan, the Dragonspeaker and Sarkhan Unbroken.
+
+A player looking at her sideboard during a game fails to keep it clearly separate from her deck.
 
 Philosophy Decklists are used to ensure that decks are not altered in the course of a tournament. Judges and other tournament officials should be vigilant about reminding players before the tournament begins of the importance of submitting a legal decklist, and playing with a legal deck. A player normally receives a Game Loss if his or her decklist is altered after tournament play has begun.
 
@@ -414,11 +432,13 @@ Downgrade: If a player, before taking any game actions, discovers a deck (not de
 
 Tournament Error — Limited Procedure Violation Penalty Warning Definition A player commits a technical error during a draft.
 
-A. A player passes a booster to his left when it is supposed to go to his right.
+Examples:
 
-B. A player exceeds the amount of time allotted for a draft pick.
+A player passes a booster to his left when it is supposed to go to his right.
 
-C. A player puts a card on top of his draft pile, then pulls it back.
+A player exceeds the amount of time allotted for a draft pick.
+
+A player puts a card on top of his draft pile, then pulls it back.
 
 Philosophy Errors in draft are disruptive and may become more so if they are not caught quickly.
 
@@ -426,9 +446,11 @@ Announcements prior to the draft or the specific tournament rules for the format
 
 Tournament Error — Communication Policy Violation Penalty Warning Definition A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules. This infraction only applies to violations of that policy and not to general communication confusion.
 
-A. A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
+Examples:
 
-B. A player claims she hasn’t played her land for the turn, but it is determined that she had and forgot.
+A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
+
+A player claims she hasn’t played her land for the turn, but it is determined that she had and forgot.
 
 Philosophy Clear communication is essential when playing Magic. Though many offenses will be intentional, it is possible for a player to make a genuine mistake and these should not be penalized harshly. Refer to section 4.1 of the Magic Tournament Rules for a full explanation of the policy. It can be summarized as:
 
@@ -450,9 +472,11 @@ Additional Remedy A backup may be considered in cases where a player has clearly
 
 Tournament Error — Marked Cards Penalty Warning Definition The cards in a player’s deck are marked or oriented in a way that could potentially give an advantage to that player.
 
-A. A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
+Examples:
 
-B. A player without sleeves has several foil cards that stand out significantly from the rest of her deck.
+A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
+
+A player without sleeves has several foil cards that stand out significantly from the rest of her deck.
 
 Philosophy Sleeves and cards often become worn over the course of a tournament, and, as long as the player is not attempting to take advantage of this, addressing the situation is sufficient in most cases.
 
@@ -480,17 +504,19 @@ Judges should inform the player how his or her conduct is disruptive. The player
 
 Unsporting Conduct — Minor Penalty Warning Definition A player takes action that is disruptive to the tournament or its participants. It may affect the comfort level of those around the individual, but determining whether this is the case is not required.
 
-A. A player uses excessively vulgar and profane language.
+Examples:
 
-B. A player inappropriately demands to a judge that her opponent receive a penalty.
+A player uses excessively vulgar and profane language.
 
-C. A player appeals to the Head Judge before waiting for the floor judge to issue a ruling.
+A player inappropriately demands to a judge that her opponent receive a penalty.
 
-D. A player throws his deck on the ground after losing a game.
+A player appeals to the Head Judge before waiting for the floor judge to issue a ruling.
 
-E. A player leaves excessive trash in the play area after leaving the table.
+A player throws his deck on the ground after losing a game.
 
-F. A player fails to follow the request of a tournament official, such as being asked to leave the play area.
+A player leaves excessive trash in the play area after leaving the table.
+
+A player fails to follow the request of a tournament official, such as being asked to leave the play area.
 
 Philosophy All participants should expect a safe and enjoyable environment at a tournament, and a participant needs to be made aware if his or her behavior is unacceptable so that this environment may be maintained.
 
@@ -502,15 +528,17 @@ Unsporting Conduct — Major Penalty Match Loss Definition A player takes action
 
 It is possible for an offender to commit this infraction without intending malice or harm to the subject of the harassment.
 
-A. A player uses a racial slur against his opponent.
+Examples:
 
-B. A player takes inappropriate photos of another player without express permission.
+A player uses a racial slur against his opponent.
 
-C. A player asks a spectator for a date, is denied, and continues to press the issue.
+A player takes inappropriate photos of another player without express permission.
 
-D. A player purposefully obstructs another player with the intent of inducing physical contact.
+A player asks a spectator for a date, is denied, and continues to press the issue.
 
-E. A spectator uses social media to bully another player.
+A player purposefully obstructs another player with the intent of inducing physical contact.
+
+A spectator uses social media to bully another player.
 
 Philosophy A safe environment is a basic expectation of any tournament attendee. Harassment undermines the safety and integrity of a tournament. Players who purposefully create harmful or unwelcoming situations in an event are expected to immediately correct the behavior and demonstrate remorse or be removed.
 
@@ -526,17 +554,19 @@ Upgrade: If the offense was committed with malicious intent, the player displays
 
 Unsporting Conduct — Improperly Determining a Winner Penalty Disqualification Definition A player uses or offers to use a method that is not part of the current game (including actions not legal in the current game) to determine the outcome of a game or match.
 
-A. As time is called, two players about to draw roll a die to determine the winner.
+Examples:
 
-B. A player offers to flip a coin to determine the winner of a match.
+As time is called, two players about to draw roll a die to determine the winner.
 
-C. Two players arm wrestle to determine the winner of the match.
+A player offers to flip a coin to determine the winner of a match.
 
-D. Two players play rock-paper-scissors to decide if they should play the match or draw.
+Two players arm wrestle to determine the winner of the match.
 
-E. Two players compare the converted mana costs of the top cards of their libraries to determine the winner of a game at the end of extra turns.
+Two players play rock-paper-scissors to decide if they should play the match or draw.
 
-F. Two players reveal cards from the top of their libraries to see “who would win” after extra turns.
+Two players compare the converted mana costs of the top cards of their libraries to determine the winner of a game at the end of extra turns.
+
+Two players reveal cards from the top of their libraries to see “who would win” after extra turns.
 
 Philosophy Using an outside-the-game method to determine a winner compromises the integrity of the tournament.
 
@@ -548,29 +578,33 @@ Unsporting Conduct — Bribery and Wagering Penalty Disqualification Definition 
 
 Wagering occurs when a player or spectator at a tournament places or offers to place a bet on the outcome of a tournament, match or any portion of a tournament or match. The wager does not need to be monetary, nor is it relevant if a player is not betting on his or her own match.
 
-A. A player in a Swiss round offers his opponent $100 to concede the match.
+Examples:
 
-B. A player offers his opponent a card in exchange for a draw.
+A player in a Swiss round offers his opponent $100 to concede the match.
 
-C. A player asks for a concession in exchange for a prize split.
+A player offers his opponent a card in exchange for a draw.
 
-D. Two players agree that the winner of the match will be able to choose a rare card out of the other person’s deck after the match.
+A player asks for a concession in exchange for a prize split.
 
-E. Two spectators place a bet on the number of games that will be needed to decide a match.
+Two players agree that the winner of the match will be able to choose a rare card out of the other person’s deck after the match.
+
+Two spectators place a bet on the number of games that will be needed to decide a match.
 
 Philosophy Bribery and wagering disrupt the integrity of the tournament and are strictly forbidden.
 
 Unsporting Conduct — Aggressive Behavior Penalty Disqualification Definition A player acts in a threatening way towards others or their property.
 
-A. A player threatens to hit another player who won’t concede to him.
+Examples:
 
-B. A player pulls a chair out from under another player, causing her to fall to the ground.
+A player threatens to hit another player who won’t concede to him.
 
-C. A player makes threats against a judge after receiving a ruling.
+A player pulls a chair out from under another player, causing her to fall to the ground.
 
-D. A player tears up a card belonging to another player.
+A player makes threats against a judge after receiving a ruling.
 
-E. A player intentionally turns over a table.
+A player tears up a card belonging to another player.
+
+A player intentionally turns over a table.
 
 Philosophy The safety of all people at a tournament is of paramount importance. There will be no tolerance of physical abuse or intimidation.
 
@@ -578,13 +612,15 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 Unsporting Conduct — Theft of Tournament Material Penalty Disqualification Definition A player steals material from the event, such as cards or tournament equipment.
 
-A. A player in a limited tournament pockets a foil rare that he opened in the sealed pool he is registering.
+Examples:
 
-B. A player steals cards from the sideboard of his opponent.
+A player in a limited tournament pockets a foil rare that he opened in the sealed pool he is registering.
 
-C. A player steals the table number from a table.
+A player steals cards from the sideboard of his opponent.
 
-D. A player realizes she has a previous opponent’s card, but she hides it instead of telling a tournament official.
+A player steals the table number from a table.
+
+A player realizes she has a previous opponent’s card, but she hides it instead of telling a tournament official.
 
 Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament Organizer,
 
@@ -596,17 +632,19 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 Unsporting Conduct — Stalling Penalty Disqualification Definition A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional, please refer to Tournament Error — Slow Play instead.
 
-A. A player has two lands in his hand, no options available to significantly affect the game,
+Examples:
+
+A player has two lands in his hand, no options available to significantly affect the game,
 
 and spends excessive time “thinking” about what to do to eat up time on the clock.
 
-B. A player is ahead in games and significantly slows down his pace of play so the opponent has little chance to catch up.
+A player is ahead in games and significantly slows down his pace of play so the opponent has little chance to catch up.
 
-C. A player playing slowly appeals a warning in an attempt to gain advantage by having more time to make a decision.
+A player playing slowly appeals a warning in an attempt to gain advantage by having more time to make a decision.
 
-D. A player intentionally mulligans slowly before the third game in an attempt to make it harder for his opponent to win in time.
+A player intentionally mulligans slowly before the third game in an attempt to make it harder for his opponent to win in time.
 
-E. A player losing a game starts slowing down the pace of play in an attempt to run out the clock.
+A player losing a game starts slowing down the pace of play in an attempt to run out the clock.
 
 Unsporting Conduct — Cheating Penalty Disqualification Definition A person breaks a rule defined by the tournament documents, lies to a tournament official, or notices an offense committed in his or her (or a teammate's) match and does not call attention to it.
 
@@ -624,17 +662,19 @@ If all criteria are not met, the offense is not Cheating and is handled by a dif
 
 Cheating will often appear on the surface as a Game Play Error or Tournament Error, and must be investigated by the judge to make a determination of intent and awareness.
 
-A. A player alters the results of a match after the match is over.
+Examples:
 
-B. A player lies to a tournament official about what happened in a game to make his case stronger.
+A player alters the results of a match after the match is over.
 
-C. A player allows her opponent to put a creature into the graveyard even though the creature has not been dealt lethal damage.
+A player lies to a tournament official about what happened in a game to make his case stronger.
 
-D. A player notices that his opponent resolved only half of the triggered ability of Sword of Feast and Famine and decides not to call attention to the error.
+A player allows her opponent to put a creature into the graveyard even though the creature has not been dealt lethal damage.
 
-E. A player peeks at another player’s picks during the draft.
+A player notices that his opponent resolved only half of the triggered ability of Sword of Feast and Famine and decides not to call attention to the error.
 
-F. A player adds cards to his Sealed Deck pool.
+A player peeks at another player’s picks during the draft.
+
+A player adds cards to his Sealed Deck pool.
 
 G. A player realizes he has accidentally drawn an extra card, then fails to call a judge in order to avoid a penalty.
 

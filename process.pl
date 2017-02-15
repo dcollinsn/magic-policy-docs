@@ -14,7 +14,9 @@ foreach my $filename (@files) {
         @text = map {s/\.{10,}\s*\d{1,2}\s*//;$_} @text;
         @text = map {s/^\014/\n/;$_} @text;
         @text = map {s/^\d{1,3}[.:\s]+\d{0,3}[.:\s]*/\n/;$_} @text;
-        @text = map {s/^Examples\s+//;$_} @text;
+        @text = map {s/^Examples\s+/Examples:\n\n/;$_} @text;
+        @text = map {s/^[A-J]\.\s?//;$_} @text;
+        @text = map {s/^\([A-J]\)\s?//;$_} @text;
         my $text = join("\n", @text);
         $text =~ s/(\w)\s*\n\s+(\w)/$1 $2/g;
         $text =~ s/\n\n+/\n\n/g;

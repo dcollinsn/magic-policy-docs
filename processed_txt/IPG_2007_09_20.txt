@@ -320,21 +320,23 @@ The decklist contains cards that would make the deck illegal because it would vi
 
 This infraction applies to tournaments for which decklists are being used and includes any sideboard errors.
 
-A. A player in a Magic tournament has 59 cards listed on her decklist when the minimum is 60.
+Examples:
 
-B. A player in an Extended Magic tournament lists Skullclamp (a banned card) on his decklist.
+A player in a Magic tournament has 59 cards listed on her decklist when the minimum is 60.
 
-C. A player in a Magic tournament has a 56-card decklist. His actual deck contains 60 cards, with four Psychatogs not listed.
+A player in an Extended Magic tournament lists Skullclamp (a banned card) on his decklist.
 
-D. A player in a Limited Dreamblade tournament has listed 17 miniatures on the warband list when the maximum warband size is 16.
+A player in a Magic tournament has a 56-card decklist. His actual deck contains 60 cards, with four Psychatogs not listed.
 
-E. A player in a Magic tournament has four copies of Terror in his main deck and two in his sideboard.
+A player in a Limited Dreamblade tournament has listed 17 miniatures on the warband list when the maximum warband size is 16.
 
-F. A player in a Limited Magic tournament fails to list any of her sideboard cards in the "Total" column of her decklist.
+A player in a Magic tournament has four copies of Terror in his main deck and two in his sideboard.
 
-G. A player in a Dreamblade tournament lists four copies of Cannibal Pariah.
+A player in a Limited Magic tournament fails to list any of her sideboard cards in the "Total" column of her decklist.
 
-H. A player in a Magic tournament lists 'Ar.Wurm' which could be either Argothian Wurm or Arrogant Wurm I. A player in a Magic tournament lists ‘COP’ instead of ‘Circle of Protection: Red’
+A player in a Dreamblade tournament lists four copies of Cannibal Pariah.
+
+A player in a Magic tournament lists 'Ar.Wurm' which could be either Argothian Wurm or Arrogant Wurm A player in a Magic tournament lists ‘COP’ instead of ‘Circle of Protection: Red’
 
 Philosophy If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to punish a player heavily for an illegal decklist. Whenever possible, it is best to correct the decklist to match the player’s actual deck.
 
@@ -360,17 +362,19 @@ This infraction applies to tournaments for which decklists are being used and in
 
 The infraction for a lost miniature is different and covered by section Deck/Warband Error — Lost Miniature.
 
-A. A player in a Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
+Examples:
 
-B. A player in an Extended Magic tournament is playing with Skullclamp (a banned card) in his deck. His decklist indicates a legal deck with no banned cards.
+A player in a Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
 
-C. A player in a Magic tournament has a Pacifism in his deck from a previous opponent. His decklist indicates a legal deck.
+A player in an Extended Magic tournament is playing with Skullclamp (a banned card) in his deck. His decklist indicates a legal deck with no banned cards.
 
-D. A player in a Dreamblade tournament has four copies of Blight Rat in their warband because they accidentally picked up a previous opponent’s Blight Rat.
+A player in a Magic tournament has a Pacifism in his deck from a previous opponent. His decklist indicates a legal deck.
 
-E. A player in a Dreamblade tournament has listed only 15 miniatures, but is playing 16 miniatures.
+A player in a Dreamblade tournament has four copies of Blight Rat in their warband because they accidentally picked up a previous opponent’s Blight Rat.
 
-F. A player in a Magic tournament looking at their sideboard during a game fails to keep it clearly separate from her deck.
+A player in a Dreamblade tournament has listed only 15 miniatures, but is playing 16 miniatures.
+
+A player in a Magic tournament looking at their sideboard during a game fails to keep it clearly separate from her deck.
 
 Philosophy The decklist is the ultimate guide to a player's deck. Decklists are used to ensure that decks are not altered in the course of a tournament. If the decklist indicates a legal deck, but the actual contents of the deck do not match the decklist, the player should restore the deck to reflect the decklist. However, if the Head Judge believes that the error was obviously clerical (for example, a player marks “10 Islands” on their decklist and is only playing black cards),
 
@@ -402,13 +406,15 @@ The deck contains cards that would make the deck illegal because it would violat
 
 This infraction applies to tournaments for which decklists are not being used.
 
-A. A player in a Standard Magic tournament has 59 cards in her deck when the minimum is 60.
+Examples:
 
-B. A player in an Extended Magic tournament has Skullclamp (a banned card) in his deck.
+A player in a Standard Magic tournament has 59 cards in her deck when the minimum is 60.
 
-C. A player in a Constructed Dreamblade tournament has 17 miniatures in his warband when the maximum is D. A player in a Constructed Dreamblade tournament is playing with a miniature whose base does not match the figure.
+A player in an Extended Magic tournament has Skullclamp (a banned card) in his deck.
 
-E. A player has lost several cards from her sideboard (or lost the entire sideboard).
+A player in a Constructed Dreamblade tournament has 17 miniatures in his warband when the maximum is A player in a Constructed Dreamblade tournament is playing with a miniature whose base does not match the figure.
+
+A player has lost several cards from her sideboard (or lost the entire sideboard).
 
 Philosophy The DCI encourages tournaments to use decklists whenever possible, and strongly recommends them for any event with a significant prize.
 
@@ -418,11 +424,13 @@ Penalty Regular Game Competitive Game Professional N/A The judge should work wit
 
 Deck/Warband Error — Improper Registration of Limited Card Pool Definition This infraction applies to limited tournaments for which decklists are being used and only applies to errors made during the registration of the card pool before a deck swap or other form of registration verification. Registration errors made during deckbuilding are handled in Deck/Warband Error — Illegal Decklist.
 
-A. A player registers one copy of a card one slot below the card physically present. There are no copies of the registered card.
+Examples:
 
-B. A player fails to register a miniature opened in a starter when registering a warband.
+A player registers one copy of a card one slot below the card physically present. There are no copies of the registered card.
 
-D. A player uses the “Played” column instead of the “Total” column to register the pool.
+A player fails to register a miniature opened in a starter when registering a warband.
+
+A player uses the “Played” column instead of the “Total” column to register the pool.
 
 Philosophy The correctness of card pools at a limited event is important. Errors in registration are somewhat disruptive but can be easily fixed.
 
@@ -434,9 +442,11 @@ Prerelease tournaments may specifically allow for a player to change their deck 
 
 Note this exception is only available to official Prerelease events and is at the discretion of the Tournament organizer. Check with officials at Prereleases if they are using this option.
 
-A. A player in a Magic tournament leaves a Circle of Protection: Red in her deck from the previous round.
+Examples:
 
-B. A player in a Magic tournament removes the sideboarded card from his deck after a match, but forgets to replace it with the original card.
+A player in a Magic tournament leaves a Circle of Protection: Red in her deck from the previous round.
+
+A player in a Magic tournament removes the sideboarded card from his deck after a match, but forgets to replace it with the original card.
 
 Philosophy While this error can be common, it provides a significant advantage and is therefore a Game Loss.
 
@@ -444,7 +454,9 @@ Penalty All Levels Game 116.
 
 Deck/Warband Error — Lost Miniature Definition If a warband is found to contain less than the required or registered number of miniatures or point values, but otherwise is legal (and otherwise matches what was registered), the missing miniatures are considered to be lost.
 
-A. A player in a Dreamblade tournament finds herself with only 15 miniatures instead of the 16 expected.
+Examples:
+
+A player in a Dreamblade tournament finds herself with only 15 miniatures instead of the 16 expected.
 
 The 15 remaining miniatures are all registered on her registration list, but the 16th miniature registered cannot be found.
 
@@ -474,11 +486,13 @@ Because of the diverse nature of Game Play Errors, care should be taken when upg
 
 Game Play Error — Incorrect Representation Definition Due to a minor clerical error, the game is somehow inaccurately represented, but the game state is clear to both players and the action ultimately legal. If the error has affected game play or been allowed to continue to the point where ambiguity exists, it should be treated as a Game Play Error — Game Rule Violation instead.
 
-A. A player in a Magic tournament forgets to untap his land before moving to his upkeep.
+Examples:
 
-B. A player in a Magic tournament places a spell into the graveyard before it has finished resolving.
+A player in a Magic tournament forgets to untap his land before moving to his upkeep.
 
-C. A player in a Magic tournament forgets to put counters onto a creature that comes into play with counters on it.
+A player in a Magic tournament places a spell into the graveyard before it has finished resolving.
+
+A player in a Magic tournament forgets to put counters onto a creature that comes into play with counters on it.
 
 Philosophy These errors do not have a significant impact on the game, but could cause confusion at a later point if not remedied.
 
@@ -488,9 +502,11 @@ Penalty All Levels Caution Correct the erroneous representation.
 
 Game Play Error — Illegal Game State Definition The ongoing state of the current game is illegal as a result of a prior misplay.
 
-A. In a Magic tournament, two copies of the same Legendary permanent are in play.
+Examples:
 
-B. In a Magic tournament, an Armadillo Cloak (cost 1GW) is enchanting a creature with Protection from Green.
+In a Magic tournament, two copies of the same Legendary permanent are in play.
+
+In a Magic tournament, an Armadillo Cloak (cost 1GW) is enchanting a creature with Protection from Green.
 
 Philosophy Both players share a responsibility in allowing the game to continue in this illegal state. Because many decisions and plans may have been made based on this state, no effort should be made to back up the game and fix it or try to compensate for the effects of the illegal state.
 
@@ -498,13 +514,15 @@ Penalty All Levels Warning Apply state-based effects or other game-specific ways
 
 Game Play Error — Missed Trigger Definition A game event triggers, but the player controlling the trigger is unaware of its existence and/or forgets to perform the actions specified by the trigger.
 
-A. In a Magic tournament, a player has Braids, Cabal Minion in play. After he has declared attackers, he realizes that he has failed to sacrifice a permanent to Braids' upkeep trigger.
+Examples:
 
-B. In a Magic tournament, a player realizes that she forgot to remove the final counter from a Suspend spell.
+In a Magic tournament, a player has Braids, Cabal Minion in play. After he has declared attackers, he realizes that he has failed to sacrifice a permanent to Braids' upkeep trigger.
 
-C. In a Magic tournament, a player forgets to pay Cumulative Upkeep for a creature.
+In a Magic tournament, a player realizes that she forgot to remove the final counter from a Suspend spell.
 
-D. In a Dreamblade tournament, a player forgets to sacrifice a creature to the Appease ability of Eater of Hope when it was spawned.
+In a Magic tournament, a player forgets to pay Cumulative Upkeep for a creature.
+
+In a Dreamblade tournament, a player forgets to sacrifice a creature to the Appease ability of Eater of Hope when it was spawned.
 
 Philosophy Most games have "triggers" — actions that the game asks players to take as a result an event occurring. Because the representation of these triggers is invisible, players will miss them on occasion.
 
@@ -526,11 +544,13 @@ Failure to Maintain Game State penalty. The opponents may not be able to recogni
 
 Game Play Error — Failure to Reveal Definition A player forgets to reveal information that they have been instructed to reveal by a game rule or effect.
 
-A. A player in a Magic tournament plays Worldly Tutor and places the card he searched for on top of his library without revealing it.
+Examples:
 
-B. A player in a Magic tournament resolves the trigger from his Dark Confidant., but puts the card directly into his hand.
+A player in a Magic tournament plays Worldly Tutor and places the card he searched for on top of his library without revealing it.
 
-C. At the end of a game in a Magic tournament, a player shuffles her morph card back into her library without revealing it.
+A player in a Magic tournament resolves the trigger from his Dark Confidant., but puts the card directly into his hand.
+
+At the end of a game in a Magic tournament, a player shuffles her morph card back into her library without revealing it.
 
 Philosophy Failing to reveal a card prevents opponents from verifying that an effect was played correctly. While the error is easy to make, the potential for abuse is high and the DCI wishes to track players who repeatedly commit this infraction.
 
@@ -542,21 +562,23 @@ downgrade this penalty at Regular and Competitive RELs. If the card is still uni
 
 Game Play Error — Game Rule Violation Definition This infraction covers the majority of game situations in which a player makes an error or fails to follow a game procedure correctly. Note that this is different from entirely forgetting a game trigger, which is handled in Game Play Error — Missed Trigger, a situation in which the game state itself is illegal, which is handled in Game Play Error — Illegal Game State, or forgetting to reveal a card, which is handled in Game Play Error — Failure to Reveal.
 
-A. In a Dreamblade tournament, a player forgets to pay extra spawn points for a miniature when that player does not have miniatures of the appropriate aspects in play or in the graveyard.
+Examples:
 
-B. In a Magic tournament, a player plays Wrath of God for 3W (actual cost 2WW).
+In a Dreamblade tournament, a player forgets to pay extra spawn points for a miniature when that player does not have miniatures of the appropriate aspects in play or in the graveyard.
 
-C. In a Magic tournament, a player does not attack with a creature that must attack each turn.
+In a Magic tournament, a player plays Wrath of God for 3W (actual cost 2WW).
 
-D. In a Magic tournament, a player puts Serra Avatar into their graveyard instead of shuffling it into their library.
+In a Magic tournament, a player does not attack with a creature that must attack each turn.
 
-E. In a Magic tournament, a player fails to put a creature with lethal damage into a graveyard and it is not noticed until several turns later.
+In a Magic tournament, a player puts Serra Avatar into their graveyard instead of shuffling it into their library.
 
-F. In a Dreamblade tournament, a player fails to assign blades before moving on to assign damage in combat.
+In a Magic tournament, a player fails to put a creature with lethal damage into a graveyard and it is not noticed until several turns later.
 
-G. In a Dreamblade tournament, two locations are occupying the same cell.
+In a Dreamblade tournament, a player fails to assign blades before moving on to assign damage in combat.
 
-H. A player in a Magic tournament fails to draw her card for her turn.
+In a Dreamblade tournament, two locations are occupying the same cell.
+
+A player in a Magic tournament fails to draw her card for her turn.
 
 Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and "fix" these errors and reverse actions that have since been taken in the game, but it is important that all judges be able to apply these penalties consistently, regardless of their skill in the game, and thus only errors that are caught immediately should be fixed.
 
@@ -564,9 +586,11 @@ Penalty All Levels Warning If the error was caught immediately, back up the game
 
 Game Play Error — Failure to Maintain Game State Definition This infraction is committed by a player who has allowed their opponent to commit a Game Play Error and has not pointed it out it immediately and before they could potentially gain advantage. If a judge believes a player is intentionally not pointing out their opponent’s illegal actions, either for their own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud.
 
-A. In a Magic tournament, a player's opponent forgets to discard a card to Masticore during their upkeep. It is not noticed until the end of turn.
+Examples:
 
-B. In a Dreamblade tournament, a player’s opponent forgets to sacrifice a creature after spawning a creature with the Appease ability. The error is not noticed until the end of turn.
+In a Magic tournament, a player's opponent forgets to discard a card to Masticore during their upkeep. It is not noticed until the end of turn.
+
+In a Dreamblade tournament, a player’s opponent forgets to sacrifice a creature after spawning a creature with the Appease ability. The error is not noticed until the end of turn.
 
 Philosophy If an error is caught immediately, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error.
 
@@ -576,11 +600,13 @@ Penalty All Levels Warning Judges should not usually upgrade this penalty, as pl
 
 Tournament Error — Tardiness Definition A player fails to comply with announced time limits.
 
-A. A player arrives to her seat 5 minutes after the round begins.
+Examples:
 
-B. A player hands in his decklist after the time designated by the judge or organizer.
+A player arrives to her seat 5 minutes after the round begins.
 
-C. A player loses his or her deck and must find replacement cards after the round has begun.
+A player hands in his decklist after the time designated by the judge or organizer.
+
+A player loses his or her deck and must find replacement cards after the round has begun.
 
 Philosophy Players are responsible for being on time for their matches and completing registrations in a timely manner.
 
@@ -594,9 +620,9 @@ In tournaments with single-game matches a time extension equal to the amount of 
 
 Tournament Error — Playing the Wrong Opponent Definition Two people played or are playing against each other when they were paired against different players for that round.
 
-Example A. A player sits at an incorrect table and plays the wrong opponent.
+Example A player sits at an incorrect table and plays the wrong opponent.
 
-B. A player in a team event who is designated as "Player A" plays "Player C" on the other team.
+A player in a team event who is designated as "Player A" plays "Player C" on the other team.
 
 Philosophy It is both players’ responsibility to ensure they are playing their designated opponent before beginning play.
 
@@ -606,17 +632,19 @@ the player sitting at the wrong table should report to the correct seat. If the 
 
 Tournament Error — Slow Play Definition Players who take longer than is reasonably required to complete game actions are engaging in Slow Play. If a judge believes a player is intentionally playing slowly to take advantage of a time limit, a Cheating — Stalling infraction should be used instead.
 
-A. A player in a Dreamblade tournament repeatedly manipulates his figures without committing to a specific course of action.
+Examples:
 
-B. A player in a Magic tournament repeatedly reviews his opponent’s graveyard without any significant change in game state.
+A player in a Dreamblade tournament repeatedly manipulates his figures without committing to a specific course of action.
 
-C. A player in a Magic tournament spends time writing down the contents of an opponent's deck when resolving Haunting Echoes.
+A player in a Magic tournament repeatedly reviews his opponent’s graveyard without any significant change in game state.
 
-D. After 3 minutes into a round at a Magic Pro Tour™ Qualifier, a player has not completed his shuffling.
+A player in a Magic tournament spends time writing down the contents of an opponent's deck when resolving Haunting Echoes.
 
-E. In a Dreamblade tournament, a player takes an unreasonable amount of time deciding which creatures to spawn.
+After 3 minutes into a round at a Magic Pro Tour™ Qualifier, a player has not completed his shuffling.
 
-F. A player gets up from their seat to look at standings, or goes to the bathroom without permission of an official.
+In a Dreamblade tournament, a player takes an unreasonable amount of time deciding which creatures to spawn.
+
+A player gets up from their seat to look at standings, or goes to the bathroom without permission of an official.
 
 Philosophy All players have the responsibility to play quickly enough so that their opponents are not at a significant disadvantage because of the time limit. A player may be playing slowly without realizing it. At lower RELs a comment of “I need you to play faster” is often appropriate and all that is needed. Further slow play should be penalized.
 
@@ -628,9 +656,11 @@ If Slow Play has significantly affected the result of the match, the Head Judge 
 
 Tournament Error — Insufficient Randomization Definition A player unintentionally fails to sufficiently randomize their deck before presenting it to their opponent. If the insufficient randomization was intentional, a Cheating — Manipulation of Game Materials infraction should be used instead.
 
-A. A player in a Magic tournament forgets to shuffle his library after searching for a card.
+Examples:
 
-B. A player in a Magic tournament searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
+A player in a Magic tournament forgets to shuffle his library after searching for a card.
+
+A player in a Magic tournament searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
 
 Philosophy Players are expected to randomize their deck thoroughly when it is required and are expected, especially at Competitive and Professional RELs, to have the skill and understanding of randomization to do so. Any time cards in a deck could be seen, including during shuffling, it is no longer randomized, even if the player only knows the position of one or two cards. Players should take care in shuffling not to reveal cards to themselves, their teammates or their opponents.
 
@@ -644,21 +674,25 @@ Penalty Regular Warning Competitive Game Professional Game If a Game Loss is cal
 
 Tournament Error — Failure to Follow Official Announcements Definition This infraction is committed by a player who fails to follow an instruction given to a broad audience they are included in. Most often these are registration instructions, safety instructions, or venue rules. Instructions given directly to an individual and not followed are penalized as Unsporting Conduct – Major.
 
-A. In a tournament, a player forgets to list their name or DCI# on a decklist following such an announcement made during the tournament registration period.
+Examples:
 
-B. A player smokes in a venue where signage indicates such is forbidden.
+In a tournament, a player forgets to list their name or DCI# on a decklist following such an announcement made during the tournament registration period.
 
-C. A player fails to leave an area of the venue that a general announcement has asked all players to leave.
+A player smokes in a venue where signage indicates such is forbidden.
+
+A player fails to leave an area of the venue that a general announcement has asked all players to leave.
 
 Philosophy Players are required to be attentive and follow the instructions of tournament officials for the efficiency of the tournament and safety of all.
 
 Penalty All Levels Warning Tournament Error — Draft Procedure Violation Definition A player commits a technical error during a draft. This does not cover any attempts to view or reveal cards that are hidden, which is handled by Cheating — Outside Assistance.
 
-A. A player passes a booster to his left when it is supposed to go to his right.
+Examples:
 
-B. A player exceeds the amount of time allotted for a pick.
+A player passes a booster to his left when it is supposed to go to his right.
 
-C. A player starts to put a card on top of their pile, then pulls it back.
+A player exceeds the amount of time allotted for a pick.
+
+A player starts to put a card on top of their pile, then pulls it back.
 
 Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly.
 
@@ -666,9 +700,9 @@ Penalty Regular Caution Competitive Caution Professional Warning Announcements p
 
 Tournament Error — Player Communication Violation Definition A player unintentionally violates the Player Communication guidelines (see section 50). Intentional violations, or attempting to take advantage of a previously committed violation, should be treated as Cheating – Fraud.
 
-Example A. A player in a Magic tournament is asked how many cards they have in hand and answers “Three.” A few moments later, they realize that they have four.
+Example A player in a Magic tournament is asked how many cards they have in hand and answers “Three.” A few moments later, they realize that they have four.
 
-B. A player in a Magic tournament claims they haven’t played their land for the turn, but it is determined that they had just forgotten.
+A player in a Magic tournament claims they haven’t played their land for the turn, but it is determined that they had just forgotten.
 
 Philosophy Clear communication is essential in playing of any DCI-sanctioned game, and many offenses will be intentional.
 
@@ -690,15 +724,7 @@ Unsporting Conduct — Minor Definition Unsporting Conduct — Minor is action t
 
 It may affect the comfort level of those around the individual, but determining whether this is the case is not required.
 
-A.
-
-B.
-
-C.
-
-D.
-
-E.
+Examples:
 
 A player uses excessively vulgar and profane language.
 
@@ -728,15 +754,7 @@ Insulting another person based on their race, color, religion, national origin, 
 
 Aggressive or violent behavior that is not directed at another person or another person’s property.
 
-A.
-
-B.
-
-C.
-
-D.
-
-E.
+Examples:
 
 A player is asked to leave the play area and is still watching a match a few minutes later.
 
@@ -760,9 +778,11 @@ Penalty All Levels Game The player should correct the behavior immediately, and 
 
 Unsporting Conduct — Randomly Determining a Winner Definition Players use or offer to use a random method to determine the winner of a game or match.
 
-A. As time is called in a tournament, two players about to draw roll a die to determine the winner.
+Examples:
 
-B. A player offers to flip a coin to determine the winner of a match.
+As time is called in a tournament, two players about to draw roll a die to determine the winner.
+
+A player offers to flip a coin to determine the winner of a match.
 
 Philosophy Using a random method to determine a winner compromises the integrity of the tournament.
 
@@ -774,13 +794,7 @@ Unsporting Conduct — Bribery and Wagering Definition Bribery occurs when a pla
 
 Wagering occurs when a player or spectator at a tournament places a bet on the outcome of a tournament, match or any portion of a tournament or match. The wager does not need to be monetary, nor is it relevant if a player is not betting on their own match.
 
-A.
-
-B.
-
-C.
-
-D.
+Examples:
 
 A player in a Swiss round offers his opponent $100 to concede the match.
 
@@ -790,21 +804,13 @@ A player asks for a concession in exchange for a prize split.
 
 Two players in a Magic tournament agree that the winner of the match will be able to choose a rare card out of the other person’s deck after the match.
 
-E. Two spectators at a Dreamblade tournament place a bet on the over/under of total victory points in a match.
+Two spectators at a Dreamblade tournament place a bet on the over/under of total victory points in a match.
 
 Philosophy Bribery and wagering disrupt the integrity of the tournament and are strictly forbidden. Please refer to section 25 of the Universal Tournament Rules to ensure the proper application of this penalty.
 
 Penalty All Levels Disqualification without prize Unsporting Conduct — Aggressive Behavior Definition A player acts in a threatening way towards others or their property.
 
-A.
-
-B.
-
-C.
-
-D.
-
-E.
+Examples:
 
 A player threatens to hit another player who won’t concede to them.
 
@@ -824,13 +830,15 @@ Penalty All Levels Disqualification without prize The player should be asked to 
 
 Unsporting Conduct — Theft of Tournament Material Definition A player steals material from the event, such as cards or miniatures.
 
-A. A player in a limited tournament pockets a Magic foil rare that they opened in the sealed pool they are registering.
+Examples:
 
-B. A player steals cards from the sideboard of their opponent.
+A player in a limited tournament pockets a Magic foil rare that they opened in the sealed pool they are registering.
 
-C. A player steals the table number from a table.
+A player steals cards from the sideboard of their opponent.
 
-D. A player in a Dreamblade tournament realizes they have a previous opponent’s miniature, but they hide it instead of telling a tournament official.
+A player steals the table number from a table.
+
+A player in a Dreamblade tournament realizes they have a previous opponent’s miniature, but they hide it instead of telling a tournament official.
 
 Philosophy Players should enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament organizer, though judges are encouraged to help in any way possible.
 
@@ -846,11 +854,11 @@ Cheating — Stalling Definition A player intentionally plays slowly in order to
 
 please refer to Tournament Error — Slow Play instead.
 
-Example A. A player in a Magic tournament has two lands in his hand, no options available to significantly affect the game, and spends time "thinking" about what to do.
+Example A player in a Magic tournament has two lands in his hand, no options available to significantly affect the game, and spends time "thinking" about what to do.
 
-B. A player in a Dreamblade tournament is ahead in turns and significantly slows down their pace of play so the opponent has little chance to catch up.
+A player in a Dreamblade tournament is ahead in turns and significantly slows down their pace of play so the opponent has little chance to catch up.
 
-C. A player playing slowly appeals a warning in an attempt to gain advantage by having more time to make a decision.
+A player playing slowly appeals a warning in an attempt to gain advantage by having more time to make a decision.
 
 Philosophy If it is clear that a player is stalling, the integrity of the match is compromised and he or she should face a serious penalty.
 
@@ -858,19 +866,21 @@ Penalty All Levels Disqualification without prize Cheating — Fraud Definition 
 
 (Note that Fraud, like most cheating, is determined by an investigation and will often appear on the surface as a Game Play Error or Tournament Error.)
 
-A. A player enters a tournament under an assumed name and/or using a different DCI number in an attempt to manipulate ratings.
+Examples:
 
-B. A player alters the actual results of a match to tournament officials.
+A player enters a tournament under an assumed name and/or using a different DCI number in an attempt to manipulate ratings.
 
-C. A player lies to a tournament official to gain or keep an advantage.
+A player alters the actual results of a match to tournament officials.
 
-D. A player in a Magic tournament lies to their opponent about their life total.
+A player lies to a tournament official to gain or keep an advantage.
 
-E. A player in a Dreamblade tournament intentionally spawns more miniatures than is possible with the current spawn points.
+A player in a Magic tournament lies to their opponent about their life total.
 
-F. A player in a Dreamblade tournament realizes that his opponent has stated spawn points incorrectly, but chooses not to correct this because it is to his advantage.
+A player in a Dreamblade tournament intentionally spawns more miniatures than is possible with the current spawn points.
 
-G. A player gives false or misleading information to a judge or tournament official that helps another player to cheat.
+A player in a Dreamblade tournament realizes that his opponent has stated spawn points incorrectly, but chooses not to correct this because it is to his advantage.
+
+A player gives false or misleading information to a judge or tournament official that helps another player to cheat.
 
 Philosophy There should be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud.
 
@@ -908,15 +918,17 @@ Notes made during a match may be referenced during that match or between matches
 
 Team events and multiplayer events have specific communication policies that may override these.
 
-A. A player in a Magic tournament references sideboarding notes brought to the tournament during a match.
+Examples:
 
-B. A player in a Dreamblade tournament references notes about his opponent’s warband after arriving at the table for their match.
+A player in a Magic tournament references sideboarding notes brought to the tournament during a match.
 
-C. A player in a Magic booster draft reveals a card they drafted to another player during the draft.
+A player in a Dreamblade tournament references notes about his opponent’s warband after arriving at the table for their match.
+
+A player in a Magic booster draft reveals a card they drafted to another player during the draft.
 
 D A player in a Magic booster draft peeks at the cards from which their neighbor is selecting.
 
-E. A player in a Magic tournament peeks at the bottom card of his opponent’s deck while cutting it.
+A player in a Magic tournament peeks at the bottom card of his opponent’s deck while cutting it.
 
 Philosophy Tournaments test the skill of a player, not their ability to follow external advice or directions. Any strategy advice,
 
@@ -924,15 +936,17 @@ play advice or construction advice from an external source is considered assista
 
 Knowledge of hidden information is a form of outside assistance, and any attempt to gain it, or reveal it when not allowed to is considered cheating Penalty All Levels Disqualification without prize Cheating — Manipulation of Game Materials Definition A player intentionally manipulates game materials (cards, dice, sleeves, figures, etc.) illegally to their advantage.
 
-A. A player in a Magic tournament orders some cards in their deck during a search and does not sufficiently randomize afterwards.
+Examples:
 
-B. A player in a Dreamblade tournament intentionally rolls dice into other dice that have been rolled but not tabulated, in an attempt to change the result.
+A player in a Magic tournament orders some cards in their deck during a search and does not sufficiently randomize afterwards.
 
-C. A player in a Dreamblade tournament moves a figure while their opponent is not looking.
+A player in a Dreamblade tournament intentionally rolls dice into other dice that have been rolled but not tabulated, in an attempt to change the result.
 
-D. A player in a Magic tournament marks all of their Islands with a thumbnail mark on the corner of the sleeve.
+A player in a Dreamblade tournament moves a figure while their opponent is not looking.
 
-E. A player in a Magic tournament draws cards not entitled to when his opponent is not looking.
+A player in a Magic tournament marks all of their Islands with a thumbnail mark on the corner of the sleeve.
+
+A player in a Magic tournament draws cards not entitled to when his opponent is not looking.
 
 Philosophy There will be no tolerance for such blatant disregard for the rules.
 
@@ -948,15 +962,7 @@ A player is not considered to have looked at extra cards when he or she places a
 
 This penalty should be applied only once if one or more cards are seen in the same action or sequence of actions.
 
-A.
-
-B.
-
-C.
-
-D.
-
-E.
+Examples:
 
 A player accidentally reveals (drops, flips over) a card while shuffling her opponent's deck.
 
@@ -978,9 +984,11 @@ Care must be taken before shuffling to make sure that there are no "legally know
 
 212.
 
-Card Drawing — Drawing Extra Cards Definition This penalty is given when a player draws a card that they were not supposed to. A card is considered drawn once it touches the other cards in a player's hand. Even if both players believe they can identify the card in question afterwards, the potential for abuse necessitates the stronger penalty at that point. Up until then, the card is easily identified and the situation can be rectified. If the player has an empty hand when drawing the card, bringing the hands together is an indication that the cards have been drawn A. A player in a Magic tournament draws 4 cards after playing Ancestral Recall.
+Card Drawing — Drawing Extra Cards Definition This penalty is given when a player draws a card that they were not supposed to. A card is considered drawn once it touches the other cards in a player's hand. Even if both players believe they can identify the card in question afterwards, the potential for abuse necessitates the stronger penalty at that point. Up until then, the card is easily identified and the situation can be rectified. If the player has an empty hand when drawing the card, bringing the hands together is an indication that the cards have been drawn Examples:
 
-B. A player in a Magic tournament draws an extra card from the ability of a Howling Mine that is no longer in play.
+A player in a Magic tournament draws 4 cards after playing Ancestral Recall.
+
+A player in a Magic tournament draws an extra card from the ability of a Howling Mine that is no longer in play.
 
 Philosophy Though this error is easy to commit accidentally, the potential for advantage and the potential for it to be overlooked mandate a higher level of penalty.
 
@@ -988,11 +996,13 @@ Penalty Regular Warning Competitive Game Professional Game If a Game Loss is cal
 
 Card Drawing — Improper Drawing at Start of Game Definition Players committing this infraction draw extra cards (or too few cards) when they draw their hands, either initially or while resolving a mulligan.
 
-A. A player in a Magic tournament draws eight cards in her initial hand (instead of seven).
+Examples:
 
-B. A player in a Magic tournament draws seven cards in his initial hand (instead of six) after taking a mulligan.
+A player in a Magic tournament draws eight cards in her initial hand (instead of seven).
 
-C. A player in a Magic tournament who is playing first (as opposed to drawing first) incorrectly draws a card during her first draw step.
+A player in a Magic tournament draws seven cards in his initial hand (instead of six) after taking a mulligan.
+
+A player in a Magic tournament who is playing first (as opposed to drawing first) incorrectly draws a card during her first draw step.
 
 Philosophy This is generally a minor infraction and deserves a fairly minor penalty. Forcing players who have drawn too many cards to redraw their hands with one less card is fairly quick and simple and avoids the possibility of a player gaining an advantage if he or she just had to reshuffle his or her cards and draw a new hand.
 
@@ -1002,9 +1012,11 @@ Penalty Regular Caution Competitive Warning Professional Warning If the player h
 
 Card Drawing — Failure to Discard Definition A player forgets to discard a card when required to by an effect or the rules of the game.
 
-A. A player in a Magic tournament discards a single non-land card to Compulsive Research.
+Examples:
 
-B. A player in a Magic tournament forgets to discard down to seven cards at the end of his turn.
+A player in a Magic tournament discards a single non-land card to Compulsive Research.
+
+A player in a Magic tournament forgets to discard down to seven cards at the end of his turn.
 
 Philosophy While this is technically a Game Rule Violation, the penalty requires an additional fix to mitigate the potential advantage.
 
@@ -1016,11 +1028,13 @@ If the player is using sleeves, the cards must be examined while in the sleeves 
 
 Marked Cards — No Pattern Definition A player's cards are marked or oriented in a way that is unlikely to give an advantage to that player.
 
-A. A player in a Magic tournament has small marks on a few of his sleeves. The markings are on a Mountain,
+Examples:
+
+A player in a Magic tournament has small marks on a few of his sleeves. The markings are on a Mountain,
 
 a Loxodon Hierarch, and a Lightning Helix.
 
-B. A player without sleeves has several premium cards that stand out significantly from the rest of her deck.
+A player without sleeves has several premium cards that stand out significantly from the rest of her deck.
 
 Philosophy If the possibility for advantage is fairly low, the player should not receive a significant penalty. Note that almost all sleeves can be considered marked in some way; judges should keep this in mind when determining penalties. In cases of marked cards, educating players to shuffle their cards and sleeves before sleeving the cards is very important. A Marked Cards — No Pattern penalty should generally not be upgraded on repeat offenses.
 
@@ -1030,11 +1044,13 @@ Penalty Regular Caution Competitive Warning Professional Warning The player shou
 
 Marked Cards — Pattern Definition A player's cards are marked or oriented in a way that could potentially give a significant advantage to that player.
 
-A. A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
+Examples:
 
-B. A player in a Magic tournament has four Early Harvests in her deck, all of which are in card sleeves that have a slight bend in one corner.
+A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
 
-C. A player playing without sleeves has all of their spells of one color turned upside down.
+A player in a Magic tournament has four Early Harvests in her deck, all of which are in card sleeves that have a slight bend in one corner.
+
+A player playing without sleeves has all of their spells of one color turned upside down.
 
 Philosophy If the possibility for advantage is high, the player should receive a significant penalty. This penalty still presumes that the cards are marked unintentionally. If the Head Judge believes the cards were marked intentionally, he or she should refer to Cheating — Manipulation of Game Materials instead.
 
@@ -1052,9 +1068,11 @@ DICE ERRORS Many miniatures games require players to determine a number of dice 
 
 Dice Error — Too Few Rolled Definition A player rolls fewer dice than required.
 
-A. A player in a Dreamblade tournament attacks with a seven-power creature, but only rolls six attack dice.
+Examples:
 
-B. A player in a Dreamblade tournament rolls three attack dice for a deathblow when the creature’s power is five.
+A player in a Dreamblade tournament attacks with a seven-power creature, but only rolls six attack dice.
+
+A player in a Dreamblade tournament rolls three attack dice for a deathblow when the creature’s power is five.
 
 Philosophy This is generally a minor infraction and deserves a fairly minor penalty. There is little advantage to be gained.
 
@@ -1062,7 +1080,9 @@ Penalty Regular Caution Competitive Warning Professional Warning The player need
 
 Dice Error — Too Many Rolled Definition A player rolls more dice than required.
 
-A. In a Dreamblade tournament, a player rolls six attack dice when the combined power of his attackers is only five.
+Examples:
+
+In a Dreamblade tournament, a player rolls six attack dice when the combined power of his attackers is only five.
 
 Philosophy While some random method of eliminating the extra rolled dice could be applied to remove the results of those dice,
 
