@@ -31,73 +31,37 @@ http://www.wizards.com/wpn/Events/Rules.aspx.
 
 
 CONTENTS
-Introduction ................................................................................................................................................................................. 1
-Framework of this Document ...................................................................................................................................................... 1
-Contents ....................................................................................................................................................................................... 2
-1.
-General Philosophy ............................................................................................................................................................ 3
-1.1.
-Definition of Rules Enforcement Level (REL) ......................................................................................................... 4
-1.2.
-Definition of Penalties .............................................................................................................................................. 4
-1.3.
-Applying Penalties .................................................................................................................................................... 5
-2.
-Game Play Errors ............................................................................................................................................................... 7
-2.1.
-Game Play Error — Missed Trigger ......................................................................................................................... 7
-2.2.
-Game Play Error — Looking at Extra Cards ............................................................................................................ 9
-2.3.
-Game Play Error — Drawing Extra Cards ............................................................................................................... 9
-2.4.
-Game Play Error — Improper Drawing at Start of Game ...................................................................................... 10
-2.5.
-Game Play Error — Game Rule Violation ............................................................................................................. 10
-2.6.
-Game Play Error — Failure to Maintain Game State ............................................................................................. 11
-3.
-Tournament Errors ........................................................................................................................................................... 12
-3.1.
-Tournament Error — Tardiness .............................................................................................................................. 12
-3.2.
-Tournament Error — Outside Assistance ............................................................................................................... 12
-3.3.
-Tournament Error — Slow Play ............................................................................................................................. 13
-3.4.
-Tournament Error — Insufficient Shuffling ........................................................................................................... 13
-3.5.
-Tournament Error — Failure to Follow Official Announcements .......................................................................... 14
-3.6.
-Tournament Error — Draft Procedure Violation .................................................................................................... 14
-3.7.
-Tournament Error — Communication Policy Violation ......................................................................................... 15
-3.8.
-Tournament Error — Marked Cards ....................................................................................................................... 15
-3.9.
-Tournament Error — Deck/Decklist Problem ........................................................................................................ 16
-4.
-Unsporting Conduct ......................................................................................................................................................... 18
-4.1.
-Unsporting Conduct — Minor ................................................................................................................................ 18
-4.2.
-Unsporting Conduct — Major ................................................................................................................................ 18
-4.3.
-Unsporting Conduct — Improperly Determining a Winner ................................................................................... 19
-4.4.
-Unsporting Conduct — Bribery and Wagering ...................................................................................................... 19
-4.5.
-Unsporting Conduct — Aggressive Behavior ........................................................................................................ 20
-4.6.
-Unsporting Conduct — Theft of Tournament Material .......................................................................................... 20
-4.7.
-Unsporting Conduct — Stalling ............................................................................................................................. 21
-4.8.
-Unsporting Conduct — Cheating ........................................................................................................................... 21
-Appendix A — Penalty Quick Reference .................................................................................................................................. 22
-Appendix B — Rules Enforcement Levels of Premier Programs ............................................................................................. 22
-Appendix C — Changes from Previous Versions ..................................................................................................................... 23
-
+Introduction Framework of this Document Contents 1.
+General Philosophy 1.1.
+Definition of Rules Enforcement Level (REL) 1.2.
+Definition of Penalties 1.3.
+Applying Penalties 2.
+Game Play Errors 2.1.
+Game Play Error — Missed Trigger 2.2.
+Game Play Error — Looking at Extra Cards 2.3.
+Game Play Error — Drawing Extra Cards 2.4.
+Game Play Error — Improper Drawing at Start of Game 2.5.
+Game Play Error — Game Rule Violation 2.6.
+Game Play Error — Failure to Maintain Game State 3.
+Tournament Errors 3.1.
+Tournament Error — Tardiness 3.2.
+Tournament Error — Outside Assistance 3.3.
+Tournament Error — Slow Play 3.4.
+Tournament Error — Insufficient Shuffling 3.5.
+Tournament Error — Failure to Follow Official Announcements 3.6.
+Tournament Error — Draft Procedure Violation 3.7.
+Tournament Error — Communication Policy Violation 3.8.
+Tournament Error — Marked Cards 3.9.
+Tournament Error — Deck/Decklist Problem 4.
+Unsporting Conduct 4.1.
+Unsporting Conduct — Minor 4.2.
+Unsporting Conduct — Major 4.3.
+Unsporting Conduct — Improperly Determining a Winner 4.4.
+Unsporting Conduct — Bribery and Wagering 4.5.
+Unsporting Conduct — Aggressive Behavior 4.6.
+Unsporting Conduct — Theft of Tournament Material 4.7.
+Unsporting Conduct — Stalling 4.8.
+Unsporting Conduct — Cheating Appendix A — Penalty Quick Reference Appendix B — Rules Enforcement Levels of Premier Programs Appendix C — Changes from Previous Versions 
 
 1.
 

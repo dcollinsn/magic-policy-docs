@@ -7,6 +7,6 @@ foreach my $filename (@files) {
         my $date = $1;
         my $txt = "IPG_$date.txt";
         `pdftotext $filename`;
-        `perl -nwe 'next if /^\\d{1,2}\$/; print;' < $txt > processed_txt/$txt`;
+        `perl -nwe 'next if /^\\d{1,2}\$/; s/\\.{10,}\\s*\\d{1,2}\\s*//; print;' < $txt > processed_txt/$txt`;
     }
 }

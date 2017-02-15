@@ -20,41 +20,7 @@ http://www.wizards.com/wpn/Events/Rules.aspx.
 
 
 CONTENTS
-Introduction ................................................................................................................................................. 1
-Framework of this Document ..................................................................................................................... 1
-Contents ...................................................................................................................................................... 2
-1. General Philosophy ............................................................................................................................. 3
-1.1. Definition of Penalties .................................................................................................................. 3
-1.2. Applying Penalties ....................................................................................................................... 5
-1.3. Randomizing a Deck .................................................................................................................... 5
-1.4. Backing Up ................................................................................................................................... 6
-2. Game Play Errors ................................................................................................................................. 7
-2.1. Game Play Error — Missed Trigger ............................................................................................. 7
-2.2. Game Play Error — Looking at Extra Cards ................................................................................ 9
-2.3. Game Play Error — Hidden Card Error ...................................................................................... 10
-2.5. Game Play Error — Game Rule Violation.................................................................................. 11
-2.6. Game Play Error — Failure to Maintain Game State ................................................................. 12
-3. Tournament Errors ............................................................................................................................. 13
-3.1. Tournament Error — Tardiness .................................................................................................. 13
-3.2. Tournament Error — Outside Assistance ................................................................................... 14
-3.3. Tournament Error — Slow Play.................................................................................................. 14
-3.4. Tournament Error — Insufficient Shuffling ............................................................................... 15
-3.5. Tournament Error — Deck/Decklist Problem............................................................................. 16
-3.6. Tournament Error — Limited Procedure Violation .................................................................... 18
-3.7. Tournament Error — Communication Policy Violation ............................................................. 18
-3.8. Tournament Error — Marked Cards ........................................................................................... 19
-4. Unsporting Conduct ........................................................................................................................... 20
-4.1. Unsporting Conduct — Minor .................................................................................................... 20
-4.2. Unsporting Conduct — Major..................................................................................................... 21
-4.3. Unsporting Conduct — Improperly Determining a Winner ....................................................... 22
-4.4. Unsporting Conduct — Bribery and Wagering........................................................................... 22
-4.5. Unsporting Conduct — Aggressive Behavior ............................................................................. 23
-4.6. Unsporting Conduct — Theft of Tournament Material .............................................................. 23
-4.7. Unsporting Conduct — Stalling .................................................................................................. 24
-4.8. Unsporting Conduct — Cheating ................................................................................................ 24
-Appendix A — Penalty Quick Reference ................................................................................................. 26
-Appendix B — Changes from Previous Versions .................................................................................... 27
-
+Introduction Framework of this Document Contents 1. General Philosophy 1.1. Definition of Penalties 1.2. Applying Penalties 1.3. Randomizing a Deck 1.4. Backing Up 2. Game Play Errors 2.1. Game Play Error — Missed Trigger 2.2. Game Play Error — Looking at Extra Cards 2.3. Game Play Error — Hidden Card Error 2.5. Game Play Error — Game Rule Violation2.6. Game Play Error — Failure to Maintain Game State 3. Tournament Errors 3.1. Tournament Error — Tardiness 3.2. Tournament Error — Outside Assistance 3.3. Tournament Error — Slow Play3.4. Tournament Error — Insufficient Shuffling 3.5. Tournament Error — Deck/Decklist Problem3.6. Tournament Error — Limited Procedure Violation 3.7. Tournament Error — Communication Policy Violation 3.8. Tournament Error — Marked Cards 4. Unsporting Conduct 4.1. Unsporting Conduct — Minor 4.2. Unsporting Conduct — Major4.3. Unsporting Conduct — Improperly Determining a Winner 4.4. Unsporting Conduct — Bribery and Wagering4.5. Unsporting Conduct — Aggressive Behavior 4.6. Unsporting Conduct — Theft of Tournament Material 4.7. Unsporting Conduct — Stalling 4.8. Unsporting Conduct — Cheating Appendix A — Penalty Quick Reference Appendix B — Changes from Previous Versions 
 
 1.
 
