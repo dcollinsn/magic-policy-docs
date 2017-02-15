@@ -7,6 +7,15 @@ foreach my $filename (@files) {
         my $date = $1;
         my $txt = "IPG_$date.txt";
         `pdftotext $filename`;
-        `perl -nwe 'next if /^\\d{1,2}\$/; s/\\.{10,}\\s*\\d{1,2}\\s*//; print;' < $txt > processed_txt/$txt`;
+        open(my $readfh, $txt);
+        my @text = <$readfh>;
+        close($readfh);
+        @text = grep {$_ !~ /^\d{1,2}$/} @text;
+        @text = map {s/\.{10,}\s*\d{1,2}\s*//;$_} @text;
+        my $text = join("\n", @text);
+        $text =~ s/(\w)\s*\n\s+(\w)/$1 $2/g;
+        open(my $outfh, ">processed_txt/$txt");
+        print $outfh $text;
+        close $outfh;
     }
 }
