@@ -1,328 +1,574 @@
-DCI™ PENALTY GUIDELINES Effective January 20, 2005 Introduction The DCI Penalty Guidelines provide a structure to help judges determine the appropriate penalties for infractions that occur during the course of a tournament. Penalties exist to protect players from potential misconduct. All penalties in this document (with the exception of section 160) assume the infraction is unintentional. If a judge believes an infraction was intentional, the penalty should be upgraded as appropriate (see section 160). Otherwise, judges should rarely deviate from these guidelines, and only in significant or exceptional circumstances.
+DCI™ PENALTY GUIDE AND PROCEDURES Release September 1, 2007 Effective September 20, 2007 INTRODUCTION The DCI Penalty Guide provides judges the appropriate penalties and procedures to handle offenses that occur during the course of a tournament, as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. A violation of rules requires some penalty or they are unenforceable.
 
-See Appendix A for changes from the last version of this document.
+FRAMEWORK OF THIS DOCUMENT This document is divided into four major parts: General Definitions and Philosophy (sections 1-99), Universal Infractions
 
-See Appendix B of the DCI Universal Tournament Rules for definitions of terms in this document.
+(sections 100-199), Card Game-Specific Infractions (sections 200-299), and Miniatures Game-Specific Infractions (sections 300-399). Infractions are broken down into general classes (such as Game Play Error, Unsporting Conduct, and Cheating),
 
-This document is published in multiple languages. If a discrepancy exists between the English version and a non-English version of this document, tournament participants must refer to the English version to settle disputes concerning interpretations of the Penalty Guidelines.
-
-This document is updated periodically. Please obtain the most current version at thedci.com/docs.
-
-CONTENTS Format of Infractions Definitions of Penalties Applying Penalties Repeat Offenses DECK PROBLEMS Deck Problem—Illegal Main Decklist Deck Problem—Illegal Main Deck (Legal Decklist)
-
-Deck Problem—Illegal Main Deck (No Decklist Used)
-
-Deck Problem—Illegal Sideboard List Deck Problem—Illegal Sideboard (Legal List)
-
-Deck Problem—Illegal Sideboard (No List Used)
-
-PROCEDURAL ERRORS Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent CARD DRAWING Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw MARKED CARDS Marked Cards—Minor Marked Cards—Major SLOW PLAY Slow Play—Playing Slowly Slow Play—Exceeding the Pregame Time Limit UNSPORTING CONDUCT Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe CHEATING Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other Appendix A—Changes from previous versions Appendix B—Penalty Quick-Reference Guide Appendix C—Contact Information FORMAT OF INFRACTIONS Infractions are listed in the following manner:
-
-• Infraction Type, Infraction Name—The category and designation of the infraction
-
-• Definition—The description of what qualifies as an infraction
-
-• Example—Sample incidents of the infraction
-
-• Philosophy—The reasoning behind the penalty
-
-• Penalty—Recommended penalties at each Rules Enforcement Level (REL)
-
-DEFINITION OF PENALTIES Caution:
-
-This is the smallest penalty that can be given. A caution is a verbal warning to a player. When a player is cautioned, the infraction must be explained to the player, and the consequences if repeated. A caution should be reported to the head judge, but does not need to be reported to the DCI.
-
-Warning:
-
-A warning is an officially tracked penalty. The purpose of a warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database. Warnings must be communicated to the head judge and the tournament official responsible for the permanent tracking of the warning. Warnings must also be communicated to the players to whom they are issued, explaining the infractions as well as possible consequences if the infractions are repeated.
-
-Game Loss:
-
-A warning is always given with this penalty. If the player is in between games, the loss should be applied to the player's next game. Game losses must be communicated to the head judge and the tournament official responsible for the permanent tracking of the warning. Judges must communicate game losses to the players to which they are issued and explain the infractions and possible consequences if the infractions are repeated.
-
-Match Loss:
-
-A warning is always given with this penalty. Generally, the match loss applies to the current match. If in between matches, or if extenuating circumstances apply, a judge should apply this to the next match in the tournament. For example, a player receives a major unsporting conduct penalty during the last turn of the deciding game of a match.
-
-The judge might decide that the match loss should apply to the next match because the current match is basically finished and a match loss would be no penalty at this point.
-
-Match losses must be communicated to the head judge and the tournament official responsible for the permanent tracking of the warning. Judges must communicate match losses to the players to which they are issued and explain the infractions and possible consequences if the infractions are repeated.
-
-Disqualification:
-
-A warning is always given with this penalty. When this penalty is applied, the player loses his or her current match and is dropped from the tournament. Players will still receive whatever prizes they have earned before the disqualification. In certain situations, a disqualification without prize is appropriate. A disqualification without prize is defined as a disqualification with the player receiving no prizes and receiving no additional awards (such as pro points, event invitations, and so on).
-
-Disqualification without prize is recommended for severe unsporting conduct and cheating. The head judge must issue the disqualification, inform the tournament official responsible for the permanent tracking of the warning, and report the disqualification to the DCI (email: dqreports[at]wizards.com).
-
-When a player is disqualified without prize during a tournament, they are removed from the tournament and do not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings when someone higher in the standings is disqualified without prize. The player who advances a spot in the standings is entitled to any prizes the new standing would offer. If the disqualification without prize takes place after a cut it made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified without prize during the quarterfinal round of a Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but they do move into 8th place in the standings.
-
-Disqualifications that are the result of accumulated infractions are not without prize.
-
-For example, a player who receives many warnings for procedural errors would only receive a disqualification, but with prize.
-
-APPLYING PENALTIES The DCI Penalty Guidelines apply to every game the DCI sanctions, but certain infractions may not apply to certain games. For example, games that do not have a mulligan rule will not use mulligan-related penalties.
-
-REL 2 and higher should be used only for more competitive events, typically found in Magic: The Gathering® tournaments. Tournament organizers and judges may run events at higher RELs, but most events should be run at REL 1.
-
-In large events, when all decklists are checked during the first round, the head judge should consider waiting until the start of the next round to apply all decklist penalties.
-
-In the interest of fairness, the decision to delay the penalties should be made at the start of the tournament. This makes the process of assigning penalties more efficient, and avoids situations in which some players are finished playing their matches before the penalties are applied. At smaller events, with a small number of decklists to check, penalties can be applied as they are discovered. For maximum efficiency, game-loss penalties should be applied first, then match-loss penalties. If a decklist error is discovered during play, the penalty should be applied immediately. For example, if a player notices his or her opponent playing with a banned card, a penalty should be applied immediately.
-
-If players bring an infraction to the attention of the judge, a penalty should be applied for that infraction in the round in which it occurred, whenever possible.
-
-For events that feature one-game matches, a game loss would essentially be a match loss. The following penalties for the following games should be used instead of a game loss.
+and further into subclasses for specific infractions. While many infractions could fall into a more general subclass, they are separate because:
 
 •
 
-MLB™ Showdown™ sports card game: The member with the highest point value on the manager's team is ejected. (If there is a tie for highest point value, the manager chooses which team member is ejected.)
+•
 
-REPEAT OFFENSES The recommended penalty for the first offense is listed in the "Penalty" portion of each infraction. For the second offense of the same infraction, the next highest penalty is recommended. Note that this increase of penalty does not take into consideration the penalties assigned to other RELs, but instead follows the order of:
+•
 
-Caution—Warning—Game Loss—Match Loss—Disqualification If a baseline penalty is a warning, the second offense should receive a game loss, and the third offense should receive a match loss. For example, at REL 1 a player's penalty for the first offense of Card Drawing—Looking at Extra Cards would be a caution.
+•
 
-The player's penalty for a second offense would be the next highest, which is a warning. His or her third offense would result in a game loss, fourth offense a match loss, and fifth offense would result in the player's disqualification.
+The DCI can identify the potential for significant advantage (such as Drawing Extra Cards).
 
-Disqualifications that are the result of accumulated infractions are not without prize.
+The procedure to correct the infraction deviates from the base philosophy for the class of infractions (such as Looking at Extra Cards).
 
-At lower RELs, judges may find it more appropriate, in the interest of education, to repeat a level of penalty before escalating to the next level.
+The DCI wishes to specifically track a player’s repeated infractions across multiple tournaments (such as Marked Cards — Pattern).
 
-DECK PROBLEMS This section generally deals with deck problems and related issues for Constructed and Limited tournaments.
+The DCI wishes to make it clearer if a penalty should be upgraded or not if it is repeated (such as Marked Cards —
 
-Deck Problem—Illegal Main Decklist Definition This penalty applies to tournaments for which decklists are being used. If sideboards are being used, and only the sideboard list is illegal, please refer to section 114 instead.
+No Pattern).
 
-Players are considered to have illegal decklists when one of the following conditions is true:
+See Appendix B of the DCI Universal Tournament Rules for further definitions of terms in this document.
 
-• The decklist contains an illegal number of cards.
+This document is published in multiple languages. If a discrepancy exists between the English version and a non-English version of this document, tournament participants must refer to the English version to settle disputes concerning interpretations of the Penalty Guide.
 
-• The decklist contains cards that are illegal for the format.
+This document is updated periodically. Please obtain the most current version at http://www.thedci.com/docs.
 
-• The decklist contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic® games).
+CONTENTS General Philosophy Definition of Rules Enforcement Level (REL)
+
+Definition of Penalties Applying Penalties Repeat Offenses Player Communication Shortcuts Universal Infractions Deck/Warband Errors Deck/Warband Error — Illegal Decklist Deck/Warband Error — Illegal Deck (Legal Decklist)
+
+Deck/Warband Error — Illegal Deck (No Decklists)
+
+Deck/Warband Error — Improper Registration of Limited Card Pool Deck/Warband Error — Failure to Desideboard Deck/Warband Error — Lost Miniature Game Play Errors Game Play Error — Incorrect Representation Game Play Error — Illegal Game State Game Play Error — Missed Trigger Game Play Error — Failure to Reveal Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Playing the Wrong Opponent Tournament Error — Slow Play Tournament Error — Insufficient Randomization Tournament Error — Failure to Follow Official Announcements Tournament Error — Draft Procedure Violation Tournament Error — Player Communication Violation Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Randomly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Cheating Cheating — Stalling Cheating — Fraud Cheating — Outside Assistance Cheating — Manipulation of Game Materials Card Game-Specific Infractions Card Drawing Card Drawing — Looking at Extra Cards Card Drawing — Drawing Extra Cards Card Drawing — Improper Drawing at Start of Game Card Drawing — Failure to Discard Marked Cards Marked Cards — No Pattern Marked Cards — Pattern Miniatures Game-Specific Infractions Dice Errors Dice Error — Too Few Rolled Dice Error — Too Many Rolled Appendix A — Penalty Quick Reference Appendix B — Changes from Previous Version Appendix C — Using Reporter V2.X with these guidelines Appendix D — Rule Enforcement Levels of Premiere Programs PAGE GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges should not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question, or to prevent a situation from escalating. Judges do not stop play errors from occurring, but deal with rules issues, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy.
+
+All players are treated equally according to the guidelines of an event's Rules Enforcement Level (REL). Knowledge of a player's history does not influence the recognition of an infraction or the application of penalties, though it may affect the manner of an investigation. The REL of an event defines what is expected from a player regarding their rules and policy knowledge and technical play skill.
+
+Treating a player differently because they once played in a Professional event would mean holding each player to a different standard and would produce inconsistent rulings that depended on the judge’s familiarity with the player.
+
+Professionals should be able to play in Regular REL events without being held to a higher technical level of play against less-experienced opponents who may not be as familiar with the rules.
+
+The purpose of a penalty is to educate the player not to make similar mistakes in the future. This is done through both an explanation of where the rules or policies were violated and a penalty to reinforce the education. Penalties are also for the deterrence and education of every other player in the event. A penalty should not be deviated from for the purpose of education or because a player did not realize that what they were doing was incorrect. Infractions are also used to track player behavior over time.
+
+The level of penalty an infraction carries is based on these factors:
+
+•
+
+•
+
+•
+
+•
+
+The amount of disruption it causes (time and people affected) in discovering, investigating, and resolving the issue.
+
+The potential for abuse (or risk of being exposed).
+
+The Rules Enforcement Level of the tournament.
+
+Repeated offenses by the player within the tournament.
+
+Only the Head Judge is authorized to issue penalties that deviate from these guidelines. The Head Judge should not deviate from this guide’s procedures except in significant and exceptional circumstances. Significant and exceptional circumstances are rare — a table collapses, a booster contains miniatures from a different set — or a situation that has no applicable philosophy for guidance. The Rules Enforcement Level, round of the tournament, age or experience-level of the player, desire to educate the player, and certification level of the judge are NOT exceptional circumstances. If another judge feels deviation is appropriate, he or she should consult with the Head Judge.
+
+Judges should be seen as a benefit to the players, helping to ensure the consistent and fair running of a tournament.
+
+Players should be encouraged to use judges as needed, and should not be afraid to call a judge if they feel one is required. If a player commits an offense, realizes it and calls a judge over immediately and before they could potentially benefit from the offense, the Head Judge has the option to downgrade the penalty without it being considered a deviation, though they should still follow any procedure recommended to fix the error. For example, a player offers his deck to his opponent and while cutting his opponent’s deck discovers that a card that should be in his deck is in a previously removed from game pile. If he calls the judge over immediately, the Head Judge may choose to issue a Warning rather than a Game Loss.
+
+All infractions in this document (with the exception of the Cheating and Unsporting Conduct sections) presume the offense is unintentional. If a judge believes an offense was intentional, the infraction should be Cheating or Unsporting Conduct DEFINITION OF RULES ENFORCEMENT LEVEL (REL)
+
+Rules Enforcement Level is a means to communicate to the players and judges what expectations they can have of the event in terms of rigid rules enforcement, technically correct play, and procedures used.
+
+The REL of an event should increase based on the prizes awarded and the distance a player may be expected to travel. People who travel further are often more competitive and are likely to desire correctness over fun. The REL of the event should reflect this.
+
+The penalties in this guide already take into account the REL of the event and as such judges should not deviate from this guide based on a perceived “lower REL”.
+
+Regular Regular events are focused on fun and social aspects, not enforcement. Most tournaments are run at this level unless they offer sizeable prizes or invitations. Some Junior tournaments may also be run at this level even if they do offer sizeable prizes or invitations. Players are expected to know most of the game rules, may have heard of policy and what is "really bad", but generally play in a fashion similar to the way they do at home. Players are still responsible for following the rules, but the penalties tend to be less severe.
+
+•
+
+•
+
+These events do not require deck verification.
+
+These events do not require certified judges.
+
+Competitive Competitive events are those with significant cash prizes, pro points, and/or invitations awarded to Professional events. Players are expected to know the game’s rules – but not to a technically detailed level – and be familiar with the policies and procedures, but unintentional errors are not punished severely. These are events that protect the interests of all players by providing event integrity while also recognizing that not all players are intimately familiar with Professional-level event structure, proper procedures, and rules.
+
+•
+
+•
+
+•
+
+These events use a certified judge and almost always use deck verification procedures.
+
+The highest-level certified judge available should be on staff.
+
+These events may require a few staff or judges in support.
+
+Professional Professional level events offer large cash awards, prestige, and other benefits that draw players from great distances.
+
+These events hold players to a higher standard of behavior and technically correct play than Competitive events.
+
+Offenses will often receive a harsher penalty, even for minor errors.
+
+•
+
+•
+
+•
+
+These events use a certified judge and use deck verification procedures.
+
+The highest-level certified judge available should be on staff.
+
+These events will use several certified judges in support.
+
+DEFINITION OF PENALTIES Caution A Caution is a verbal admonition to a player. This is the lightest penalty that can be given. Cautions are used in situations of minor incorrect play or disruption where a quick word can easily correct the behavior or situation. It is also used for common mistakes in Regular events where the potential for advantage is low. No extra time should be required for a Caution, as any Caution that takes more than a few moments to resolve should be upgraded to a Warning. A Caution should be noted for the duration of the tournament in case of repeated offense, but does not need to be reported to the DCI.
+
+The word “caution” does not need to be used in issuing this penalty. Any verbal admonition to a player, even if it is not made clear to the player that an official Caution has been issued, should be considered a Caution for purposes of upgrading repeated infractions.
+
+Warning A Warning is an officially tracked penalty. Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database.
+
+A time extension should be issued if the ruling has taken more than a minute.
+
+Game Loss A Game Loss is issued in situations where the procedure to correct the offense takes a significant amount of time that may slow the entire tournament, causes significant disruption to the tournament, or renders the game impossible to continue due to physical damage. It is also used for some infractions that have a higher probability for a player to gain advantage.
+
+A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw, if applicable, in the next game of that match. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
+
+Game Losses should be applied to the game in which the offense occurred unless the players have begun a new game or the tournament is between rounds, in which case the loss should be applied to the player's next game. If a player receives a Game Loss at the same time their opponent receives a Match Loss, the Game Loss should be carried over into the next round. Simultaneous Game Loss penalties should not be deferred just because their application would give one player the match win. It is also acceptable for simultaneous Game Loss penalties to extend a match past the expected number of games if neither player has won a majority. Players will still receive a Game Loss if they drop from the tournament.
+
+Some tournaments feature one-game matches, which make a Game Loss equivalent to a Match Loss. In Swiss rounds, unless otherwise specified (such as Tournament Error — Tardiness), apply a Match Point penalty for the first offense instead, and follow any instructions to continue the game.
+
+Match Point A Match Point penalty is a one-point loss assessed against a player’s total match points for the tournament. They are used to replace a Game Loss in matches during Swiss rounds that consist of a single game. Match Point penalties should never be used except as detailed in this guide and never for repeated offenses. Judges should never deviate from the Penalty Guide to assign a Match Point penalty. Doing so may result in a DCI investigation of the official.
+
+In instances where a Match Point penalty is called for, but the game cannot be continued for physical reasons, issue a Game Loss penalty instead.
+
+Match Point penalties require use of DCI Reporter 3.0 or greater. When this penalty is applied, DCI Reporter will place an (*) next to the player’s name. Events not using DCI Reporter 3.0 or greater should issue a Game Loss penalty instead.
+
+Match Loss A Match Loss is a severe penalty that is usually the result of repeated offenses.
+
+Match Losses should be applied to the match in which the offense occurred unless the tournament is in a new round, in which case the penalty should be applied in the current round. Players will still be issued a Match Loss penalty if they drop from the tournament, though they won’t be paired for the next round.
+
+Disqualification A Disqualification is issued for activity that damages the integrity of a tournament as a whole or for severe unsporting conduct. It may also be applied when a player is unable to continue in a tournament (due to losing portions of their deck, for example) but refuses to drop from the tournament.
+
+The recipient of a Disqualification does not need to be a player in the tournament. He or she may be a spectator or other bystander. If this happens, they should be entered into the tournament in DCI Reporter so that they may be disqualified and reported to the DCI.
+
+Disqualification can occur without proof of action so long as the Head Judge determines sufficient information exists to believe the tournament’s integrity may have been compromised. It is recommended that the Head Judge’s report to the DCI reflect this fact.
+
+When this penalty is applied, the player loses his or her current match and is dropped from the tournament. Players will still receive whatever prizes they had earned before the disqualification unless they were disqualified without prize. A player disqualified without prize receives no prize and no awards (such as pro points, event invitations, etc.). If a player has already received prizes at the time they are disqualified without prize, that player may keep whatever prizes he or she has received but does not receive any additional prizes or awards they may be due. For Competitive and Professional events the Head Judge must report all Disqualifications without prize to the DCI Investigations Manager. At Regular events only Unsporting Conduct disqualifications must be reported to the DCI Investigations Manager, though the disqualification should be entered into DCI Reporter as usual.
+
+When a player is disqualified without prize during a tournament, they are removed from the tournament and do not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification without prize takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified without prize during the quarterfinal round of a Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but they do move into 8th place in the standings.
+
+Reports for the DCI Investigations Manager should be submitted via the Judge Center: http://judge.wizards.com.
+
+APPLYING PENALTIES The DCI Penalty Guide applies to every game the DCI sanctions, but certain infractions may not apply to certain games. For example, games that do not have a mulligan rule will not use mulligan-related penalties.
+
+Any penalty higher than a Caution should be reported with the tournament report so that a permanent record can be kept in the DCI Penalty Database. Additionally, any penalty of Game Loss or higher should be reported to the Head Judge, and it is recommended that only the Head Judge issue penalties of this nature (with the exception of Tardiness and Deck/Warband Errors).
+
+Any time a penalty is issued, the judge must explain to the players involved the infraction, the procedure for fixing the situation, and the penalty. If the Head Judge chooses to deviate from the Penalty Guide, the Head Judge should explain the standard penalty and the reason for deviation. Penalties should always be applied during the round in which they occurred unless the penalty specifies otherwise.
+
+Some penalties feature additional procedures to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness against the judge to accusations of unfairness against the DCI. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it.
+
+These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
+
+If a procedure notes a variation is used for “single-game matches” this refers to matches consisting of one game, regardless of the game being played. For example, Dreamblade matches nearly always consist of one game to a match, but the Dreamblade Championship finals could be run as three games to a match. Then, the variation for
+
+“single-game matches” should not be used, even though the rest of the rounds may have utilized it.
+
+Separate infractions committed or discovered at the same time should be treated as separate penalties, though if the root cause is the same, only the more severe one should be applied. If the first penalty would cause the second one to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty should be issued first, followed by the lesser penalty in the next round.
+
+Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit are not covered by a specific infraction should be handled initially with a Caution. If repeated, directly instruct the player not to repeat the offense, and handle further offenses as Unsporting Conduct — Major for failing to follow the direct instruction of a tournament official.
+
+REPEAT OFFENSES The recommended penalty for the first offense is listed in the "Penalty" portion of each infraction. At Competitive and Professional RELs, unless suggested otherwise in the penalty procedure, the next highest penalty is normally awarded for the second offense of the same infraction during the tournament. Penalties at Regular events may be upgraded at the Head Judge’s discretion. Penalties continue to be upgraded with further offenses and are upgraded in the following order:
+
+Caution — Warning — Game Loss — Match Loss — Disqualification with prize A Match Point penalty is never used for repeat offenses. If a Match Point penalty is issued and the offense is repeated, it should be upgraded to a Match Loss.
+
+Disqualifications that are the result of accumulated offenses are with prize. Disqualifications with prize do not require a DQ report to be submitted to the DCI Investigations Manager.
+
+PLAYER COMMUNICATION Communication between players is essential to the successful play of any game that involves virtual objects or hidden information. While bluffing may be an aspect of games, there need to be clear lines as to what is, and is not, acceptable for players to say or otherwise represent. Officials and highly competitive players should understand the line between bluffing and fraud. This will confirm expectations of both sporting and competitive players during a game.
+
+The philosophy of the DCI is that a player should have an advantage due to better understanding of the rules of a game, greater awareness of the interactions in the current game state and superior tactical planning. Players are under no obligation to assist their opponents in playing the game, but may not withhold information about physically unrepresented data that would prevent their opponents from deriving their own view of the game state.
+
+Regardless of anything else, players are expected to treat their opponents politely and with respect. Failure to do so may lead to Unsporting Conduct penalties.
+
+The Golden Rule of Player Communication: Statements made about the game being played must be truthful (to the best of their knowledge). However, statements do not need to be exhaustive – honest answers with careful omissions or “non-answers” designed to misdirect opponents into making suboptimal – but not illegal – plays are acceptable.
+
+The following areas are exceptions to the Golden Rule:
+
+•
+
+Statements about hidden information do not need to be true in any way. Bluffs involving the content of that hidden information are an integral part of the game.
+
+•
+
+Statements about a future game state or future action are not required to be true. Whether this statement could be true in the future is irrelevant.
+
+•
+
+Players are responsible for ensuring that the physical state of the game (tapped status, flipped status, the zone an object is in) is clear at all times.
+
+•
+
+If a player asks their opponent a question, the opponent usually can decline to answer. If they do choose to answer, then they are expected to adhere to the Golden Rule.
+
+•
+
+Players must answer completely and honestly specific questions about past game actions taken since the active player's previous turn.
+
+•
+
+Players must answer completely and honestly specific questions about the game state that cannot be derived from physical representations and/or game actions taken since the active player’s previous turn.
+
+•
+
+If a player does not wish to ask their opponent a question or does not believe they have received the information that they need, they are encouraged to call a judge. Players may not decline to answer questions asked of them by a judge (and their answers must be truthful and complete), but they may ask to answer away from the table.
+
+•
+
+Players are responsible for being aware of the game state. Judges will not generally assist the player in determining the current game state but can answer questions about the rules, interactions between cards, or the Oracle texts of relevant cards. At Regular REL, the judge may assist the players in understanding the game state in the interest of education.
+
+•
+
+Players may not use misleading statements to trick their opponent into making illegal plays. Players may not misrepresent to the opponent that an illegal play has occurred.
+
+Shortcuts A shortcut is an action taken by players to skip parts of the technical play sequence without explicitly announcing them. Shortcuts are essential for the smooth play of a game, as they allow players to play in a clear fashion without getting bogged down in the minutia of the rules. Most shortcuts involve skipping one or more priority passes to the mutual understanding of all players; if a player wishes to demonstrate or use a new shortcut entailing any number of priority passes, they must be clear where the game state will end up as part of the request.
+
+A player may interrupt a shortcut by explaining how they are deviating from it or at which point in the middle they wish to take an action. If the players are confused by the use of a shortcut, they should be backed up to the beginning of the shortcut and no penalty should be issued (though they should be reminded to play more clearly). A player is not allowed to use a previously undeclared shortcut, or to modify an in-use shortcut without announcing the modification, in order to create ambiguity in the game.
+
+A player may not request priority and take no action with it. If they decide they do not wish to do anything, the request is nullified and priority is returned to the player that originally had it.
+
+Certain conventional shortcuts used in Magic are detailed below. If a player wishes to deviate from these, they should be explicit about doing so. Note that some of these are exceptions to the policy above in that they do cause non-explicit priority passes.
+
+•
+
+The statement "Go" (and equivalents such as "Your turn" and "Done") moves the turn to that player's end step and passes priority to the non-active player. Opponents are assumed to be taking actions at that point unless they specify otherwise.
+
+•
+
+A statement such as "I'm ready for combat" or "Declare attackers?" moves the turn into the Beginning of Combat Step and passes priority to the non-active player. They are assumed to be acting then unless they specify otherwise.
+
+•
+
+Whenever a player adds an object to the stack, they are assumed to be passing priority unless they explicitly announce that they intend to retain it. If they add a group of objects to the stack without explicitly retaining priority and a player wishes to take an action at a point in the middle, the actions should be reversed up to that point.
+
+•
+
+"No attacks" or similar statements during combat are an indication that the active player has passed priority in the end of combat step.
+
+•
+
+If a player announces an X spell without specifying the value of X, it is assumed to be for all mana currently available in their pool.
+
+•
+
+Players are assumed to have paid any cost of 0 unless they announce otherwise.
+
+•
+
+A player is assumed to have assigned all trample damage possible to the defending player unless stated otherwise.
+
+•
+
+A spell or ability that targets an object on the stack is assumed by default to target the legal target closest to the top of the stack.
+
+•
+
+The head to which damage is being assigned in Two-Headed Giant is undefined by default. If it is relevant, it is up to the team that knows it may be relevant to ask for clarification or to propose an alternate shortcut.
+
+UNIVERSAL INFRACTIONS These are errors that apply to all games, though individual infractions may not be relevant to a particular game or tournament setup.
+
+DECK/WARBAND ERRORS This section deals with problems related to errors in the registration or contents of the card pool, deck, or warband at a tournament. Though these rules may refer to ‘decks,’ ‘cards’ and ‘decklists’ they also apply to the equivalents for games using items other than cards.
+
+At all RELs, judges and other tournament officials should be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal list, or playing with an illegal deck.
+
+In single-game matches, if the error is discovered during a deck check or before play begins and would result in a Game Loss penalty, instead issue a Match Point penalty, fix the deck to match the decklist and allow the player to play the game.
+
+Sideboards are considered to be part of a player’s deck for the purposes of these infractions. If a player has lost some of their sideboard and notifies a judge immediately, no penalty should be issued. Make note of the missing cards. If the player finds them (or copies of the same card) at a later point, they may add them back to their sideboard after notifying the Head Judge.
+
+Deck/Warband Error — Illegal Decklist Definition Players are considered to have illegal decklists when one or more of the following conditions are true:
+
+•
+
+•
+
+•
+
+•
+
+The decklist contains an illegal number of cards for the format.
+
+The decklist contains cards that are illegal for the format.
+
+A card listed on a decklist is not identified by its full proper name, and could be more than one card.
+
+The decklist contains cards that would make the deck illegal because it would violate a game rule (such as the four card limit rule in Magic® games or the three miniature limit for Dreamblade® games).
+
+This infraction applies to tournaments for which decklists are being used and includes any sideboard errors.
 
 Examples:
 
-A player in a Standard Magic tournament has 59 cards listed on her decklist when the minimum is 60.
+A player in a Magic tournament has 59 cards listed on her decklist when the minimum is 60.
 
 A player in an Extended Magic tournament lists Skullclamp (a banned card) on his decklist.
 
-A player in an REL 3 Magic tournament has a 56-card decklist. His actual deck contains 60 cards, with four Psychatogs not listed.
+A player in a Magic tournament has a 56-card decklist. His actual deck contains 60 cards, with four Psychatogs not listed.
 
-Philosophy The decklist is the ultimate guide to a player's deck. If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal decklist.
+A player in a Limited Dreamblade tournament has listed 17 miniatures on the warband list when the maximum warband size is 16.
 
-Whenever possible, it is best to correct the decklist to match the players actual deck.
+A player in a Magic tournament has four copies of Terror in his main deck and two in his sideboard.
 
-To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all decklists as soon as possible, preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal decklist.
+A player in a Limited Magic tournament fails to list any of her sideboard cards in the "Total" column of her decklist.
 
-Penalty At all RELs, the basic procedure is to correct a player's decklist so it is legal and then let the player continue playing in the tournament with a deck matching the corrected decklist. Any excess cards (cards violating a maximum-number-of-cards restriction) or illegal cards should be removed from the decklist. If a player has a legal deck after these possible corrections, the decklist should be corrected to match the deck. Then, if cards need to be added to make the deck legal, the player should add only basic resources, such as basic lands (for the Magic game).
+A player in a Dreamblade tournament lists four copies of Cannibal Pariah.
 
-For example, a player in a Standard Constructed Magic tournament has submitted a 58-card decklist with five Naturalizes. Because there is a four-of-a-kind limit on any one card, one of the Naturalizes must be removed. Now the decklist contains only 57 cards, so three basic lands of the player's choice are added to meet the 60-card minimum. However, if the player’s actual deck contained only four Naturalizes and also three Terrors which were left off of the decklist, the three Terrors would be added to the decklist and the player would be allowed to continue with his or her deck unmodified.
+A player in a Magic tournament lists 'Ar.Wurm' which could be either Argothian Wurm or Arrogant Wurm A player in a Magic tournament lists ‘COP’ instead of ‘Circle of Protection: Red’
 
-If the submitted decklist consisted of 61 cards with five Naturalizes listed, one Naturalize would be removed from the deck. No basic land would be added, because the decklist was legal after the removal of the extra Naturalize.
+Philosophy If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to punish a player heavily for an illegal decklist. Whenever possible, it is best to correct the decklist to match the player’s actual deck.
 
-In addition to any corrections made, the player receives a game loss.
+Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of their deck up until the point at which they are discovered. Use of a truncated name that is not unique may be downgraded to a Warning at the Head Judge’s discretion if they believe that the intended card is obvious and the potential for abuse minimal.
 
-Deck Problem—Illegal Main Decklist All Levels Game Deck Problem—Illegal Main Deck (Legal Decklist)
+When determining if a name is ambiguous, judges may take into account the format being played.
 
-Definition This penalty applies to tournaments for which decklists are being used. If sideboards are being used and the sideboard is illegal but the sideboard list is legal, please refer to section 115 instead. This penalty applies to players who have misplaced cards from their decks, have cards from a previous opponent in their decks, or whose decks do not otherwise match their decklists.
+Penalty All Levels Game Unless the judge has reason to believe that the deck itself is illegal for the format (usually the presence of an illegal card), this penalty should only be issued between rounds. In large events, the DCI recommends that tournament officials verify the legality of all lists as soon as possible, but the Head Judge should wait until the start of the next round to issue all decklist penalties. This minimizes the disruption to the game currently being played and provides consistency in case some players have finished playing their match before the penalty can be administered.
 
-Players are considered to have illegal decks when one of the following conditions is true (while the decklist still indicates a legal deck):
+Correct a player's decklist so it is legal and then let the player continue playing in the tournament with a deck matching the corrected decklist. Any excess cards (cards violating a maximum-number-of-a-card restriction) or illegal cards should be removed from the decklist, starting with the sideboard. If a player has a legal deck after these possible corrections, the decklist should be corrected to match the deck. If further cards need to be removed from the decklist as it violates a total maximum number of cards, the cards should be removed from the bottom of the offending part of the list. Then, if cards need to be added to make the deck legal, the player should add only basic resources, such as basic lands (but not Snow-Covered basic lands) for the Magic game. Not all games have basic resources and in these cases nothing is added.
 
-• The main deck contains an illegal number of cards.
+For example, a player in a Standard Constructed Magic tournament has submitted a 58-card decklist with five Naturalizes. Because there is a four-of-a-kind limit on any one card, one of the Naturalizes must be removed. Now the decklist contains 57 cards, so three basic lands of the player's choice are added to meet the 60-card minimum.
 
-• The main deck contains cards that are illegal for the format.
+However, if the player’s actual deck contained four Naturalizes and three Terrors which were left off of the decklist, the three Terrors would be added to the decklist and the player would be allowed to continue with his or her deck unmodified.
 
-• The main deck contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
+Deck/Warband Error — Illegal Deck (Legal Decklist)
 
-• The contents of the main deck do not match the decklist.
+Definition Players are considered to have an illegal deck when the contents of the deck do not match the decklist. This includes players who have lost cards, have cards from a previous opponent in their decks, have additional cards with their sideboard, or whose decks do not otherwise match their decklists.
+
+This infraction applies to tournaments for which decklists are being used and includes errors in the sideboard. If the error is a result of a player forgetting to desideboard, please refer to Deck/Warband Error — Failure to Desideboard instead.
+
+The infraction for a lost miniature is different and covered by section Deck/Warband Error — Lost Miniature.
 
 Examples:
 
-A player in a Standard Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
+A player in a Magic tournament is playing with 59 cards in her deck when the minimum is 60. Her decklist indicates a legal deck with 60 cards.
 
 A player in an Extended Magic tournament is playing with Skullclamp (a banned card) in his deck. His decklist indicates a legal deck with no banned cards.
 
 A player in a Magic tournament has a Pacifism in his deck from a previous opponent. His decklist indicates a legal deck.
 
-Philosophy The decklist is the ultimate guide to a player's deck. If the decklist indicates a legal deck, but the actual contents of the deck do not match the decklist, the player should restore the deck to reflect the decklist.
+A player in a Dreamblade tournament has four copies of Blight Rat in their warband because they accidentally picked up a previous opponent’s Blight Rat.
 
-Penalty At all RELs, the player should receive a game loss and then be instructed to make any changes necessary to make the contents of the deck match what is recorded on the decklist. If these changes cannot be completed within 5 minutes, the penalty should be upgraded to a match loss. The changes must be completed before the next match begins for the player to continue in the tournament.
+A player in a Dreamblade tournament has listed only 15 miniatures, but is playing 16 miniatures.
 
-Deck Problem—Illegal Main Deck (Legal Decklist)
+A player in a Magic tournament looking at their sideboard during a game fails to keep it clearly separate from her deck.
 
-All Levels Game Deck Problem—Illegal Main Deck (No Decklist Used)
+Philosophy The decklist is the ultimate guide to a player's deck. Decklists are used to ensure that decks are not altered in the course of a tournament. If the decklist indicates a legal deck, but the actual contents of the deck do not match the decklist, the player should restore the deck to reflect the decklist. However, if the Head Judge believes that the error was obviously clerical (for example, a player marks “10 Islands” on their decklist and is only playing black cards),
 
-Definition This penalty applies to tournaments for which decklists are not being used. If sideboards are being used and only the sideboard is illegal, then refer to section 106 instead.
+the decklist should be altered to match the deck. When making this decision, judges should be mindful of potential abuse and if the potential exists or needs to be considered, they should use the contents of the decklist.
 
-Players are considered to have illegal main decks when one of the following conditions is true:
+If the sideboard is not kept sufficiently separate from the deck during play, it becomes impossible to determine the legality of the deck. Additionally, if there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard.
 
-• The main deck contains an illegal number of cards.
+Penalty All Levels Game The player should be instructed to make any changes necessary to make the contents of the deck match what is recorded on the decklist. In the case that cards are lost and cannot be recovered or replaced with identical cards
 
-• The main deck contains cards that are illegal for the format.
+(proxies are not allowed for lost cards) then the missing cards should be replaced with a basic resource of the player's choice and the decklist changed to match. If these changes cannot be completed within 10 minutes, an additional Game Loss should be issued. Once the player has made the decision to play the deck with these changes, the deck cannot be reverted to its previous list, even if the missing cards are found.
+
+Deck/Warband Error — Illegal Deck (No Decklists)
+
+Definition Players are considered to have illegal decks when one or more of the following conditions are true:
 
 •
 
-The main deck contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
+•
+
+•
+
+The deck contains an illegal number of cards.
+
+The deck contains cards that are illegal for the format.
+
+The deck contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
+
+This infraction applies to tournaments for which decklists are not being used.
 
 Examples:
 
-A player in a Standard Magic tournament has fifty-nine cards in her deck when the minimum is sixty.
+A player in a Standard Magic tournament has 59 cards in her deck when the minimum is 60.
 
 A player in an Extended Magic tournament has Skullclamp (a banned card) in his deck.
 
-Philosophy If the deck contains an illegal selection of cards, the player is playing with an illegal deck. However, lower REL events should be used to teach players the game, so it is not in the best interest of the event to disqualify players for illegal decks.
+A player in a Constructed Dreamblade tournament has 17 miniatures in his warband when the maximum is A player in a Constructed Dreamblade tournament is playing with a miniature whose base does not match the figure.
 
-Penalty At higher RELs, decklists are required, so a more severe penalty for higher RELs is not applicable. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of playing with an illegal deck.
+A player has lost several cards from her sideboard (or lost the entire sideboard).
 
-When decklists are not being used, the general philosophy is to correct a player's deck and allow the player to continue playing. The head judge should work with the player to correct the deck. All illegal cards should be removed immediately. If cards need to be added to make the deck legal, the judge should require that the player add only simple cards like basic lands (for Magic).
+Philosophy The DCI encourages tournaments to use decklists whenever possible, and strongly recommends them for any event with a significant prize.
 
-Deck Problem—Illegal Main Deck (No Decklist)
+If the deck contains an illegal selection of cards, the player is playing with an illegal deck. When decklists are not being used, the general philosophy is to correct a player's deck and allow the player to continue playing.
 
-REL 1 REL 2 REL 3 REL 4 REL 5 Game Game N/A N/A N/A Deck Problem—Illegal Sideboard List Definition This infraction applies only to games that use sideboards and only if players are required to register their sideboard cards for the tournament. If players are not required to register their sideboards, refer to section 106, Deck Problem—Illegal Sideboard (No Decklist Used). For purposes of this infraction, it is irrelevant whether the actual cards being used in a player's sideboard are legal. The decklist (including sideboard list) is the final determination of the official contents of a player's sideboard.
+Penalty Regular Game Competitive Game Professional N/A The judge should work with the player to correct the deck. All illegal cards should be removed and, if further cards need to be removed, the player may choose which. If cards need to be added to make the deck legal, the player should add only basic resources, such as basic lands (but not Snow-Covered basic lands) for the Magic game.
 
-Players are considered to have illegal sideboard lists when one of the following conditions is true:
-
-• The sideboard list contains either too many or too few cards.
-
-• The sideboard list contains cards that are illegal for the format.
-
-• The sideboard list contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
+Deck/Warband Error — Improper Registration of Limited Card Pool Definition This infraction applies to limited tournaments for which decklists are being used and only applies to errors made during the registration of the card pool before a deck swap or other form of registration verification. Registration errors made during deckbuilding are handled in Deck/Warband Error — Illegal Decklist.
 
 Examples:
 
-A player in a Constructed Magic tournament lists only fourteen cards in his sideboard.
+A player registers one copy of a card one slot below the card physically present. There are no copies of the registered card.
 
-A player in a Constructed Magic tournament lists three Naturalizes in her sideboard, while having two Naturalizes listed in her main deck.
+A player fails to register a miniature opened in a starter when registering a warband.
 
-A player in an Extended Magic tournament lists Skullclamp (a banned card) in his sideboard.
+A player uses the “Played” column instead of the “Total” column to register the pool.
 
-A player in a Limited Magic tournament fails to list any of her sideboard cards in the "Total" column of her decklist.
+Philosophy The correctness of card pools at a limited event is important. Errors in registration are somewhat disruptive but can be easily fixed.
 
-Philosophy The sideboard list is the ultimate guide to a player's sideboard. If the sideboard list is illegal, the player is considered to have an illegal sideboard, regardless of the physical contents of his or her sideboard. However, because the majority of illegal sideboards are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal sideboard list. To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all sideboard lists as soon as possible, preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal sideboard list.
+Penalty Regular Caution Competitive Warning Professional Warning Once the judge has verified that the registering player has made an error, the judge should correct and note the change on the decklist.
 
-Penalty At all RELs, the basic procedure is to correct a player's sideboard list so it is legal, if possible, and let the player continue playing in the tournament with a sideboard matching the corrected sideboard list. Any excess cards (cards violating a maximumnumber-of-cards restriction) or illegal cards should be removed from the sideboard list, starting with the cards at the bottom of the sideboard list. Then, if cards need to be added to make the sideboard list legal, the player should add the cards that were actually contained in the sideboard. For example, a player in a Standard Magic tournament has submitted a thirteen-card sideboard list with five Naturalizes. Because there is a four-of-a-kind card limit, one of the Naturalizes must be removed. After removal, the sideboard list will contain only twelve cards, so the cards that were actually contained in the sideboard are added to the list. In addition, the player receives a game loss.
+Deck/Warband Error — Failure to Desideboard Definition A player fails to return their deck to its original configuration before presenting it to his or her opponent at the beginning of the first game of a match. This infraction applies only to games that use sideboards. Tournaments that do not use decklists should not use this infraction unless some other method of registering sideboards is used.
 
-Deck Problem—Illegal Sideboard List All Levels Game Deck Problem—Illegal Sideboard (Legal List)
+Prerelease tournaments may specifically allow for a player to change their deck configuration between matches.
 
-Definition This infraction applies only to games that use sideboards and only if players are required to register their sideboards for the tournament. If players are not required to register their sideboards, refer to section 106, Deck Problem—Illegal Sideboard (No List Used). If a player's sideboard list is illegal, refer to section 104, Deck Problem—
-
-Illegal Sideboard List. The decklist (including the sideboard list) is the final determination of the official contents of a player's sideboard; therefore, an illegal sideboard list infraction takes precedence over an illegal sideboard infraction
-
-(assuming sideboard lists are being used).
-
-Players are considered to have illegal sideboards when one of the following conditions is true:
-
-• The sideboard contains either too many or too few cards.
-
-• The sideboard contains cards that are illegal for the format.
-
-• The sideboard contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
-
-• The contents of the sideboard do not match the sideboard list.
+Note this exception is only available to official Prerelease events and is at the discretion of the Tournament organizer. Check with officials at Prereleases if they are using this option.
 
 Examples:
 
-During a Constructed Magic tournament, a player is found to have five Terrors in his sideboard, although the sideboard list is legal (listing only four).
+A player in a Magic tournament leaves a Circle of Protection: Red in her deck from the previous round.
 
-A player has misplaced several cards from her sideboard (or lost the entire sideboard), but the sideboard list is legal.
+A player in a Magic tournament removes the sideboarded card from his deck after a match, but forgets to replace it with the original card.
 
-Philosophy When the physical cards in the sideboard are illegal, but the sideboard list is legal, the best solution is to alter the sideboard to match the list. If the sideboard list is illegal, do not use this penalty; instead refer to section 114, which assigns a more strict penalty.
+Philosophy While this error can be common, it provides a significant advantage and is therefore a Game Loss.
 
-Penalty In addition to the appropriate penalty, the sideboard is altered to match the list for the remainder of the tournament. This includes final rounds or rounds of the tournament that will be played on different days of the tournament. The player is informed that he or she may not use his or her sideboard for the remainder of the current match. The player is responsible for correcting the sideboard error and finding any replacement cards that are needed before the next round begins. If the player is unable to obtain the appropriate cards, then those slots in the sideboard should be filled with basic lands of the player's choice.
-
-Deck Problem—Illegal Sideboard (Legal List)
-
-All Levels Game Deck Problem—Illegal Sideboard (No List Used)
-
-Definition This infraction applies only to games that use sideboards and only if players are not required to register their sideboards for the tournament. If players are required to register their sideboards, refer to section 104, Deck Problem—Illegal Sideboard List or section 105, Deck Problem—Illegal Sideboard (Legal List).
-
-Players are considered to have illegal sideboards when one of the following conditions is true:
-
-• The sideboard contains either too many or too few cards.
-
-• The sideboard contains cards that are illegal for the format.
-
-• The sideboard contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
-
-Philosophy When a sideboard is illegal the player should be issued with the appropriate penalty listed below. The player should be informed of what cards are illegal and why. In addition, the player’s sideboard should be made legal and he should be allowed to continue to play with it.
-
-Penalty At higher REL events, decklists are required, so a separate, more severe penalty for higher RELs is not needed.
-
-Deck Problem—Illegal Sideboard (No List Used)
-
-REL 1 REL 2 REL 3 REL 4 REL 5 Game Game N/A N/A N/A PROCEDURAL ERROR This section provides penalties for procedural errors. Many infractions fit into this category, although it is impossible to list them all. The head judge should use his or her discretion when deciding which penalty applies to an unlisted procedural error.
-
-Procedural Error—Minor Definition A minor procedural error occurs when a player performs an unintentional, slightly disruptive action at a tournament.
+Penalty All Levels Game Deck/Warband Error — Lost Miniature Definition If a warband is found to contain less than the required or registered number of miniatures or point values, but otherwise is legal (and otherwise matches what was registered), the missing miniatures are considered to be lost.
 
 Examples:
 
-A player indicates "Soratami Mirror-Guard" instead of "Soratami Mirror-Mage"
+A player in a Dreamblade tournament finds herself with only 15 miniatures instead of the 16 expected.
 
-(the two are concurrent on the registration sheet) while recording the contents of his limited decklist.
+The 15 remaining miniatures are all registered on her registration list, but the 16th miniature registered cannot be found.
 
-A player fails to provide a reliable method to track her life total.
+Philosophy In miniatures games, there is no advantage to playing with less than the required number of miniatures.
 
-A player repeatedly holds her cards below the table.
+Penalty All Levels Caution If the miniatures are discovered to be missing during a round, or are found during a round, those miniatures may not be used in that round. If the miniature cannot be found between rounds, note which elements were lost. The player may continue playing without these miniatures until they succeed in finding them or exact copies. A player is not allowed to replace the miniatures with other, non-identical miniatures. Players should inform their opponents before starting a match that they are playing fewer than the standard number of miniatures for the tournament.
 
-A player leaves a small amount of garbage in the tournament area (such as a gum wrapper or scrap of paper from a score pad).
+GAME PLAY ERRORS Game play errors are caused by incorrect or inaccurate play of the game such that it results in violations of the game rules. Many offenses fit into this category and it would be impossible to list them all. The guide below is designed to give judges a framework for assessing how to handle a Game Play Error.
 
-A player is using a snow-covered land in a Standard Magic tournament.
+All penalties in this section presume that the error was committed unintentionally. If the judge believes that the error was intentional, the appropriate Cheating infraction should be used instead. Some infractions (such as Drawing Extra Cards) have their own separate penalties defined specific to their game types. All remaining Game Play Errors fall into one of the following five categories:
 
-.
+If the error is a simple clerical error, it is Game Play Error — Incorrect Representation.
 
-Philosophy Procedural errors vary significantly. The judge should adjust the penalty appropriately to reflect the level of tournament disruption.
+If the game state is presently illegal, it is Game Play Error — Illegal Game State.
 
-Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
+If the error occurred as the result of a player forgetting a game trigger, it is Game Play Error — Missed Trigger.
 
-Procedural Error—Minor All Levels Caution Procedural Error—Major Definition A major procedural error occurs when a player performs an unintentional, disruptive action at the tournament.
+If the error involves a failure to reveal information it is Game Play Error — Failure to Reveal All other errors are defined as Game Play Error — Game Rule Violation.
+
+Both players are expected to maintain the game rules, and to share some responsibility for any errors that may occur involving public information. As a result, no attempt should be made to determine or correct any advantage gained in assessing the penalty and associated procedures for fixing the offense. Additionally, a sixth type of Game Play Error - Failure to Maintain Game State - should be issued to the opponent where specified by the other five infractions. In multiplayer games, all participants in the match other than the offending player should receive this penalty if issued.
+
+An error that an opponent can not realize has been committed should have its penalty upgraded. Such unnoticeable errors are rare and involve misplaying hidden information (such as the Morph ability). An unpreventable or irreversible error is not sufficient grounds for such an upgrade.
+
+Because of the diverse nature of Game Play Errors, care should be taken when upgrading penalties. Game Play Error penalties should not be upgraded for different offenses that fall under the same category of infraction, unless the offenses themselves are very similar.
+
+Game Play Error — Incorrect Representation Definition Due to a minor clerical error, the game is somehow inaccurately represented, but the game state is clear to both players and the action ultimately legal. If the error has affected game play or been allowed to continue to the point where ambiguity exists, it should be treated as a Game Play Error — Game Rule Violation instead.
 
 Examples:
 
-A player fails to write her name on her decklist.
+A player in a Magic tournament forgets to untap his land before moving to his upkeep.
 
-A player replaces cards in his sealed deck with copies of the same card—without permission from a judge.
+A player in a Magic tournament places a spell into the graveyard before it has finished resolving.
 
-A player does not sufficiently randomize her deck before presenting it to her opponent.
+A player in a Magic tournament forgets to put counters onto a creature that comes into play with counters on it.
 
-A player leaves a large amount of garbage in the tournament area (such as uneaten food and/or food wrappers).
+Philosophy These errors do not have a significant impact on the game, but could cause confusion at a later point if not remedied.
 
-A player in a Magic tournament plays Wrath of God (mana cost: 2WW) using one white mana and three colorless mana.
+Penalty All Levels Caution Correct the erroneous representation.
 
-A player in a Magic tournament attempts to play Pacifism on a creature with protection from white.
+Game Play Error — Illegal Game State Definition The ongoing state of the current game is illegal as a result of a prior misplay.
 
-A player shuffles his deck after an opponent has cut it.
+Examples:
 
-During her match, a player looks at her sideboard cards.
+In a Magic tournament, two copies of the same Legendary permanent are in play.
 
-A player has blackened out all the artwork on one of his Wrath of God cards. The card can no longer be distinguished by artwork alone.
+In a Magic tournament, an Armadillo Cloak (cost 1GW) is enchanting a creature with Protection from Green.
 
-A player fails to reveal a morphed card when the game ends.
+Philosophy Both players share a responsibility in allowing the game to continue in this illegal state. Because many decisions and plans may have been made based on this state, no effort should be made to back up the game and fix it or try to compensate for the effects of the illegal state.
 
-(K) Players fill out and submit an incorrect match slip. (Both players are penalized.)
+Penalty All Levels Warning Apply state-based effects or other game-specific ways of making a game state legal. In addition, the opponents and teammates of the player controlling the permanent that caused the game state to become illegal should receive a Game Play Error — Failure to Maintain Game State infraction.
 
-Philosophy Procedural errors vary significantly. The judge should adjust the penalty appropriately to reflect the level of tournament disruption.
+Game Play Error — Missed Trigger Definition A game event triggers, but the player controlling the trigger is unaware of its existence and/or forgets to perform the actions specified by the trigger.
 
-Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
+Examples:
 
-Procedural Error—Major All Levels Warning Procedural Error—Severe Definition A severe procedural error occurs when a player performs an unintentional, extremely disruptive action at the tournament.
+In a Magic tournament, a player has Braids, Cabal Minion in play. After he has declared attackers, he realizes that he has failed to sacrifice a permanent to Braids' upkeep trigger.
 
-Example A player spills coffee on his deck and is unable to play the match effectively.
+In a Magic tournament, a player realizes that she forgot to remove the final counter from a Suspend spell.
 
-A player draws from his sideboard and places it into his hand instead of drawing from his deck.
+In a Magic tournament, a player forgets to pay Cumulative Upkeep for a creature.
 
-A player loses his or her deck and must find replacement cards.
+In a Dreamblade tournament, a player forgets to sacrifice a creature to the Appease ability of Eater of Hope when it was spawned.
 
-A player shuffles his deck when it is not appropriate to do so.
+Philosophy Most games have "triggers" — actions that the game asks players to take as a result an event occurring. Because the representation of these triggers is invisible, players will miss them on occasion.
 
-Philosophy Procedural errors vary significantly and the judge should adjust the penalty appropriately to reflect the level of tournament disruption.
+Penalty All Levels Warning If the trigger instruction is optional (“may”) and specifies no consequence for not doing it, assume that the player has chosen not to perform the instruction and issue no penalty.
 
-Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty.
+If the trigger requires no choices to be made and has no effect on the visual representation of the game, assume the ability resolved at the appropriate time and issue no penalty. The visual representation consists of elements the players are able to see happening or in play, such as zone changes and adding counters to permanents, as well as life totals.
 
-Procedural Error—Severe All Levels Game Procedural Error—Failure to Desideboard Definition Players are considered to have committed this infraction when they don't return their decks to their original configurations before presenting their decks to their opponents at the beginning of the first game of a match. This infraction applies only to games that use sideboards.
+If the trigger has an instruction that specifies a default action associated with a choice (usually "If you don't ... ")
 
-Example A player in a Magic tournament leaves a Circle of Protection: Red in her deck from the previous round.
+resolve the default action immediately without regard to the timing rules for that particular game. For example, in Magic, such a default action would be resolved without using the stack. If there are unresolved spells or effects that are no longer legal as a result of this action, rewind the game to remove all such spells or abilities. Resulting triggers generated by the action still trigger and resolve as normal.
 
-Philosophy In this situation, a game loss is a fair penalty. Tournaments that do not use decklists should not use this offense unless some method of registering sideboards is used.
+If the trigger requires a choice that does not have a default action or a trigger with no choice will have an effect on the visual representation of the game, and the error is caught within the scope of a turn cycle (see below for definition), resolve the forgotten ability using game-specific timing rules. For example, in a Magic game, the forgotten ability would be placed on the stack. The player may not make choices involving objects that were not in the zone or zones referenced by the trigger when the ability triggered. If the error is discovered partway through an action (such as choosing blockers in Magic), back up to the beginning of that action. If the error is discovered after a turn cycle, continue the game without resolving the forgotten trigger.
 
-Penalty Procedural Error—Failure to Desideboard All Levels Game Procedural Error—Tardiness Definition A player is considered to have committed this infraction when he or she is not in his or her seat when the round begins.
+For Magic, a turn cycle is defined as the time from the beginning of a player's step or phase to the end of that player's next same step or phase. For Dreamblade, it is defined as a single phase. If a turn cycle would end in a skipped step or phase (but not turn), the turn cycle expires when the step or phase is skipped.
+
+If the missed trigger is not caught immediately, opponents and teammates should receive a Game Play Error —
+
+Failure to Maintain Game State penalty. The opponents may not be able to recognize that a trigger has been missed until after some other irrevocable action has been taken, and this should be taken into account in determining whether it was caught immediately. No attempt should be made to rewind the game state to the point of the missed trigger.
+
+Game Play Error — Failure to Reveal Definition A player forgets to reveal information that they have been instructed to reveal by a game rule or effect.
+
+Examples:
+
+A player in a Magic tournament plays Worldly Tutor and places the card he searched for on top of his library without revealing it.
+
+A player in a Magic tournament resolves the trigger from his Dark Confidant., but puts the card directly into his hand.
+
+At the end of a game in a Magic tournament, a player shuffles her morph card back into her library without revealing it.
+
+Philosophy Failing to reveal a card prevents opponents from verifying that an effect was played correctly. While the error is easy to make, the potential for abuse is high and the DCI wishes to track players who repeatedly commit this infraction.
+
+Penalty Regular Warning Competitive Game Professional Game Few of these errors can caught before the exact information and location of the unrevealed information is lost. If the card was ever in a position to be uniquely identified (such as on top of the player's library or the only card in hand),
+
+downgrade this penalty at Regular and Competitive RELs. If the card is still uniquely identifiable, reveal it to all appropriate players. Additionally, if not caught immediately, opponents and teammates should receive a Game Play Error — Failure to Maintain Game State penalty.
+
+Game Play Error — Game Rule Violation Definition This infraction covers the majority of game situations in which a player makes an error or fails to follow a game procedure correctly. Note that this is different from entirely forgetting a game trigger, which is handled in Game Play Error — Missed Trigger, a situation in which the game state itself is illegal, which is handled in Game Play Error — Illegal Game State, or forgetting to reveal a card, which is handled in Game Play Error — Failure to Reveal.
+
+Examples:
+
+In a Dreamblade tournament, a player forgets to pay extra spawn points for a miniature when that player does not have miniatures of the appropriate aspects in play or in the graveyard.
+
+In a Magic tournament, a player plays Wrath of God for 3W (actual cost 2WW).
+
+In a Magic tournament, a player does not attack with a creature that must attack each turn.
+
+In a Magic tournament, a player puts Serra Avatar into their graveyard instead of shuffling it into their library.
+
+In a Magic tournament, a player fails to put a creature with lethal damage into a graveyard and it is not noticed until several turns later.
+
+In a Dreamblade tournament, a player fails to assign blades before moving on to assign damage in combat.
+
+In a Dreamblade tournament, two locations are occupying the same cell.
+
+A player in a Magic tournament fails to draw her card for her turn.
+
+Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and "fix" these errors and reverse actions that have since been taken in the game, but it is important that all judges be able to apply these penalties consistently, regardless of their skill in the game, and thus only errors that are caught immediately should be fixed.
+
+Penalty All Levels Warning If the error was caught immediately, back up the game to the point of the error. If not caught immediately, leave the game state as it is. Additionally, if not caught immediately, opponents and teammates should receive a Game Play Error — Failure to Maintain Game State penalty.
+
+Game Play Error — Failure to Maintain Game State Definition This infraction is committed by a player who has allowed their opponent to commit a Game Play Error and has not pointed it out it immediately and before they could potentially gain advantage. If a judge believes a player is intentionally not pointing out their opponent’s illegal actions, either for their own advantage, or in the hope of bringing it up at a more strategically advantageous time, the infraction is Cheating — Fraud.
+
+Examples:
+
+In a Magic tournament, a player's opponent forgets to discard a card to Masticore during their upkeep. It is not noticed until the end of turn.
+
+In a Dreamblade tournament, a player’s opponent forgets to sacrifice a creature after spawning a creature with the Appease ability. The error is not noticed until the end of turn.
+
+Philosophy If an error is caught immediately, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error.
+
+Penalty All Levels Warning Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
+
+TOURNAMENT ERRORS Tournament errors are unintentional violations of the Universal Tournament Rules or the Floor Rules for the game being played.
+
+Tournament Error — Tardiness Definition A player fails to comply with announced time limits.
 
 Examples:
 
@@ -330,63 +576,377 @@ A player arrives to her seat 5 minutes after the round begins.
 
 A player hands in his decklist after the time designated by the judge or organizer.
 
-Philosophy Players are responsible for being on time for their matches.
+A player loses his or her deck and must find replacement cards after the round has begun.
 
-Penalty A tardiness penalty should not be given if a round started early and a player arrived at his or her seat before the originally announced start time. At lower RELs, the tournament organizer may elect to give players the amount of time allotted for the pregame procedure (3 minutes) to arrive before a game loss is awarded. At higher RELs, a game loss should be awarded as soon as the round begins. At any REL, if a player is not in his or her seat 10 minutes into the round, he or she should be awarded a second game loss. If a player does not arrive before the end of the round, he or she is dropped from the event.
+Philosophy Players are responsible for being on time for their matches and completing registrations in a timely manner.
 
-Procedural Error—Tardiness REL 1 REL 2 REL 3 Warning Warning Game REL 4 Game REL 5 Game Procedural Error—Playing the Wrong Opponent Definition Two people played against each other when they were paired against different players for that round.
+Penalty Regular Warning Competitive Game Professional Game A penalty should not be given if a round started early and a player arrived at his or her seat before the originally announced start time. At Regular and Competitive events, or in tournaments where matches consist of a single game, the tournament organizer may elect to give players the amount of time allotted for the pre-game procedure (3 minutes) before a penalty is issued. Otherwise, the appropriate penalty should be issued as soon as the round begins.
+
+At any REL, if a player is not in his or her seat 10 minutes into the round, he or she should be issued a second Game Loss (or two Game Losses at Regular REL). A player receiving two Game Losses for Tardiness in the same round
+
+(or one Game Loss for single-game matches) is dropped from the tournament unless they report to the Head Judge or Scorekeeper before the end of the round.
+
+In tournaments with single-game matches a time extension equal to the amount of tardiness should be applied if it is within the pre-game procedure time limit. Game Losses should not be replaced by Match Point penalties for Tardiness. Repeated Tardiness infractions should only be upgraded in exceptional circumstances.
+
+Tournament Error — Playing the Wrong Opponent Definition Two people played or are playing against each other when they were paired against different players for that round.
 
 Example A player sits at an incorrect table and plays the wrong opponent.
 
-A player in a team event who is designated as "Player A" plays "Player C."
+A player in a team event who is designated as "Player A" plays "Player C" on the other team.
 
-Philosophy It is each player's responsibility to ensure they are sitting in the correct seat.
+Philosophy It is both players’ responsibility to ensure they are playing their designated opponent before beginning play.
 
-Penalty If the error is discovered within the pregame time limit for the first game (usually 3 minutes), the player sitting at the wrong table should receive a warning and report to the correct seat. If the error is discovered after the pregame time limit has expired, but before the time a second game loss would be awarded for section 116, Procedural Error—Tardiness (usually 10 minutes), the player sitting at the wrong table should receive a game loss and should report to the correct table. If the error is not discovered until after the time a second game loss would be awarded for section 116, Procedural Error—Tardiness, the player sitting at the wrong table should receive a match loss.
+Penalty All Levels Warning Both players should receive this penalty. If the error is discovered within the pregame time limit for the first game, the player sitting at the wrong table should report to the correct seat. If the error is discovered after the pregame time limit has expired, but before the time a second Game Loss would be issued for Tournament Error — Tardiness, the player sitting at the wrong table should receive a Game Loss and should report to the correct table. If the error is not discovered until after the time a second Game Loss would be issued for Tournament Error — Tardiness, the player sitting at the wrong table should receive a second Game Loss.
 
-Procedural Error—Playing the Wrong Opponent All Levels Warning CARD DRAWING This section includes infractions relating to inappropriate card drawing, card viewing, and related topics.
-
-Card Drawing—Drawing Extra Cards Definition Players are considered to have drawn a card when they move a card more than one card length away from their decks (unless this is in the act of counting out cards face down). Players are also considered to have drawn a card when they take a card from their decks and perform any other action (playing a spell, advancing a phase in the game, and so on). If a player draws a card in this manner, the card is considered to have entered his or her hand immediately. In Magic games, this is generally considered an indication that the player has moved to his or her draw step (unless instructed to draw by some other effect).
-
-Players are not considered to have drawn extra cards when they place a card face down on the table (without looking at the card) in an effort to accurately count out cards as they draw. This penalty should be applied only once to one or more cards if they are drawn in the same action or sequence of actions, at the judge's discretion.
-
-Example A player in a Magic tournament plays Deep Analysis and draws four cards.
-
-Philosophy Any time players draw extra cards, there is always a chance they will go unnoticed by their opponent, potentially giving them a significant advantage. Because of this potential for abuse, the penalty for drawing extra cards is fairly severe. A player can accidentally look at extra cards very easily, so a separate, less severe penalty is established for that infraction called Card Drawing—Looking at Extra Cards (section 122).
-
-Correcting the problem always involves putting the extra card (if known, or a random card from the player's hand, if not known) on top of the deck. This ensures that a player does not receive an advantage from a free shuffle (which he or she would receive if the card were shuffled back into the deck) and that the game will be impacted as little as possible.
-
-Card Drawing—Improper Drawing at Start of Game (section 123) is a separate, lesssevere penalty.
-
-Penalty For the game to continue, the situation should always be corrected. When it is obvious which extra card was drawn, the card should be placed back on top of the deck. If it is unclear which card is the "extra" card, a random card should be selected from the player's hand. If several cards are involved and it is unclear which order the cards were in, the cards should be placed randomly on top of the deck. The opponent of the player committing the infraction should be allowed to see any cards the other player has seen due to this infraction.
-
-An automatic game loss should be applied if a player has drawn so many cards that a judge is unable to correct the situation. If the judge believes the player has received enough of an advantage by drawing an extra card (for example, the player has had his or her library modified by his or her opponent or the player sees the next card, which reveals some crucial strategic information), the penalty should be upgraded to a game loss.
-
-Card Drawing—Drawing Extra Cards REL 1 REL 2 REL 3 REL 4 REL 5 Warning Warning Game Game Game Card Drawing—Looking at Extra Cards Definition Players are considered to have looked at a card when the card is moved any significant amount from their decks. This could include dropping cards on the floor, turning a card over while shuffling their opponents' decks, or revealing cards from their decks in the act of misplaying a card. This penalty also applies when a player has looked at a card in an opponent's deck or hand in the course of a game (such as turning over an extra card while resolving a random discard effect).
-
-A player is not considered to have looked at extra cards when he or she places a card face down on the table (without looking at the card) in an effort to count out cards he or she will draw.
-
-This penalty should be applied only once to one or more cards if they are seen in the same action or sequence of actions.
+Tournament Error — Slow Play Definition Players who take longer than is reasonably required to complete game actions are engaging in Slow Play. If a judge believes a player is intentionally playing slowly to take advantage of a time limit, a Cheating — Stalling infraction should be used instead.
 
 Examples:
 
-A player accidentally flips over a card while shuffling her opponent's deck.
+A player in a Dreamblade tournament repeatedly manipulates his figures without committing to a specific course of action.
+
+A player in a Magic tournament repeatedly reviews his opponent’s graveyard without any significant change in game state.
+
+A player in a Magic tournament spends time writing down the contents of an opponent's deck when resolving Haunting Echoes.
+
+After 3 minutes into a round at a Magic Pro Tour™ Qualifier, a player has not completed his shuffling.
+
+In a Dreamblade tournament, a player takes an unreasonable amount of time deciding which creatures to spawn.
+
+A player gets up from their seat to look at standings, or goes to the bathroom without permission of an official.
+
+Philosophy All players have the responsibility to play quickly enough so that their opponents are not at a significant disadvantage because of the time limit. A player may be playing slowly without realizing it. At lower RELs a comment of “I need you to play faster” is often appropriate and all that is needed. Further slow play should be penalized.
+
+Penalty All Levels Warning An extra turn is awarded for each player, to be applied if the match exceeds the time limit. For games in which a single turn encompasses equal actions for both players, such as Dreamblade, only a single turn is added. This turn extension occurs before any end-of-match procedure can begin and after any time extensions that may have been issued. If multiple players on each side are playing the same game (such as in Two-Headed Giant) only one extra turn should be awarded per team.
+
+No extra turns should be awarded if the match is already in extra turns, though the Warning still applies.
+
+If Slow Play has significantly affected the result of the match, the Head Judge may upgrade the penalty.
+
+Tournament Error — Insufficient Randomization Definition A player unintentionally fails to sufficiently randomize their deck before presenting it to their opponent. If the insufficient randomization was intentional, a Cheating — Manipulation of Game Materials infraction should be used instead.
+
+Examples:
+
+A player in a Magic tournament forgets to shuffle his library after searching for a card.
+
+A player in a Magic tournament searches for a card, then gives the deck a single riffle-shuffle before presenting the deck to her opponent.
+
+Philosophy Players are expected to randomize their deck thoroughly when it is required and are expected, especially at Competitive and Professional RELs, to have the skill and understanding of randomization to do so. Any time cards in a deck could be seen, including during shuffling, it is no longer randomized, even if the player only knows the position of one or two cards. Players should take care in shuffling not to reveal cards to themselves, their teammates or their opponents.
+
+Players are assumed to know the order of their cards before starting to shuffle and sufficient randomization means the player could not gain advantage from this knowledge. A player should randomize his or her deck using multiple methods. Patterned pile-shuffling alone is not sufficient randomization.
+
+Any manipulation, weaving or stacking prior to randomization is acceptable, as long as the deck is thoroughly randomized afterwards. Doing so and not sufficiently randomizing afterwards should be treated as Cheating —
+
+Manipulation of Game Materials.
+
+Penalty Regular Warning Competitive Game Professional Game If a Game Loss is called for in the Swiss portion of an event that has single-game matches, a Match Point penalty should be issued instead and the game should be continued. If the game is to be continued, the deck should be thoroughly randomized.
+
+Tournament Error — Failure to Follow Official Announcements Definition This infraction is committed by a player who fails to follow an instruction given to a broad audience they are included in. Most often these are registration instructions, safety instructions, or venue rules. Instructions given directly to an individual and not followed are penalized as Unsporting Conduct – Major.
+
+Examples:
+
+In a tournament, a player forgets to list their name or DCI# on a decklist following such an announcement made during the tournament registration period.
+
+A player smokes in a venue where signage indicates such is forbidden.
+
+A player fails to leave an area of the venue that a general announcement has asked all players to leave.
+
+Philosophy Players are required to be attentive and follow the instructions of tournament officials for the efficiency of the tournament and safety of all.
+
+Penalty All Levels Warning Tournament Error — Draft Procedure Violation Definition A player commits a technical error during a draft. This does not cover any attempts to view or reveal cards that are hidden, which is handled by Cheating — Outside Assistance.
+
+Examples:
+
+A player passes a booster to his left when it is supposed to go to his right.
+
+A player exceeds the amount of time allotted for a pick.
+
+A player starts to put a card on top of their pile, then pulls it back.
+
+Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly.
+
+Penalty Regular Caution Competitive Caution Professional Warning Announcements prior to the draft, or the specific Floor Rules for the format may specify additional penalties for Draft Procedure Violations.
+
+Tournament Error — Player Communication Violation Definition A player unintentionally violates the Player Communication guidelines (see section 50). Intentional violations, or attempting to take advantage of a previously committed violation, should be treated as Cheating – Fraud.
+
+Example A player in a Magic tournament is asked how many cards they have in hand and answers “Three.” A few moments later, they realize that they have four.
+
+A player in a Magic tournament claims they haven’t played their land for the turn, but it is determined that they had just forgotten.
+
+Philosophy Clear communication is essential in playing of any DCI-sanctioned game, and many offenses will be intentional.
+
+However, it is possible for a player to make a genuine mistake and, while unfortunate, these should not be penalized harshly.
+
+Penalty All Levels Warning UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, or enjoyment of an event in a significantly negative fashion. An offense that doesn't seek in-game advantage should be considered unsporting behavior. If it could provide an in-game advantage the offense should be handled by other infractions in the Penalty Guide.
+
+Being enrolled in the tournament is not a requirement to receive an Unsporting Conduct penalty. Although these guidelines refer to players, other people in the venue, such as spectators, staff or judges are held to the same standard of behavior.
+
+Unsporting behavior is not the same as a lack of sporting behavior. There is a wide middle ground of "competitive"
+
+behavior that is certainly neither "nice" nor "sporting" but still doesn't qualify as "unsporting." The Head Judge is the final arbiter on what constitutes unsporting conduct.
+
+Judges should inform the player how their conduct is disruptive. The player is expected to correct the situation and behavior immediately. However, while making sure that the player understands the severity of their actions is important, judges should always seek to defuse a situation rather than make a conflict worse.
+
+Unsporting Conduct — Minor Definition Unsporting Conduct — Minor is action taken by an individual that is disruptive to the tournament or its participants.
+
+It may affect the comfort level of those around the individual, but determining whether this is the case is not required.
+
+Examples:
+
+A player uses excessively vulgar and profane language.
+
+A player inappropriately demands to a judge that her opponent receive a penalty.
+
+A player appeals to the Head Judge before waiting for the floor judge to issue a ruling.
+
+A player taunts their opponent for making a bad play.
+
+A player leaves excessive trash in the play area after leaving the table.
+
+Philosophy All participants should expect a safe and enjoyable environment at a tournament, and a participant needs to be made aware that their behavior is unacceptable so that this environment may be maintained Penalty All Levels Warning In addition to the Warning, the player should correct the problem immediately or face upgraded penalties for repeated infractions. Unlike Game Play Errors, a judge may upgrade repeated Unsporting Conduct — Minor infractions for different offenses.
+
+If a Game Loss is issued for repeated or upgraded infractions, and it occurs at the end of a game, it is acceptable for the judge to apply the penalty to the next game instead. Game Losses (in case of upgrade) should never be replaced by Match Point penalties for Unsporting Conduct — Minor.
+
+Unsporting Conduct — Major Definition Unsporting Conduct — Major infractions fall into three categories:
+
+•
+
+•
+
+•
+
+Failing to follow a direct instruction from a tournament official.
+
+Insulting another person based on their race, color, religion, national origin, age, gender, disability or sexual orientation.
+
+Aggressive or violent behavior that is not directed at another person or another person’s property.
+
+Examples:
+
+A player is asked to leave the play area and is still watching a match a few minutes later.
+
+A player continues to argue with the Head Judge about a ruling after being asked to stop doing so.
+
+A player uses a racial slur against their opponent.
+
+After losing a match, a player throws his cards onto the table and knocks his chair over in anger.
+
+A player in a Magic tournament picks up one of his tokens that has been removed from the game and tosses it across the room.
+
+Philosophy Officials should expect their instructions to be followed without needing to issue an interim warning. This only applies to specific and directed instructions. Failure to follow general announcements is handled through specific infractions or in Tournament Error — Failure to Follow Official Instructions.
+
+Hate speech and other insults targeted at a protected class indicate a deeper issue and should be dealt with swiftly.
+
+Even if unfounded, they may be offensive to spectators or other nearby individuals. Local areas may have additional protected classes that fall under this category.
+
+Undirected aggressive behavior needs to be curtailed. It is disruptive, can leave a lasting negative impression on those around, and may turn to directed aggressive behavior if not dealt with swiftly. Care should be taken not to escalate the situation if at all possible. The player may need to be removed from the area to receive the penalty and may need a few moments to cool down, in which case a time extension should be granted.
+
+Penalty All Levels Game The player should correct the behavior immediately, and be expected to refrain from similar behavior or face more severe penalties. As with Unsporting Conduct — Minor infractions that have been upgraded due to repetition, if the offense occurs at the end of a game, it is acceptable for the judge to apply the penalty to the next game instead. In single-game matches, Match Point penalties should not be issued for Unsporting Conduct — Major.
+
+Unsporting Conduct — Randomly Determining a Winner Definition Players use or offer to use a random method to determine the winner of a game or match.
+
+Examples:
+
+As time is called in a tournament, two players about to draw roll a die to determine the winner.
+
+A player offers to flip a coin to determine the winner of a match.
+
+Philosophy Using a random method to determine a winner compromises the integrity of the tournament.
+
+Matches that should result in a draw due to time are expected to be reported as such and are not excluded from this penalty if the players use a random method to determine the outcome.
+
+Penalty All Levels Disqualification without prize In most cases this penalty will be issued to both players, unless the other player calls over a judge as soon as the suggestion to randomly determine the winner is made.
+
+Unsporting Conduct — Bribery and Wagering Definition Bribery occurs when a player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match. Refer to section 25 of the Universal Tournament Rules for a more detailed description of what constitutes bribery.
+
+Wagering occurs when a player or spectator at a tournament places a bet on the outcome of a tournament, match or any portion of a tournament or match. The wager does not need to be monetary, nor is it relevant if a player is not betting on their own match.
+
+Examples:
+
+A player in a Swiss round offers his opponent $100 to concede the match.
+
+A player offers his opponent a card in exchange for a draw.
+
+A player asks for a concession in exchange for a prize split.
+
+Two players in a Magic tournament agree that the winner of the match will be able to choose a rare card out of the other person’s deck after the match.
+
+Two spectators at a Dreamblade tournament place a bet on the over/under of total victory points in a match.
+
+Philosophy Bribery and wagering disrupt the integrity of the tournament and are strictly forbidden. Please refer to section 25 of the Universal Tournament Rules to ensure the proper application of this penalty.
+
+Penalty All Levels Disqualification without prize Unsporting Conduct — Aggressive Behavior Definition A player acts in a threatening way towards others or their property.
+
+Examples:
+
+A player threatens to hit another player who won’t concede to them.
+
+A player pulls a chair out from under another player, causing her to fall to the ground.
+
+A player makes threats against a judge after receiving a ruling.
+
+A player tears up a card belonging to another player.
+
+A player intentionally turns over a table.
+
+Philosophy The safety of all people at a tournament is of paramount importance. There will be no tolerance of physical abuse or intimidation.
+
+Penalty All Levels Disqualification without prize The player should be asked to leave the venue by the organizer.
+
+Unsporting Conduct — Theft of Tournament Material Definition A player steals material from the event, such as cards or miniatures.
+
+Examples:
+
+A player in a limited tournament pockets a Magic foil rare that they opened in the sealed pool they are registering.
+
+A player steals cards from the sideboard of their opponent.
+
+A player steals the table number from a table.
+
+A player in a Dreamblade tournament realizes they have a previous opponent’s miniature, but they hide it instead of telling a tournament official.
+
+Philosophy Players should enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament organizer, though judges are encouraged to help in any way possible.
+
+Penalty All Levels Disqualification without prize The player should be asked to leave the venue by the organizer.
+
+CHEATING This section deals with intentionally committed infractions that can give a player a significant advantage.
+
+Knowledge that the action is illegal is not required for the infraction to be Cheating.
+
+Cheating — Stalling Definition A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional, please refer to Tournament Error — Slow Play instead.
+
+Example A player in a Magic tournament has two lands in his hand, no options available to significantly affect the game, and spends time "thinking" about what to do.
+
+A player in a Dreamblade tournament is ahead in turns and significantly slows down their pace of play so the opponent has little chance to catch up.
+
+A player playing slowly appeals a warning in an attempt to gain advantage by having more time to make a decision.
+
+Philosophy If it is clear that a player is stalling, the integrity of the match is compromised and he or she should face a serious penalty.
+
+Penalty All Levels Disqualification without prize Cheating — Fraud Definition A person intentionally violates the Player Communication policy (see section 50) or intentionally misrepresents procedures, personal information or any other relevant tournament information in an attempt to gain advantage.
+
+(Note that Fraud, like most cheating, is determined by an investigation and will often appear on the surface as a Game Play Error or Tournament Error.)
+
+Examples:
+
+A player enters a tournament under an assumed name and/or using a different DCI number in an attempt to manipulate ratings.
+
+A player alters the actual results of a match to tournament officials.
+
+A player lies to a tournament official to gain or keep an advantage.
+
+A player in a Magic tournament lies to their opponent about their life total.
+
+A player in a Dreamblade tournament intentionally spawns more miniatures than is possible with the current spawn points.
+
+A player in a Dreamblade tournament realizes that his opponent has stated spawn points incorrectly, but chooses not to correct this because it is to his advantage.
+
+A player gives false or misleading information to a judge or tournament official that helps another player to cheat.
+
+Philosophy There should be zero tolerance for this type of activity. One does not need to be a player in a game to commit Fraud.
+
+In particular, teammates observing the game are expected to point out problems and summon a judge to help deal with them if necessary.
+
+A player must be aware that they have committed a error in representation in order for the infraction to be Fraud.
+
+For example, a player targeting a black creature with Terror has not committed Fraud if they forgot that Terror can not target black creatures, even though the action (playing Terror) was intentional and illegal. It is Fraud if a judge believes they were aware and hoping that their opponent would miss it.
+
+Penalty All Levels Disqualification without prize Cheating — Outside Assistance Definition A player, spectator, or other tournament participant intentionally does any of the following:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Seeks advice from others once they have sat for their match.
+
+Gives advice to players who have sat for their match.
+
+Any time after arriving at the play table, a player references notes made before the official beginning of their current match.
+
+Illegally seeks information that is hidden from them by the rules of the game or format.
+
+Reveals information they are prohibited from revealing by the rules of the game, policy, or format.
+
+These offenses also apply to any deck construction portions of a limited tournament. Additionally, no notes of any kind may be made during a draft.
+
+Notes made during a match may be referenced during that match or between matches. Notes made outside the current match may not be referenced once a player has sat for their match until after their match is completed.
+
+Team events and multiplayer events have specific communication policies that may override these.
+
+Examples:
+
+A player in a Magic tournament references sideboarding notes brought to the tournament during a match.
+
+A player in a Dreamblade tournament references notes about his opponent’s warband after arriving at the table for their match.
+
+A player in a Magic booster draft reveals a card they drafted to another player during the draft.
+
+D A player in a Magic booster draft peeks at the cards from which their neighbor is selecting.
+
+A player in a Magic tournament peeks at the bottom card of his opponent’s deck while cutting it.
+
+Philosophy Tournaments test the skill of a player, not their ability to follow external advice or directions. Any strategy advice, play advice or construction advice from an external source is considered assistance. Any notes taken prior to the official start of the match are also illegal. Notes made during a match are legal to reference during the match or between future matches. Notes made outside the current match may not be referenced between the arriving at the table for the match and the completion of the match.
+
+Knowledge of hidden information is a form of outside assistance, and any attempt to gain it, or reveal it when not allowed to is considered cheating Penalty All Levels Disqualification without prize Cheating — Manipulation of Game Materials Definition A player intentionally manipulates game materials (cards, dice, sleeves, figures, etc.) illegally to their advantage.
+
+Examples:
+
+A player in a Magic tournament orders some cards in their deck during a search and does not sufficiently randomize afterwards.
+
+A player in a Dreamblade tournament intentionally rolls dice into other dice that have been rolled but not tabulated, in an attempt to change the result.
+
+A player in a Dreamblade tournament moves a figure while their opponent is not looking.
+
+A player in a Magic tournament marks all of their Islands with a thumbnail mark on the corner of the sleeve.
+
+A player in a Magic tournament draws cards not entitled to when his opponent is not looking.
+
+Philosophy There will be no tolerance for such blatant disregard for the rules.
+
+Penalty All Levels Disqualification without prize CARD GAME-SPECIFIC INFRACTIONS These infractions apply to games using cards, such as Duelmasters and Magic. They are intended to provide guidance for issues that come up during card games, such as errors in Card Drawing and Marked Cards.
+
+CARD DRAWING Card Drawing — Looking at Extra Cards Definition Players are considered to have looked at a card when they have been able to observe the face of a hidden card, or when a card is moved any significant amount from a deck, but before it touches the other cards in their hand. This includes errors of dexterity or catching a play error before the card is placed into their hand. Once a card has been placed into their hand or if a player takes a game action after removing the card from the library, the penalty is Card Drawing — Drawing Extra Cards.
+
+A player is not considered to have looked at extra cards when he or she places a card face down on the table
+
+(without looking at the card) in an effort to count out cards he or she will draw.
+
+This penalty should be applied only once if one or more cards are seen in the same action or sequence of actions.
+
+Examples:
+
+A player accidentally reveals (drops, flips over) a card while shuffling her opponent's deck.
 
 A player flips over an extra card while drawing from his deck.
 
-A player looks at the bottom card of her deck when presenting it to her opponent for cutting/shuffling.
+A player sees the bottom card of her deck when presenting it to her opponent for cutting/shuffling A player takes a card from her opponent's deck instead of her own.
 
-A player shuffles his deck or his opponent's deck with the cards face up.
+A player in a Magic tournament activates a Sensei's Divining Top that is no longer in play, and sees 3 cards before the mistake is noticed.
 
-A player takes a card from her opponent's deck instead of her own.
+Philosophy A player can accidentally look at extra cards very easily, so the penalty is less severe than Card Drawing - Drawing Extra Cards. Drawing extra cards is a separate, more severe infraction because of the increased potential for abuse.
 
-Philosophy A player can accidentally look at extra cards very easily, so the penalty is less severe than Card Drawing—Drawing Extra Cards. Drawing extra cards is a separate, more severe penalty because of the increased potential for abuse. In order to avoid supplying a free shuffle, the card(s) is placed back on top of the deck (if it was the top card of the deck that was seen) or returned to the area where it came from.
+Players should not be using this penalty to get a "free shuffle," or to attempt to shuffle away cards they don't want to draw. This should be considered Cheating — Fraud and penalized accordingly. Players also should not be allowed to use this penalty as a stalling mechanism. The deck is already randomized, so shuffling in the revealed cards should not involve an excessive amount of effort. Make sure to give sufficient extra time to account for the shuffling.
 
-Penalty In addition to the appropriate penalty, the situation should always be corrected. The opponent of the player committing the infraction should be allowed to see any cards the other player has seen illegally due to this infraction.
+Penalty Regular Caution Competitive Warning Professional Warning In addition to the appropriate penalty, the situation should always be corrected. The player should shuffle the randomized portion of his deck (which may include the cards that were seen, if they were part of the random portion of the library). This requires first determining whether any portion of the deck is non-random, such as cards that have been manipulated on the top or bottom of the library, and separating those. Once the deck has been shuffled, any manipulated cards should be returned to their correct locations.
 
-An automatic game loss should be applied if a player has seen so many cards that a judge is unable to correct the situation or has received too much of an advantage by seeing an extra card (for example, the player sees the next card, which reveals some crucial, strategic information).
+Care must be taken before shuffling to make sure that there are no "legally known" cards in the library. Check with both players to verify this, and check the graveyard, removed from game and in-play zones for deck manipulation cards, such as Brainstorm and cards with the Scry mechanic.
 
-Card Drawing—Looking at Extra Cards REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Warning Warning Warning Card Drawing—Improper Drawing at Start of Game Definition Players committing this infraction draw extra cards (or too few cards) when they draw their hands, either initially or while resolving a mulligan.
+Card Drawing — Drawing Extra Cards Definition This penalty is given when a player draws a card that they were not supposed to. A card is considered drawn once it touches the other cards in a player's hand. Even if both players believe they can identify the card in question afterwards, the potential for abuse necessitates the stronger penalty at that point. Up until then, the card is easily identified and the situation can be rectified. If the player has an empty hand when drawing the card, bringing the hands together is an indication that the cards have been drawn Examples:
+
+A player in a Magic tournament draws 4 cards after playing Ancestral Recall.
+
+A player in a Magic tournament draws an extra card from the ability of a Howling Mine that is no longer in play.
+
+Philosophy Though this error is easy to commit accidentally, the potential for advantage and the potential for it to be overlooked mandate a higher level of penalty.
+
+Penalty Regular Warning Competitive Game Professional Game If a Game Loss is called for in the Swiss portion of an event that has single-game matches, a Match Point penalty should be issued instead. If the game is to continue, a random card from the player’s hand should be placed on top of their library for each extra card drawn.
+
+Card Drawing — Improper Drawing at Start of Game Definition Players committing this infraction draw extra cards (or too few cards) when they draw their hands, either initially or while resolving a mulligan.
 
 Examples:
 
@@ -394,177 +954,199 @@ A player in a Magic tournament draws eight cards in her initial hand (instead of
 
 A player in a Magic tournament draws seven cards in his initial hand (instead of six) after taking a mulligan.
 
-A player in a Magic tournament who is playing first (as opposed to drawing first)
+A player in a Magic tournament who is playing first (as opposed to drawing first) incorrectly draws a card during her first draw step.
 
-incorrectly draws a card during her first draw step.
+Philosophy This is generally a minor infraction and deserves a fairly minor penalty. Forcing players who have drawn too many cards to redraw their hands with one less card is fairly quick and simple and avoids the possibility of a player gaining an advantage if he or she just had to reshuffle his or her cards and draw a new hand.
 
-Philosophy This is generally a minor infraction and deserves a fairly minor penalty. Forcing players to redraw their hands with one less card is fairly quick and simple and avoids the possibility of a player gaining an advantage if he or she just had to reshuffle his or her cards and draw a new hand.
+Penalty Regular Caution Competitive Warning Professional Warning If the player has drawn too few cards, they should draw up to the correct number. If the player has drawn too many cards, he or she must shuffle his or her hand into his or her deck and redraw the opening hand, drawing one less card than the number he or she should have drawn—not the number he or she actually drew. (This is similar to a forcing a mulligan in a Magic game.)
 
-Penalty The player must shuffle his or her hand into his or her deck and redraw the opening hand, drawing one less card than the number he or she should have drawn—not the number he or she actually drew. (This is similar to a forcing a mulligan in a Magic game.)
-
-Card Drawing—Improper Drawing at Start of Game REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Warning Warning Warning Card Drawing—Failure to Draw Definition A player does not draw a card he or she was required to draw.
+Card Drawing — Failure to Discard Definition A player forgets to discard a card when required to by an effect or the rules of the game.
 
 Examples:
 
-A player in a Magic tournament forgets to draw a card at the start of her turn.
+A player in a Magic tournament discards a single non-land card to Compulsive Research.
 
-A player in a Magic tournament forgets to draw a card after a "cantrip" effect.
+A player in a Magic tournament forgets to discard down to seven cards at the end of his turn.
 
-Philosophy This is generally a minor infraction and deserves a fairly minor penalty. If the judge believes it affected game play significantly (for example, a player forgot to draw several cards from a Howling Mine that allowed him or her to use Cursed Scroll successfully for several turns), the judge can upgrade the penalty to a game loss.
+Philosophy While this is technically a Game Rule Violation, the penalty requires an additional fix to mitigate the potential advantage.
 
-Penalty Players must correct the situations by drawing however many cards they neglected to draw (unless a turn has passed).
+Penalty Regular Caution Competitive Warning Professional Warning The player should discard the number of cards that they were supposed to.
 
-Card Drawing—Failure to Draw REL 1 REL 2 REL 3 REL 4 Caution Caution Warning Warning REL 5 Warning MARKED CARDS This section deals with marked cards or sleeves. As always, the penalties for these infractions assume the infraction was unintentional. If the head judge believes the markings are intentional, he or she should refer to section 160, Cheating.
+MARKED CARDS This section deals with marked cards or sleeves. As always, the penalties for these infractions assume the offense was unintentional. If the Head Judge believes the markings are intentional or the player is taking advantage of the markings, he or she should refer to Cheating — Manipulation of Game Materials.
 
-Marked Cards—Minor Definition A player's cards are marked in a way that is disruptive but unlikely to give an advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
+If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.
+
+Marked Cards — No Pattern Definition A player's cards are marked or oriented in a way that is unlikely to give an advantage to that player.
 
 Examples:
 
-A player in a Magic tournament has small marks on a few of his sleeves. The markings are on an island, a Counterspell, and a Masticore.
+A player in a Magic tournament has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
 
 A player without sleeves has several premium cards that stand out significantly from the rest of her deck.
 
-Philosophy If the possibility for advantage is fairly low, the player should be required to replace the card(s) or sleeve(s) but should not receive a significant penalty. Note that almost all sleeves can be considered marked in some way; judges should keep this in mind when determining penalties. In cases of marked cards, educating players to shuffle their cards before sleeving them is very important.
+Philosophy If the possibility for advantage is fairly low, the player should not receive a significant penalty. Note that almost all sleeves can be considered marked in some way; judges should keep this in mind when determining penalties. In cases of marked cards, educating players to shuffle their cards and sleeves before sleeving the cards is very important. A Marked Cards — No Pattern penalty should generally not be upgraded on repeat offenses.
 
-Penalty Marked Cards—Minor REL 1 REL 2 REL 3 Caution Caution Caution REL 4 Warning REL 5 Warning Marked Cards—Major Definition A player's cards are marked in a way that could potentially give a significant advantage to that player. (If the player is using sleeves, the cards must be examined while in the sleeves to determine if they are marked.)
+Penalty Regular Caution Competitive Warning Professional Warning The player should be required to replace the card(s) or sleeve(s) with an unmarked version or use sleeves that conceal the markings if no sleeves are being used. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy.
+
+Marked Cards — Pattern Definition A player's cards are marked or oriented in a way that could potentially give a significant advantage to that player.
 
 Examples:
 
 A player in a Magic tournament has a marking on each of his land cards that makes them easily distinguishable from the rest of the deck.
 
-A player in a Magic tournament has four Upheavals in her deck, all of which are in card sleeves that each have a slight bend in one corner.
+A player in a Magic tournament has four Early Harvests in her deck, all of which are in card sleeves that have a slight bend in one corner.
 
-Philosophy If the possibility for advantage is high, the player should receive a significant penalty.
+A player playing without sleeves has all of their spells of one color turned upside down.
 
-Please note that this penalty still assumes that the cards are marked unintentionally. If the head judge believes the cards were marked intentionally, he or she should refer to section 160, Cheating.
+Philosophy If the possibility for advantage is high, the player should receive a significant penalty. This penalty still presumes that the cards are marked unintentionally. If the Head Judge believes the cards were marked intentionally, he or she should refer to Cheating — Manipulation of Game Materials instead.
 
-Penalty Marked Cards—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match SLOW PLAY This section includes penalties for players who unintentionally play slowly.
+Penalty Regular Warning Competitive Game Professional Game The player should be required to replace the card(s) or sleeve(s) with an unmarked version or use sleeves that conceal the markings if no sleeves are being used. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy.
 
-Slow Play—Playing Slowly Definition Players who take longer than is reasonably required to complete game actions are engaging in slow play. If a judge believes a player is intentionally playing slowly to take advantage of a time limit, that player is guilty of Cheating—Stalling (section 162).
+If a Game Loss is called for in the Swiss portion of an event that has single-game matches, a Match Point penalty should be issued instead and the game should be continued.
 
-Example A player is unsure of which creatures to block with and spends an unreasonable amount of time trying to decide.
+MINIATURES GAME-SPECIFIC INFRACTIONS These infractions are intended for use in games that involve miniatures, such as Dreamblade and Dungeons &
 
-A player takes an unreasonable amount of time choosing how to divide the piles when resolving Fact or Fiction.
+Dragons® Miniatures.
 
-A player spends time writing down the contents of an opponent's deck when resolving Haunting Echoes.
+DICE ERRORS Many miniatures games require players to determine a number of dice to be rolled. It is possible for players to miscount the total they are supposed to roll or the number of dice they actually select to roll.
 
-Philosophy Slow-play penalties do not require a judge to determine whether a player is intentionally stalling. All players have the responsibility to play quickly enough so that their opponents are not at a significant disadvantage because of the time limit.
-
-Penalty A three-minute time extension is included with this penalty. If slow play has significantly affected the result of the match, the judge should upgrade the penalty as appropriate.
-
-Slow Play—Playing Slowly REL 1 REL 2 REL 3 Caution Caution Warning REL 4 Warning REL 5 Warning Slow Play—Exceeding the Pregame Time Limit Definition A player exceeds the time limit for completing his or her pregame steps.
-
-Example After 3 minutes into a round at a Magic Pro Tour™ Qualifier, a player has not completed his shuffling.
-
-Philosophy This penalty assumes the player is not intentionally stalling. If the head judge believes it is intentional, refer to the penalty for stalling (section 162).
-
-Penalty A one-minute time extension is included with this penalty.
-
-Slow Play—Exceeding the Pregame Time Limit REL 1 REL 2 REL 3 REL 4 REL 5 Caution Caution Caution Warning Warning UNSPORTING CONDUCT This section deals with unsporting conduct at tournaments. A player does not have to be actively involved in a match to receive a penalty for unsporting conduct.
-
-Unsporting Conduct—Minor Definition Minor unsporting conduct is defined as behavior that may be disruptive to a person at the tournament, but has no significant impact on the operation of the tournament in any way.
+Dice Error — Too Few Rolled Definition A player rolls fewer dice than required.
 
 Examples:
 
-A player uses excessively vulgar and profane language.
+A player in a Dreamblade tournament attacks with a seven-power creature, but only rolls six attack dice.
 
-A player repeatedly and inappropriately demands to a judge that her opponent receive a penalty.
+A player in a Dreamblade tournament rolls three attack dice for a deathblow when the creature’s power is five.
 
-Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is the final authority on what constitutes unsporting conduct.
+Philosophy This is generally a minor infraction and deserves a fairly minor penalty. There is little advantage to be gained.
 
-Penalty Unsporting Conduct—Minor All Levels Warning Unsporting Conduct—Major Definition Major unsporting conduct is defined as behavior that is disruptive to a player or players at the tournament, but does not cause delays or include any form of physical contact or significant emotional distress.
+Penalty Regular Caution Competitive Warning Professional Warning The player needs to record the result of dice already rolled and then roll the remaining dice required, total the results and continue.
 
-Examples:
-
-A player repeatedly calls a judge and argues that his opponent should lose the game for insignificant procedural oversights.
-
-A player fails to obey the instructions of a tournament official.
-
-A player repeatedly requests a concession from an opponent.
-
-Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is the final authority on what constitutes unsporting conduct.
-
-Penalty Unsporting Conduct—Major REL 1 REL 2 REL 3 Game Game Match REL 4 Match REL 5 Match Unsporting Conduct—Severe Definition Severe unsporting conduct is defined as behavior that is disruptive to a player or players at a tournament, causes delays, and may include any form of physical contact or significant emotional distress.
+Dice Error — Too Many Rolled Definition A player rolls more dice than required.
 
 Examples:
 
-A player pulls a chair from beneath another player, causing her to fall to the ground.
+In a Dreamblade tournament, a player rolls six attack dice when the combined power of his attackers is only five.
 
-A player argues in an excessive and belligerent manner with a judge after the judge has made a final ruling.
+Philosophy While some random method of eliminating the extra rolled dice could be applied to remove the results of those dice, the potential advantage of a player rolling extra dice without his or her opponent either noticing or being able to prevent it is significant.
 
-Philosophy Different levels of unsporting conduct should be penalized accordingly. The head judge is the final authority on what constitutes unsporting conduct.
+Penalty Regular Warning Competitive Warning Professional Game The opponent chooses which extra dice are not used.
 
-Penalty Unsporting Conduct—Severe All Levels Disqualification without prize Cheating This section deals with intentionally committed infractions that can give a player a significant advantage over others.
+If a Game Loss is called for in the Swiss portion of an event that has single-game matches, a Match Point penalty should be issued instead and the game should be continued.
 
-Cheating—Bribery Definition A player attempts to bribe an opponent into conceding, drawing, or changing the results of a match, or two players attempt to determine the outcome of a game or match using a random method such as a coin flip or die roll. Refer to section 25 of the Universal Tournament Rules for a more detailed description of what constitutes bribery.
+APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Deck/Warband Error (DWE)
 
-Examples:
+DWE — Illegal Decklist DWE — Illegal Deck (Legal Decklist)
 
-A player in a Swiss round offers his opponent $100 to concede the match.
+DWE — Illegal Deck (No Decklists)
 
-Two players roll a die to determine the winner of a match.
+Game DWE — Improper Registration of Limited Card Pool Caution DWE — Failure to Desideboard DWE — Lost Miniature Professional Game Game N/A Warning Game*
 
-A player offers his opponent a card in exchange for a draw.
+Caution Game Play Error (GPE)
 
-Philosophy Bribery disrupts the integrity of the tournament and is strictly forbidden. Randomly determining the outcome of a game or match is also specifically prohibited. Please refer to section 25 of the Universal Tournament Rules to ensure the proper application of this penalty.
+GPE — Incorrect Representation GPE— Illegal Game State GPE — Missed Trigger GPE — Game Rule Violation GPE — Failure to Maintain Game State Caution Warning Warning Warning Warning Tournament Error (TE)
 
-Penalty Cheating—Bribery All Levels Disqualification without prize Cheating—Stalling Definition A player intentionally plays slowly in order to take advantage of the time limit. Refer to section 161 for unintentional slow play.
+TE — Tardiness Warning TE — Playing the Wrong Opponent TE — Slow Play TE — Insufficient Randomization Warning TE — Failure to Follow Official Announcements TE — Draft Procedure Violation Caution Game*
 
-Example A player has two lands in his hand, no options available to significantly affect the game, and spends several minutes "thinking" about what to do.
+Warning Warning Game Warning Warning Unsporting Conduct (USC)
 
-Philosophy If it is clear that a player is stalling, he or she should face a serious penalty.
+USC — Minor USC — Major USC — Randomly Determining a Winner USC — Bribery USC — Aggressive Behavior USC — Theft of Tournament Material Warning Game*
 
-Penalty Cheating—Stalling All Levels Disqualification without prize Cheating—Fraud Definition A player intentionally misrepresents rules, procedures, personal information, or any other relevant tournament information.
+Disqualification without Prize Disqualification without Prize Disqualification without Prize Disqualification without Prize Cheating Cheating Cheating Cheating Cheating
 
-Examples:
+— Stalling
 
-A player uses a fake name and DCI number when registering for a tournament.
+— Fraud
 
-A player misrepresents the results of a match to tournament officials.
+— Outside Assistance
 
-Philosophy There should be zero tolerance for this type of activity.
+— Manipulation of Game Materials Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Failure to Discard Marked Cards — No Pattern Marked Cards — Pattern Disqualification without Prize Disqualification without Prize Disqualification without Prize Disqualification without Prize Card Game-Specific Caution Warning Caution Caution Caution Warning Warning Game Warning Warning Warning Game Miniatures Game-Specific Dice Error — Too Few Rolled Caution Warning Dice Error — Too Many Rolled Warning Warning Game
 
-Penalty Cheating—Fraud All Levels Disqualification without prize Cheating—Other Definition This category includes any intentional infraction that does not fall into the categories of bribery, stalling, or fraud.
+*A Match Point penalty should not be used to replace this penalty in Swiss single-game matches.
 
-Examples:
+APPENDIX B — CHANGES FROM PREVIOUS VERSION September 1, 2007 Game Loss: Clarification on how to handle simultaneous Game Loss penalties.
 
-A player intentionally looks at the faces of his opponent's cards while shuffling and uses this information to stack the cards in an order unfavorable for the opponent.
+Clarified when Game Loss and Match Loss should be applied if the game or match already complete.
 
-A player marks cards in his deck and intentionally uses this information to gain an advantage.
+Added section on Player Communication Downgrade option for potentially ambiguous but clear registrations.
 
-A player intentionally draws extra cards while the opponent is distracted.
+Allowing for use of a format in determining card ambiguity.
 
-Philosophy Any player who intentionally violates the rules should face a serious penalty.
+Added extra cards in the sideboard and mingling the sideboard during play as subsets of the infraction.
 
-Penalty Cheating—Other All Levels Disqualification without prize APPENDIX A -- CHANGES FROM PREVIOUS VERSIONS Changes from September 1, 2003 version:
+Clarified a swap is not required to award this penalty.
 
-Introduction: Clarifies that judges should deviate from the penalties guidelines only if they believe the situation has significant or exceptional circumstances. Adds reference to this Appendix.
+Clarified upgrading errors regarding hidden information.
 
-Section 20: Clarifies that head judges must report disqualifications to the DCI (US).
+Moved to 125 new penalty for Game Play Error – Failure to Reveal added.
 
-Section 101: Illegal Main Decklist penalty changed from Match Loss to Game Loss for RELs 4 and 5.
+Moved to 126 Added, was old 125 Added Tournament Error – Player Communication Violation.
 
-Section 152: 'Repeated requests for a concession' added as an example of Unsporting Conduct—Major.
+Revised definition of Fraud to accommodate new communication policy.
 
-Appendix B: Chart changed to reflect change in Section 101.
+Making it clear that spectators not enrolled in the tournament can commit this violation.
 
-APPENDIX B—PENALTY QUICK REFERENCE Infraction Deck Problem—Illegal Main Decklist Deck Problem—Illegal Main Deck (Legal Decklist)
+Appendix C: added notice - Please stop using DCI Reporter V2.X by January 1, 2008 June 1, 2007 General: Cleaning up the use of “offense,” “infraction,” and “penalty.”
 
-Deck Problem—Illegal Main Deck (No Decklist Used)
+General: Using the terms “public information” and “hidden information” to align with the Comprehensive Rules.
 
-Deck Problem—Illegal Sideboard List Deck Problem—Illegal Sideboard (Legal List)
+Modified advice on handling penalties that are not covered in the Penalty Guide from the Introduction.
 
-Deck Problem—Illegal Sideboard (No List Used)
+Clarification that sideboards are considered to be part of a player’s deck.
 
-Procedural Error—Minor Procedural Error—Major Procedural Error—Severe Procedural Error—Failure to Desideboard Procedural Error—Tardiness Procedural Error—Playing the Wrong Opponent Card Drawing—Drawing Extra Cards Card Drawing—Looking at Extra Cards Card Drawing—Improper Drawing at Start of Game Card Drawing—Failure to Draw Marked Cards—Minor Marked Cards—Major Slow Play—Playing Slowly Slow Play—Exceeding Pregame Time Limit Unsporting Conduct—Minor Unsporting Conduct—Major Unsporting Conduct—Severe Cheating—Bribery Cheating—Stalling Cheating—Fraud Cheating—Other REL 1 Warning Warning Caution Caution Caution Caution Game Caution Caution Game REL 2 REL 3 REL 4 Game Game Game (REL 1 & 2)
+Clarified use of Match Point penalties for single game matches.
 
-Game Game Game (REL 1 & 2)
+Clarified the use of Failure to Maintain Game State for matches involving teammates.
 
-Caution Warning Game Game Warning Game Game Warning Warning Game Game Caution Warning Warning Caution Warning Warning Caution Warning Warning Caution Caution Warning Game Match Match Caution Warning Warning Caution Caution Warning Warning Game Match Match Disqualification without prize Disqualification without prize Disqualification without prize Disqualification without prize Disqualification without prize Note: REL 1 is the standard enforcement level for most DCI tournaments.
+Explanation of how to handle a turn cycle if the relevant step or phase is skipped.
 
-REL 5 Game Game Warning Warning Warning Warning Match Warning Warning Match APPENDIX C—CONTACT INFORMATION For the most recent version of this document, or to learn about DCI tournaments and judging, please contact the DCI in any of the following three ways:
+Added example I: failure to draw a card.
 
-DCI Homepage: www.thedci.com DCI Document Center: www.thedci.com/docs DCI Judge's Website: www.wizards.com/judge Email: dci@wizards.com Phone: (800) 324-6496 (Wizards of the Coast® Game Support)
+Clarified the definition of Fraud as it applies to people not involved in the game.
 
-Major League Baseball trademarks and copyrights are used with permission of Major League Baseball Properties, Inc. ©MLBPA Official Licensee—Major League Baseball Players Association Wizards of the Coast, Magic: The Gathering, Magic, Showdown, DCI, and MAGIC: THE GATHERING PRO TOUR are trademarks of Wizards of the Coast, Inc. ©2005 Wizards.
+Clarified that Fraud requires awareness that the action taken is illegal.
+
+Replaced ‘misrepresents’ with ‘falsely represents’ to clarify the representation must be untrues.
+
+Appendix C — Using Reporter V2.X with these guidelines DCI Reporter Version 3 has been updated to match these guidelines. Organizers may download the most recent version by visiting the TO center. https://membership.wizards.com/login.aspx?dcionly=true Log in with the DCI number and password you upload events with. Then click downloads. Download the first 3 files, the update, the full installation and the latest PIN database (.mdb file).
+
+KNOWN ISSUES AND SOLUTIONS:
+
+DCI Reporter 2.X cannot be updated to handle the penalties in this Guide. To issue a penalty using Reporter 2.X refer to the table on the following page. Enter the old infraction that corresponds to the new Penalty Guide infraction and enter the name of the new infraction at the beginning of the Remarks field. This will assist the DCI in tracking penalties.
+
+DCI Reporter 2.X is not capable of using Match Point penalties. Events not using DCI Reporter 3.0 or greater should issue a Game Loss penalty instead.
+
+The new REL levels correspond as follows to the old system: Regular = REL 1 & 2, Competitive = REL 3, Professional =
+
+REL 4& 5. Various DCI Programs are being evaluated as to which REL they will be run at in the future.
+
+Organizers are no longer able to sanction events at REL 2 or 3 for the purpose of variable-K. Tournaments doing so will be treated as REL 1.
+
+Please stop using DCI Reporter V2.X by January 1, 2008 Old Infraction Infraction Regular Competitive Professional Deck/Warband Error (DWE)
+
+Deck Problem—Illegal Main Decklist DWE — Illegal Decklist Deck Problem—Illegal Main Deck (Legal Decklist)
+
+DWE — Illegal Deck (Legal Decklist)
+
+Game Game Deck Problem—Illegal Main Deck (No Decklist Used) DWE — Illegal Deck (No Decklists)
+
+Game Caution N/A Deck Problem—Illegal Sideboard List DWE — Improper Registration of Limited Card Pool Procedural Error—Failure to Desideboard DWE — Failure to Desideboard Game*
+
+Warning Procedural Error—Minor DWE — Lost Miniature Caution Procedural Error—Minor GPE — Incorrect Representation Caution Procedural Error—Major GPE— Illegal Game State Warning Procedural Error—Major GPE — Missed Trigger Warning Procedural Error—Major GPE — Game Rule Violation Warning Procedural Error—Major GPE — Failure to Maintain Game State Warning Game Play Error (GPE)
+
+Tournament Error (TE)
+
+Procedural Error—Tardiness TE — Tardiness Procedural Error—Playing the Wrong Opponent TE — Playing the Wrong Opponent Warning Slow Play—Playing Slowly TE — Slow Play Procedural Error—Severe TE — Insufficient Randomization Procedural Error—Major TE — Failure to Follow Official Announcements Procedural Error—Minor TE — Draft Procedure Violation Game*
+
+Warning Warning Warning Game Warning Caution Warning Unsporting Conduct (USC)
+
+Unsporting Conduct—Minor USC — Minor Warning Unsporting Conduct—Major USC — Major Game*
+
+Unsporting Conduct—Severe USC — Randomly Determining a Winner Cheating—Bribery USC — Bribery Disqualification without Prize Disqualification without Prize Unsporting Conduct—Severe USC — Aggressive Behavior Disqualification without Prize Unsporting Conduct—Severe USC — Theft of Tournament Material Disqualification without Prize Cheating Cheating—Stalling Cheating — Stalling Disqualification without Prize Cheating—Fraud Cheating — Fraud Disqualification without Prize Cheating—Other Cheating — Outside Assistance Disqualification without Prize Cheating—Other Cheating — Manipulation of Game Materials Disqualification without Prize Card Drawing—Looking at Extra Cards Looking at Extra Cards Caution Card Drawing—Drawing Extra Cards Drawing Extra Cards Warning Game Card Drawing—Improper Drawing at Start of Game Improper Drawing at Start of Game Caution Warning Card Game-Specific Warning Card Drawing—Drawing Extra Cards Failure to Discard Caution Warning Marked Cards—Minor Marked Cards — No Pattern Caution Warning Marked Cards—Major Marked Cards — Pattern Warning Game Procedural Error—Minor Dice Error — Too Few Rolled Caution Procedural Error—Major Dice Error — Too Many Rolled Warning Miniatures Game-Specific Warning Warning Game Appendix D – Rule Enforcement Levels of premiere programs Unless otherwise noted a tournament's REL is Regular Brand Event REL D&D Minis Championship Competitive D&D Minis Qualifer Competitive D&D Minis Release Event Regular Dreamblade Dreamblade 10K Competitive Dreamblade Dreamblade 1K Regular Dreamblade Dreamblade 50K Championship Competitive Dreamblade Edge Regular Magic Amateur Championship Competitive Magic City Championship Finals Competitive Magic Friday Night Magic Regular Magic Gateway Regular Magic Grand Prix Day 1 Competitive Magic Grand Prix Day 2 Professional Magic Grand Prix Trial Regular Magic Legacy Championship Competitive Magic Magic Invitational Professional Magic Nationals (3day/$10K+)
+
+Professional Magic Nationals (2day)
+
+Competitive Magic Nationals (Open)
+
+Competitive Magic Prerelease Regular Magic Pro Tour Professional Magic Pro Tour Qualifier Competitive Magic Regionals Competitive Magic Release Event Regular Magic Scholarship Series Regular Magic Scholarship Series Championship Competitive Magic State/Provincial Champs Regular Magic Vintage Championship Competitive Magic World Championships Professional Star Wars Minis Championship Competitive Star Wars Minis Qualifer Competitive Star Wars Minis Release Event Regular
 
