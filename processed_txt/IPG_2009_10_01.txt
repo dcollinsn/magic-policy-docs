@@ -820,7 +820,11 @@ Disqualification Disqualification Disqualification Disqualification Cheating Che
 
 *A Match Point penalty should not be used to replace this penalty in Swiss single-game matches.
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 20, 2009 General: Minor grammatical cleanup, including new M10 terminology.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+September 20, 2009
+
+General: Minor grammatical cleanup, including new M10 terminology.
 
 Removed rules for various RELs in favor of just having the philosophy.
 

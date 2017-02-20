@@ -20,6 +20,8 @@ foreach my $filename (@files) {
         my $text = join("\n", @text);
         $text =~ s/(\w)\s*\n\s+(\w)/$1 $2/g;
         $text =~ s/\n\n+/\n\n/g;
+        $text =~ s/APPENDIX A.+?PENALTY QUICK REFERENCE.+?(APPENDIX B)/$1/;
+        $text =~ s/(APPENDIX B.+?VERSIONS)\s+(\w+ \d+, \d+)\s+/$1\n\n$2\n\n/;
         open(my $outfh, ">processed_txt/$txt");
         print $outfh $text;
         close $outfh;

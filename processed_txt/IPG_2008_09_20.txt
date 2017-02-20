@@ -1084,7 +1084,11 @@ USC — Randomly Determining a Winner Disqualification USC — Bribery and Wager
 
 *A Match Point penalty should not be used to replace this penalty in Swiss single-game matches.
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSIONS September 1, 2008 New section covering how to handle game actions that are taken out of order.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+September 1, 2008
+
+New section covering how to handle game actions that are taken out of order.
 
 Removed two examples that are now properly handled under Out-of-Order Sequencing.
 

@@ -764,7 +764,11 @@ A player draws extra cards when his opponent is not looking.
 
 A player in a sealed deck tournament adds cards to his card pool.
 
-Penalty All Levels Disqualification APPENDIX A — PENALTY QUICK REFERENCE Infraction Regular Competitive Professional Deck Errors Illegal Decklist Deck/Decklist Mismatch Improper Registration of Limited Card Pool Lost Sideboard Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Game Rule Violation Failure to Maintain Game State Tardiness Outside Assistance Slow Play Insufficient Shuffling Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards Game Warning Caution Game Warning Caution Game Play Errors Caution Warning Caution Warning Caution Caution Caution Tournament Errors Warning Warning Warning Game Warning Game Warning Warning Warning Game Match Warning Warning Warning Caution Caution Caution Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Improperly Determining a Winner Bribery and Wagering Aggressive Behavior Theft of Tournament Material Warning Warning Warning Warning Game Disqualification Disqualification Disqualification Disqualification Cheating Stalling Fraud Hidden Information Violation Manipulation of Game Materials Disqualification Disqualification Disqualification Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS March 20, 2010 When the controller of the effect differs from the person actually committing the Game Play Error, both players receive the penalty.
+Penalty All Levels Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+March 20, 2010
+
+When the controller of the effect differs from the person actually committing the Game Play Error, both players receive the penalty.
 
 Failure to Reveal requires that the reveal was necessary to demonstrate that the play was legal.
 

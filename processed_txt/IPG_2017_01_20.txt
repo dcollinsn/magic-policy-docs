@@ -714,7 +714,11 @@ A player adds cards to his Sealed Deck pool.
 
 A player realizes he has accidentally drawn an extra card, then fails to call a judge in order to avoid a penalty.
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger None Looking at Extra Cards Warning Hidden Card Error Warning Mulligan Procedure Error Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Deck/Decklist Problem Game Loss Limited Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Match Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS January 20, 2017 General: Using “library” rather than “deck” where it is more appropriate.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+January 20, 2017
+
+General: Using “library” rather than “deck” where it is more appropriate.
 
 General: Refering to tournaments rather than events.
 

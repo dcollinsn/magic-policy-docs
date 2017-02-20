@@ -661,7 +661,7 @@ A player draws extra cards when his opponent is not looking.
 
 A player in a sealed deck tournament adds cards to his card pool.
 
-APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Missed Trigger Failure to Reveal Looking at Extra Cards Drawing Extra Cards Improper Drawing at Start of Game Game Rule Violation Failure to Maintain Game State Warning Game Loss Warning Game Loss Warning Warning Warning Tournament Errors Tardiness Outside Assistance Slow Play Insufficient Shuffling Failure to Follow Official Announcements Draft Procedure Violation Player Communication Violation Marked Cards Deck/Decklist Problem Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Improperly Determining a Winner Bribery and Wagering Aggressive Behavior Theft of Tournament Material Cheating Stalling Fraud Hidden Information Violation Manipulation of Game Materials Game Loss Match Loss Warning Warning Warning Warning Warning Warning Game Loss Warning Game Loss Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS Only changes from the current version and the previous three versions of this document will be displayed in this appendix.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS Only changes from the current version and the previous three versions of this document will be displayed in this appendix.
 
 June 20, 2011 General: Updated references to Judging at Regular REL.
 

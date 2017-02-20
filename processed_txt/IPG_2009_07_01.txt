@@ -842,7 +842,11 @@ Disqualification Disqualification Disqualification Disqualification Cheating Che
 
 *A Match Point penalty should not be used to replace this penalty in Swiss single-game matches.
 
-APPENDIX B — CHANGES FROM PREVIOUS VERSIONS June 20, 2009 General: Title changed.
+APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+June 20, 2009
+
+General: Title changed.
 
 General: References to Universal Tournament Rules or Magic Floor Rules now refer to Magic Tournament Rules.
 
