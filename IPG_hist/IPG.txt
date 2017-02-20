@@ -1,4 +1,4 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective April 8, 2016 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself.
+MAGIC INFRACTION PROCEDURE GUIDE Effective July 22, 2016 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself.
 
 Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
 
@@ -56,6 +56,8 @@ APPLYING PENALTIES Penalties are included with the tournament report so that a p
 
 (with the exception of Tardiness (3.1) and Deck Errors (3.5)).
 
+Being enrolled in the tournament is not a requirement to receive a penalty. Although these guidelines refer to players, other people in the venue, such as spectators, staff, or judges may be enrolled into (and dropped from) the tournament in order to receive a penalty.
+
 Any time a penalty is issued, the judge must explain the infraction, the procedure for fixing the situation, and the penalty to all players involved. If the Head Judge chooses to deviate from the Infraction Procedure Guide, the Head Judge is expected to explain the standard penalty and the reason for deviation.
 
 Some infractions include remedies to handle the offense beyond the base penalty. These procedures exist to protect officials from accusations of unfairness, bias, or favoritism. If a judge makes a ruling that is consistent with quoted text, then the complaints of a player shift from accusation of unfairness by the judge to accusations of unfair policy. Deviations from these procedures may raise accusations against the judge from the player(s) involved, or from those who hear about it. These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
@@ -94,7 +96,7 @@ The point by which the player needs to demonstrate this awareness depends on the
 
 •
 
-A triggered ability that requires its controller to choose targets (other than ‘target opponent’), modes, or other choices made when the ability is put onto the stack: The controller must announce those choices before they next pass priority.
+A triggered ability that requires its controller to choose targets (other than 'target opponent'), modes, or other choices made when the ability is put onto the stack: The controller must announce those choices before they next pass priority.
 
 A triggered ability that causes a change in the visible game state (including life totals) or requires a choice upon resolution: The controller must take the appropriate physical action or acknowledge the specific trigger before taking any game actions (such as casting a sorcery spell or explicitly taking an action in the next step or phase) that can be taken only after the triggered ability should have resolved. Note that passing priority, casting an instant spell or activating an ability doesn’t mean a triggered ability has been forgotten, as it could still be on the stack.
 
@@ -134,11 +136,11 @@ Players may not cause triggered abilities controlled by an opponent to be missed
 
 Additional Remedy If the triggered ability specifies a default action associated with a choice made by the controller
 
-(usually “If you don’t ...” or “... unless”), resolve it choosing the default option. If the triggered ability is a delayed triggered ability that changes the zone of an object, resolve it. For these two types of abilities, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. These abilities do not expire and should be remedied no matter how much time has passed since they should have triggered.
+(usually "If you don't ..." or "... unless"), resolve it choosing the default option. If the triggered ability is a delayed triggered ability that changes the zone of one or more objects defined when the ability was created, resolve it. For these two types of abilities, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. These abilities do not expire and should be remedied no matter how much time has passed since they should have triggered.
 
-If the ability was missed prior to the current phase in the previous player’s turn, instruct the players to continue playing. If the triggered ability created an effect whose duration has already expired, instruct the players to continue playing.
+If the ability was missed prior to the current phase in the previous turn, instruct the players to continue playing. If the triggered ability created an effect whose duration has already expired, instruct the players to continue playing.
 
-If the triggered ability isn’t covered by the previous two paragraphs, the opponent chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can’t sacrifice a creature that wasn’t on the battlefield when the ability should have triggered.
+If the triggered ability isn’t covered by the previous two paragraphs, the opponent chooses whether the triggered ability is added to the stack. If it is, it’s inserted at the appropriate place on the stack if possible or on the bottom of the stack. No player may make choices involving objects that would not have been legal choices when the ability should have triggered. For example, if the ability instructs a player to sacrifice a creature, that player can't sacrifice a creature that wasn't on the battlefield when the ability should have triggered.
 
 Upgrade: If the triggered ability is usually considered detrimental for the controlling player the penalty is a Warning. The current game state is not a factor in determining this, though symmetrical abilities (such as Howling Mine) may be considered usually detrimental or not depending on who is being affected Game Play Error — Looking at Extra Cards Warning Definition A player looks at a card they were not entitled to see. Players are considered to have looked at a card when they have been able to observe the face of a hidden card, or when a card is moved any significant amount from a deck, but before it touches cards in another set. A set is a physically distinct group defined by a game rule or effect. It may correspond to a specific zone, or may only represent a part of a zone. This includes errors of dexterity or catching a play error before the card is placed into his or her hand. Once a card has been placed into his or her hand, the offense is no longer Looking at Extra Cards.
 
@@ -158,7 +160,7 @@ Philosophy A player can accidentally look at extra cards easily and this infract
 
 Players should not use this penalty to get a “free shuffle” or to attempt to shuffle away cards they don’t want to draw; doing so may be Unsporting Conduct — Cheating. Players also are not allowed to use this penalty as a stalling mechanism. The deck is already randomized, so shuffling in the revealed cards should not involve excessive effort.
 
-Additional Remedy Shuffle the random portion of the deck, including any previously unknown cards that were accidentally seen.
+Additional Remedy Shuffle any previously unknown cards into the random portion of the deck, then put any known cards back in their correct locations.
 
 Game Play Error — Hidden Card Error Warning Definition A player commits an error in the game that cannot be corrected by only publicly available information and does so without his or her opponent’s permission.
 
@@ -200,13 +202,13 @@ If the set contains more cards than it is supposed to contain, the player reveal
 
 If the error involves one or more cards that were supposed to be revealed, the player reveals the set of cards that contains the unrevealed cards and his or her opponent chooses that many previously-unknown cards. Treat those as the unrevealed cards for any required actions. If the cards chosen would not legally be in the set as a result, they are treated as excess cards.
 
-Excess cards are returned to the correct zone. If that zone is the library, they should be shuffled into the random portion. The player does not repeat the instruction or partial instruction (if any)
+Excess cards are returned to the correct location. If that location is the library, they should be shuffled into the random portion. The player does not repeat the instruction or partial instruction
 
-that caused the infraction.
+(if any) that caused the infraction.
 
-Upgrade: If a face-down card cast using a morph ability is discovered during the game to not have a morph ability, the penalty is a Game Loss. If the player has one or more cards with a morph ability in hand, has not added cards to his or her hand since casting the card found in violation, and has discovered the error themselves, the upgrade does not apply and they may swap the card for a card with a morph ability in hand.
+Upgrade: If a face-down card cast using a morph ability is discovered during the game to not have a morph ability, the penalty is a Game Loss. If the player has one or more cards with a morph ability in hand, has not added cards to his or her hand since casting the card found in violation, and has discovered the error themselves, the upgrade does not apply and they may swap the card for a card with the morph ability in hand.
 
-Game Play Error — Mulligan Procedure Error Warning Definition A player makes an error during the mulligan process. This infraction does not apply to errors made once pre-game procedures are complete.
+Game Play Error — Mulligan Procedure Error Warning Definition A player makes an error during the mulligan process. This infraction does not apply to errors made once pre-game procedures are complete. “Scrying” for more than one card after taking a mulligan is treated as a Hidden Card Error.
 
 Trivial process errors that provide no advantage, such as declaring an intent to mulligan early, are not an infraction.
 
@@ -228,7 +230,7 @@ If a player looks at the top card of his or her library after taking a mulligan,
 
 Additional Remedy If the player has too many cards in hand, he or she may choose to reveal his or her hand, and his or her opponent chooses a card from it to be shuffled back into the library. If more than one excess card was drawn (for example, eight cards drawn during a mulligan to 6) his or her opponent continues removing cards until the correct number has been reached.
 
-If cards are not removed from the hand this way (either due to an error that didn’t lead to too many cards, or by the player choosing not to reveal), that player takes an additional mulligan.
+If cards are not removed from the hand this way (either due to an error that didn't lead to too many cards, or by the player choosing not to reveal), that player takes an additional mulligan.
 
 Players may continue taking mulligans after the remedy has been completed.
 
@@ -264,7 +266,7 @@ If a player forgot to draw cards, discard cards, or return cards from their hand
 
 If an object is in an incorrect zone either due to a required zone change being missed or due to being put into the wrong zone during a zone change, the identity of the object was known to all players, and it can be moved with only minor disruption to the state of the game, put the object in the correct zone.
 
-If attacker or blocker order has not been declared, the appropriate player orders them.
+If damage assignment order has not been declared, the appropriate player chooses that order.
 
 Otherwise, a backup may be considered or the game state may be left as is.
 
@@ -290,7 +292,7 @@ A second or subsequent Warning for a Tournament Error offense in the same catego
 
 Tournament Error — Tardiness Game Loss Definition A player is not in his or her seat at the beginning of a round, or has not completed tasks assigned within the time allocated. If a round begins before the previous round would have ended (due to all players finishing early), tardiness does not apply until the scheduled end of the previous round.
 
-A player is not tardy at the start of a round if he or she has notified a judge of a delay, provided the delay is not excessive. Extra time may be given in these situations.
+If, before or during a match, a player requests permission from a judge for a delay for a legitimate task, such as a bathroom break or finding replacements for missing cards, that player may have up to 10 minutes to perform that task before he or she is considered tardy. If the player takes more than 10 minutes, a Match Loss will be applied. Otherwise, no penalty will be applied and a time extension given for the time taken.
 
 Examples:
 
@@ -304,7 +306,9 @@ A player sits at an incorrect table and plays the wrong opponent.
 
 Philosophy Players are responsible for being on time and in the correct seat for their matches, and for completing registrations in a timely manner. The Tournament Organizer may announce that they are giving the players some additional time before a penalty is issued. Otherwise, the penalty is issued as soon as the round begins.
 
-Additional Remedy The players are given a time extension corresponding to the length of the tardiness. A player not in his or her seat 10 minutes into the round will receive a Match Loss and be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round.
+Additional Remedy The players are given a time extension corresponding to the length of the tardiness.
+
+Upgrade: A player not in his or her seat 10 minutes into the round will receive a Match Loss and will be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round.
 
 Tournament Error — Outside Assistance Match Loss Definition A player, spectator, or other tournament participant does any of the following:
 
@@ -378,7 +382,7 @@ A player should shuffle his or her deck using multiple methods. Patterned pile-s
 
 Additional Remedy Shuffle the random portion of the deck thoroughly.
 
-Tournament Error — Deck/Decklist Problem Game Loss Definition A player commits one or more of the following errors involving deck contents or registration:
+Tournament Error — Deck/Decklist Problem Game Loss Definition A player commits one or more of the following errors involving his or her deck, decklist, or sideboard:
 
 •
 
@@ -388,19 +392,33 @@ Tournament Error — Deck/Decklist Problem Game Loss Definition A player commits
 
 •
 
-The deck or decklist contains an illegal number of cards for the format.
+The deck, decklist, or sideboard contains an illegal number of cards for the format.
 
-The deck or decklist contains one or more cards that are illegal for the format.
+The deck, decklist, or sideboard contains one or more cards that are illegal for the format.
 
-A card listed on a decklist is not identified by its full name, and could be interpreted as more than one card. Truncated names of storyline characters (legendary permanents and Planeswalkers) are acceptable as long as they are the only representation of that character in the format and are treated as referring to that card, even if other cards begin with the same name.
+A card listed on a decklist is not identified by its full name and could be interpreted as one of multiple cards. Truncated names of storyline characters (legendary permanents and planeswalkers) are acceptable as long as they are the only representation of that character in the format and are treated as referring to that card, even if other cards begin with the same name.
 
 The contents of the presented deck and sideboard do not match the decklist registered.
 
-Sideboards are considered to be a part of the deck for the purpose of this infraction. If sideboard cards are missing, make a note of this, but issue no penalty.
-
 This infraction does not cover errors in registration made by another participant prior to a sealed pool swap, which should be corrected at the discretion of the judge.
 
-Cards that are obviously not part of the deck (e.g. cards in different sleeves, tokens) are ignored when determining deck legality.
+Cards in different sleeves, tokens, and double-faced cards for which checklists are being used are ignored when determining deck legality.
+
+If there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard unless they are:
+
+•
+
+•
+
+•
+
+Promotional cards that have been handed out as part of the tournament.
+
+Double-faced cards represented by checklist cards in the deck.
+
+Double-faced cards being used to represent the ‘night’ side of cards in the deck. These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
+
+If sideboard cards are missing, make a note of this, but issue no penalty.
 
 Examples:
 
@@ -414,31 +432,13 @@ A player has a Pacifism in his deck from a previous opponent.
 
 A player lists ‘Sarkhan’ in a format with both Sarkhan, the Dragonspeaker and Sarkhan Unbroken.
 
-A player looking at her sideboard during a game fails to keep it clearly separate from her deck.
-
 Philosophy Decklists are used to ensure that decks are not altered in the course of a tournament. Judges and other tournament officials should be vigilant about reminding players before the tournament begins of the importance of submitting a legal decklist, and playing with a legal deck. A player normally receives a Game Loss if his or her decklist is altered after tournament play has begun.
 
-Penalties for decklist errors discovered during a deckcheck and deck errors are issued immediately. Other decklist penalties are issued at the start of the next round to minimize the disruption to the match currently being played and provide consistency in case some players have finished playing their match before the penalty can be administered.
+Penalties for decklist errors discovered during a deckcheck and deck/sideboard errors are issued immediately. Other decklist penalties are issued at the start of the next round to minimize the disruption to the match currently being played and provide consistency in case some players have finished playing their match before the penalty can be administered.
 
 Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of his or her deck up until the point at which they are discovered. The Head Judge may choose to not issue this penalty if they believe that what the player wrote on their decklist is obvious and unambiguous, even if it is not the full, accurate name of the card. In Limited events, the Head Judge may choose not to issue this penalty for incorrectly marked basic land counts if they believe the correct land count is obvious. This should be determined solely by what is written on the decklist, and not based on intent or the actual contents of the deck; needing to check the deck for confirmation is a sign that the entry is not obvious.
 
-If the sideboard is not kept sufficiently separate from the deck during play, it becomes impossible to determine the legality of the deck. Additionally, if there are extra cards stored with the sideboard that could conceivably be played in the player’s deck, they will be considered a part of the sideboard unless they are:
-
-•
-
-•
-
-•
-
-Promotional cards that have been handed out as part of the tournament.
-
-Double-faced cards represented by checklist cards in the deck.
-
-Double-faced cards being used to represent the ‘night’ side of cards in the deck.
-
-These cards must not be sleeved in the same way as cards in the main deck and/or sideboard.
-
-Additional Remedy Remove any cards from the deck that are illegal for the format or violate the maximum number allowed, fix any failures to de-sideboard, restore any missing cards if they (or identical replacements) can be located, then alter the decklist to reflect the remaining deck. If the remaining deck has too few cards, add basic lands of the player’s choice to reach the minimum number; this change may be reverted at a later point if replacements for lost cards are found. If the deck and decklist both violate a maximum cards restriction (usually too many cards in a sideboard or more than four of a card), remove cards starting from the bottom of the appropriate section of the list.
+Additional Remedy Remove any cards from the deck and sideboard that are illegal for the format or violate the maximum number allowed, fix any failures to de-sideboard, restore any missing cards if they (or identical replacements) can be located, then alter the decklist to reflect the remaining deck. If the remaining deck has too few cards, add basic lands of the player’s choice to reach the minimum number; this change may be reverted at a later point if replacements for lost cards are found. If the deck/sideboard and decklist both violate a maximum cards restriction (usually too many cards in a sideboard or more than four of a card), remove cards starting from the bottom of the appropriate section of the list.
 
 Downgrade: If a deck is discovered to be missing cards after initial presentation and shuffling, and the missing cards can be located, the Head Judge may downgrade the penalty to a Warning and shuffle those cards back into the deck. If the missing card(s) are in the current opponent’s deck, shuffle them into their owner’s deck and issue Warnings to both players. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be shuffled into the deck at random from all sideboard cards.
 
@@ -494,6 +494,8 @@ Philosophy Sleeves and cards often become worn over the course of a tournament, 
 
 Note that almost all sleeves can be considered marked in some way; judges should keep this in mind when determining penalties. In cases of marked cards, educating players to shuffle their cards and sleeves before sleeving the cards is very important.
 
+This infraction applies only to cards in a player’s deck. Differently-marked sleeves in the sideboard are not illegal unless they are put into the deck without being changed. Unless investigating, judges are encouraged to alert players about concerns with marked sideboard cards.
+
 Additional Remedy The player needs to replace the card(s) or sleeve(s) with an unmarked version or, if no sleeves are being used, use sleeves that conceal the markings. If the cards themselves have become marked through play in the tournament, the Head Judge may decide to issue a proxy. If the player is unable to find replacement cards, he or she may replace those cards with basic lands;
 
 this change may be reverted at a later point if replacements for marked cards are found.
@@ -501,10 +503,6 @@ this change may be reverted at a later point if replacements for marked cards ar
 Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to take advantage of this knowledge, the penalty is a Game Loss.
 
 UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, enjoyment, or integrity of an event in a significantly negative fashion.
-
-Being enrolled in the tournament is not a requirement to receive an Unsporting Conduct penalty.
-
-Although these guidelines refer to players, other people in the venue, such as spectators, staff, or judges are held to the same standard of behavior.
 
 Unsporting behavior is not the same as a lack of sporting behavior. There is a wide middle ground of “competitive” behavior that is certainly neither “nice” nor “sporting” but still doesn’t qualify as “unsporting.” The Head Judge is the final arbiter on what constitutes unsporting conduct.
 
@@ -530,7 +528,7 @@ Philosophy All participants should expect a safe and enjoyable environment at a 
 
 Additional Remedy The player must correct the problem immediately. Subsequent Unsporting Conduct — Minor infractions, even for different offenses, will result in a Game Loss. If a Game Loss is issued for repeated infractions, and it occurs at the end of a game, it is acceptable for the judge to apply the penalty to the next game instead.
 
-Unsporting Conduct — Major Game Loss Definition A player takes action towards one or more individuals that could reasonably be expected to create a feeling of being harassed, threatened, bullied, or stalked. This may include insults based on race, color, religion, national origin, age, gender, disability, or sexual orientation. Threats of physical violence should be treated as Unsporting Conduct – Aggressive Behavior.
+Unsporting Conduct — Major Match Loss Definition A player takes action towards one or more individuals that could reasonably be expected to create a feeling of being harassed, threatened, bullied, or stalked. This may include insults based on race, color, religion, national origin, age, gender, disability, or sexual orientation. Threats of physical violence should be treated as Unsporting Conduct – Aggressive Behavior.
 
 It is possible for an offender to commit this infraction without intending malice or harm to the subject of the harassment.
 
@@ -614,11 +612,9 @@ Philosophy The safety of all people at a tournament is of paramount importance. 
 
 Additional Remedy The offender should be asked to leave the venue by the organizer.
 
-Unsporting Conduct — Theft of Tournament Material Disqualification Definition A player steals material from the event, such as cards or tournament equipment.
+Unsporting Conduct — Theft of Tournament Material Disqualification Definition A player steals materials from the event, including but not limited to cards or tournament equipment.
 
 Examples:
-
-A player in a limited tournament pockets a foil rare that he opened in the sealed pool he is registering.
 
 A player steals cards from the sideboard of his opponent.
 
@@ -644,7 +640,7 @@ A player intentionally mulligans slowly before the third game in an attempt to m
 
 A player losing a game starts slowing down the pace of play in an attempt to run out the clock.
 
-Unsporting Conduct — Cheating Disqualification Definition A person breaks a rule defined by the tournament documents, lies to a tournament official, or notices an offense committed in his or her (or a teammate’s) match and does not call attention to it.
+Unsporting Conduct — Cheating Disqualification Definition A person breaks a rule defined by the tournament documents, lies to a tournament official, or notices an offense committed in his or her (or a teammate's) match and does not call attention to it.
 
 Additionally, the offense must meet the following criteria for it to be considered Cheating:
 
@@ -677,6 +673,32 @@ A player adds cards to his Sealed Deck pool.
 A player realizes he has accidentally drawn an extra card, then fails to call a judge in order to avoid a penalty.
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+July 22, 2016 Moved instructions about enrolling a player to receive a penalty from 4.
+
+Delayed zone-change triggers need to lock in a set of objects when created to to qualify.
+
+Scrying too many cards during the mulligan process is now Hidden Card Error.
+
+Using the correct technical term for the Conga Line of Death.
+
+More details about how to handle a player who has notified us that they’re going to be tardy.
+
+General cleanup. Explicitly refer to sideboards when needed.
+
+Moved OK cards in the sideboard into the definition.
+
+Reworded “obviously not in deck” to be an explicit set. Note: does not apply to sideboards!
+
+Removed Example E, (sideboard and deck get mixed), as this is now Hidden Card Error.
+
+Reminder that cards in the sideboard cannot be considered marked.
+
+Moved instructions about enrolling a player to receive a penalty to 1.2.
+
+Removed Example A, as it is unlikely to happen with new registration procedures.
+
+Infraction numbered properly.
 
 April 8, 2016 Simple backups do not involve random elements.
 
@@ -727,10 +749,6 @@ Decks missing cards are only a Game Loss at the start of the game (assuming it�
 Explicitly all about draft now. This isn’t a change.
 
 Opening sentence cleaned up.
-
-October 14, 2015 Refers to Drawing Extra Cards under certain circumstances.
-
-Situation where a set of cards is on top of the library has been rewritten to be clearer.
 
 All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2016 Wizards.
 
