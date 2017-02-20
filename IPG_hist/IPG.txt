@@ -1,4 +1,4 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective July 22, 2016 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself.
+MAGIC INFRACTION PROCEDURE GUIDE Effective September 30, 2016 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself.
 
 Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
 
@@ -114,6 +114,8 @@ If a triggered ability would have no impact on the game, it’s not an infractio
 
 Judges do not intervene in a missed trigger situation unless they intend to issue a Warning or have reason to suspect that the controller is intentionally missing his or her triggered abilities.
 
+A player controlling another player is responsible for that player’s triggers in addition to his or her own.
+
 Examples:
 
 Knight of Infamy (a 2/1 creature with exalted) attacks alone. Its controller says “Take two.”
@@ -136,7 +138,7 @@ Players may not cause triggered abilities controlled by an opponent to be missed
 
 Additional Remedy If the triggered ability specifies a default action associated with a choice made by the controller
 
-(usually "If you don't ..." or "... unless"), resolve it choosing the default option. If the triggered ability is a delayed triggered ability that changes the zone of one or more objects defined when the ability was created, resolve it. For these two types of abilities, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. These abilities do not expire and should be remedied no matter how much time has passed since they should have triggered.
+(usually "If you don't ..." or "... unless"), give the opponent the choice to resolve it choosing the default option. If the triggered ability is a delayed triggered ability that changes the zone of one or more objects defined when the ability was created, resolve it. For these two types of abilities, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. These abilities do not expire and should be remedied no matter how much time has passed since they should have triggered.
 
 If the ability was missed prior to the current phase in the previous turn, instruct the players to continue playing. If the triggered ability created an effect whose duration has already expired, instruct the players to continue playing.
 
@@ -190,7 +192,7 @@ Be careful not to apply this infraction in situations where a publicly-correctab
 
 Information about cards previously known by the opponent, such as cards previously revealed while on the top of the deck or by a previous look at the hand, may be taken into account while determining the set of cards to which the remedy applies.
 
-Always operate on the smallest set possible to remedy the error. This may mean applying the remedy to only part of a set defined by an instruction. For example, if a player resolves Collected Company, picks up three cards with one hand and then four cards with the other, the card causing the infraction is part of the set of four cards and should be removed from there.
+Always operate on the smallest set possible to remedy the error. This may mean applying the remedy to only part of a set defined by an instruction. For example, if a player resolves Collected Company, picks up three cards with one hand and then four cards with the other, the last drawn set of four cards should be used for the remedy, instead of the full set of seven cards..
 
 Additional Remedy In cases where the infraction was immediately followed by moving a card from the affected set to a known location, such as by discarding, putting cards on top of the library, or playing a land, a simple backup to the point just after the error may be performed.
 
@@ -202,9 +204,9 @@ If the set contains more cards than it is supposed to contain, the player reveal
 
 If the error involves one or more cards that were supposed to be revealed, the player reveals the set of cards that contains the unrevealed cards and his or her opponent chooses that many previously-unknown cards. Treat those as the unrevealed cards for any required actions. If the cards chosen would not legally be in the set as a result, they are treated as excess cards.
 
-Excess cards are returned to the correct location. If that location is the library, they should be shuffled into the random portion. The player does not repeat the instruction or partial instruction
+Excess cards are returned to the correct location. If that location is the library, they should be shuffled into the random portion unless the owner previously knew the identity of the card/cards illegally moved; that many cards, chosen by the opponent, are returned to the top of the library instead. For example, if a player playing with Sphinx of Jwar Isle illegally draws a card, that card should be returned to the top of the library.
 
-(if any) that caused the infraction.
+The player does not repeat the instruction or partial instruction (if any) that caused the infraction.
 
 Upgrade: If a face-down card cast using a morph ability is discovered during the game to not have a morph ability, the penalty is a Game Loss. If the player has one or more cards with a morph ability in hand, has not added cards to his or her hand since casting the card found in violation, and has discovered the error themselves, the upgrade does not apply and they may swap the card for a card with the morph ability in hand.
 
@@ -440,9 +442,9 @@ Ambiguous or unclear names on a decklist may allow a player to manipulate the co
 
 Additional Remedy Remove any cards from the deck and sideboard that are illegal for the format or violate the maximum number allowed, fix any failures to de-sideboard, restore any missing cards if they (or identical replacements) can be located, then alter the decklist to reflect the remaining deck. If the remaining deck has too few cards, add basic lands of the player’s choice to reach the minimum number; this change may be reverted at a later point if replacements for lost cards are found. If the deck/sideboard and decklist both violate a maximum cards restriction (usually too many cards in a sideboard or more than four of a card), remove cards starting from the bottom of the appropriate section of the list.
 
-Downgrade: If a deck is discovered to be missing cards after initial presentation and shuffling, and the missing cards can be located, the Head Judge may downgrade the penalty to a Warning and shuffle those cards back into the deck. If the missing card(s) are in the current opponent’s deck, shuffle them into their owner’s deck and issue Warnings to both players. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be shuffled into the deck at random from all sideboard cards.
+Downgrade: If a deck is discovered to be missing cards after players have begun drawing opening hands, and the missing cards can be located, issue a Warning and shuffle those cards back into the deck. If the missing card(s) are in the current opponent’s deck, shuffle them into their owner’s deck and issue Warnings to both players. If the missing card(s) are with the sideboard and it isn’t the first game, choose the ones to be shuffled into the deck at random from all sideboard cards.
 
-Downgrade: If a player, before taking any game actions, discovers incorrect cards in their deck and calls attention to it at that point, the Head Judge may issue a Warning, fix the deck, and, if the player has drawn their opening hand, instruct the player to mulligan. The player may continue to take further mulligans if desired.
+Downgrade: If a player, before taking any game actions, discovers incorrect cards in their deck and calls attention to it at that point, issue a Warning, fix the deck, and, if the player has drawn their opening hand, instruct the player to mulligan. The player may continue to take further mulligans if desired.
 
 Tournament Error — Limited Procedure Violation Warning Definition A player commits a technical error during a draft.
 
@@ -524,7 +526,7 @@ A player leaves excessive trash in the play area after leaving the table.
 
 A player fails to follow the request of a tournament official, such as being asked to leave the play area.
 
-Philosophy All participants should expect a safe and enjoyable environment at a tournament, and a participant needs to be made aware if his or her behavior is unacceptable so that this environment may be maintained.
+Philosophy All participants should expect a safe and enjoyable environment at a tournament, and a player needs to be made aware if his or her behavior is unacceptable so that this environment may be maintained.
 
 Additional Remedy The player must correct the problem immediately. Subsequent Unsporting Conduct — Minor infractions, even for different offenses, will result in a Game Loss. If a Game Loss is issued for repeated infractions, and it occurs at the end of a game, it is acceptable for the judge to apply the penalty to the next game instead.
 
@@ -658,7 +660,7 @@ Cheating will often appear on the surface as a Game Play Error or Tournament Err
 
 Examples:
 
-A player alters the results of a match after the match is over.
+A player alters the results on a match slip without her opponent’s knowledge.
 
 A player lies to a tournament official about what happened in a game to make his case stronger.
 
@@ -673,6 +675,18 @@ A player adds cards to his Sealed Deck pool.
 A player realizes he has accidentally drawn an extra card, then fails to call a judge in order to avoid a penalty.
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
+
+September 30, 2016 Default-option triggers let the opponent choose whether to resolve it.
+
+If you control my turn, you’re responsible for my triggers.
+
+Rewording example set selection to be clearer.
+
+Returning cards to the library may be put on top if the owner previously knew about that card.
+
+Downgrades are not optional. More clarity on where the line is for the downgrade.
+
+Example A reworded to be clearer.
 
 July 22, 2016 Moved instructions about enrolling a player to receive a penalty from 4.
 
@@ -723,32 +737,6 @@ More details on how to handle a card discovered missing during a game.
 Self-call downgrade only needs to handle illegal cards, not missing ones.
 
 Appendix A: Mulligan Procedure Error added.
-
-January 22, 2016 General: Updated some examples to use more current cards.
-
-Errors made by tournament staff may lead to downgrades.
-
-Small tweaks to make acknowledgement for untargetted triggers a little clearer.
-
-New infraction! DEC is replaced.
-
-Morph upgrade moved here from 2.5.
-
-No longer an infraction! Rolled into 2.3.
-
-Update to object-in-wrong-zone. Also applies to objects that were supposed to move but didn’t.
-
-More judge discretion on issuing double GRVs. Applies to replacement effects, too.
-
-Tournament Error upgrade counts reset between days.
-
-Clarifying that modifying a decklist after play has begun should always come with a Game Loss.
-
-Decks missing cards are only a Game Loss at the start of the game (assuming it’s fixable).
-
-Explicitly all about draft now. This isn’t a change.
-
-Opening sentence cleaned up.
 
 All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2016 Wizards.
 
