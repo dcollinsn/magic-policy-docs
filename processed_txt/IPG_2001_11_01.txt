@@ -36,9 +36,7 @@ Penalty—Recommended penalties at each Rules Enforcement Level
 
 DEFINITION OF PENALTIES Caution:
 
-This is the smallest penalty that can be given. A caution is a verbal warning to a player. The caution must explain the infraction and the consequences if the infraction is repeated. A caution should be reported to the head judge,
-
-but does not need to be reported to the DCI.
+This is the smallest penalty that can be given. A caution is a verbal warning to a player. The caution must explain the infraction and the consequences if the infraction is repeated. A caution should be reported to the head judge, but does not need to be reported to the DCI.
 
 Warning:
 
@@ -90,11 +88,7 @@ WCW™ Nitro™ card game: Match loss
 
 X-Men™ trading card game: Match loss REPEAT OFFENSES The recommended penalty for the first offense is listed in the “Penalty” portion of each infraction. For the second offense of the same infraction, the next highest penalty is recommended. Note that this increase of penalty does not take into consideration the penalties assigned to other RELs, but instead follows the order of:
 
-Caution—Warning—Game Loss—Match Loss—Disqualification If a baseline penalty is a warning, the second offense should receive a game loss,
-
-and the third offense should receive a match loss. For example, at REL 1 a player’s penalty for the first offense of Card Drawing—Looking at Extra Cards would be a caution. The player’s penalty for a second offense would be the next highest, which is a warning. His or her third offense would result in a game loss,
-
-fourth offense a match loss, and fifth offense would result in the player’s disqualification.
+Caution—Warning—Game Loss—Match Loss—Disqualification If a baseline penalty is a warning, the second offense should receive a game loss, and the third offense should receive a match loss. For example, at REL 1 a player’s penalty for the first offense of Card Drawing—Looking at Extra Cards would be a caution. The player’s penalty for a second offense would be the next highest, which is a warning. His or her third offense would result in a game loss, fourth offense a match loss, and fifth offense would result in the player’s disqualification.
 
 DECK PROBLEMS This section generally deals with deck problems and related issues for Constructed and Limited tournaments.
 
@@ -124,9 +118,7 @@ A player in an Extended Magic tournament lists Tolarian Academy (a banned card) 
 
 A player in a Constructed Pokémon tournament lists five Professor Oaks on her decklist when a maximum of four is allowed.
 
-Philosophy The decklist is the ultimate guide to a player’s deck. If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal decklist. To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all decklists as soon as possible,
-
-preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal decklist.
+Philosophy The decklist is the ultimate guide to a player’s deck. If the decklist is illegal, the player is considered to have an illegal deck, regardless of the physical contents of his or her deck. However, because the majority of illegal decklists are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal decklist. To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all decklists as soon as possible, preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal decklist.
 
 Penalty At all RELs, the basic procedure is to correct a player’s decklist so it is legal and let the player continue playing in the tournament with a deck matching the corrected decklist. Any excess cards (cards violating a maximum number of cards restriction) or illegal cards should be removed from the decklist. Then, if cards need to be added to make the decklist legal, the player should add only basic resources like basic lands (for Magic) or basic energy (for Pokémon). For example, a player in a Standard Magic tournament has submitted a 58-card decklist with five Disenchants. Since there is a four-of-a-kind limit, one of the Disenchants must be removed. Now, the decklist contains only 57 cards, so three basic lands of the player’s choice are added to meet the 60-card minimum. In addition, the player receives either a game or a match loss, depending on the REL
 
@@ -236,9 +228,7 @@ A player in a Limited Magic tournament fails to list any of her sideboard cards 
 
 Philosophy The sideboard list is the ultimate guide to a player’s sideboard. If the sideboard list is illegal, the player is considered to have an illegal sideboard, regardless of the physical contents of his or her sideboard. However, because the majority of illegal sideboards are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal sideboard list. To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all sideboard lists as soon as possible, preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal sideboard list.
 
-Penalty At all RELs, the basic procedure is to correct a player’s sideboard list so it is legal, if possible, and let the player continue playing in the tournament with a sideboard matching the corrected sideboard list. Any excess cards (cards violating a maximum-number-of-cards restriction) or illegal cards should be removed from the sideboard list. Then, if cards need to be added to make the sideboard list legal,
-
-the player should add only basic resources like basic lands (for Magic) or basic energy (for Pokémon). For example, a player in a Standard Magic tournament has submitted a thirteen-card sideboard list with five Disenchants. Because there is a four-of-a-kind card limit, one of the Disenchants must be removed. After removal, the sideboard list will contain only twelve cards, so three basic lands of the player’s choice are added to meet the fifteen-card requirement. In addition, the player receives a game loss.
+Penalty At all RELs, the basic procedure is to correct a player’s sideboard list so it is legal, if possible, and let the player continue playing in the tournament with a sideboard matching the corrected sideboard list. Any excess cards (cards violating a maximum-number-of-cards restriction) or illegal cards should be removed from the sideboard list. Then, if cards need to be added to make the sideboard list legal, the player should add only basic resources like basic lands (for Magic) or basic energy (for Pokémon). For example, a player in a Standard Magic tournament has submitted a thirteen-card sideboard list with five Disenchants. Because there is a four-of-a-kind card limit, one of the Disenchants must be removed. After removal, the sideboard list will contain only twelve cards, so three basic lands of the player’s choice are added to meet the fifteen-card requirement. In addition, the player receives a game loss.
 
 Deck Problem—Illegal Sideboard List All Levels Game Deck Problem—Illegal Sideboard (Legal List)
 
@@ -270,9 +260,7 @@ During a Constructed Magic tournament, a player is found to have five Terrors in
 
 A player has misplaced several cards from her sideboard (or lost the entire sideboard), but the sideboard list is legal.
 
-Philosophy When the physical cards in the sideboard are illegal, but the sideboard list is legal,
-
-the best solution is to alter the sideboard to match the list. If the sideboard list is illegal, do not use this penalty; instead refer to section 114, which assigns a more strict penalty.
+Philosophy When the physical cards in the sideboard are illegal, but the sideboard list is legal, the best solution is to alter the sideboard to match the list. If the sideboard list is illegal, do not use this penalty; instead refer to section 114, which assigns a more strict penalty.
 
 Penalty In addition to the appropriate penalty, the sideboard is altered to match the list for the remainder of the tournament. This includes final rounds or rounds of the tournament that will be played on different days of the tournament. The player is informed that he or she may not use his or her sideboard for the remainder of the current match. The player is responsible for correcting the sideboard error and finding any replacement cards that are needed before the next round begins. If the player is unable to obtain the appropriate cards, then those slots in the sideboard should be filled with basic lands of the player’s choice.
 
@@ -296,9 +284,7 @@ The sideboard contains cards that are illegal for the format.
 
 The sideboard contains cards that would make the deck illegal because it would violate a game rule (such as the four-card limit rule in Magic games).
 
-Philosophy When a sideboard is illegal, the cleanest solution is to remove the sideboard entirely. This creates a significant penalty, which is appropriate for the infraction,
-
-while still allowing the player to continue in the event.
+Philosophy When a sideboard is illegal, the cleanest solution is to remove the sideboard entirely. This creates a significant penalty, which is appropriate for the infraction, while still allowing the player to continue in the event.
 
 Penalty At higher REL events, decklists are normally used, so a separate, more severe penalty for higher RELs is not needed.
 
@@ -330,9 +316,7 @@ Philosophy Procedural errors vary significantly. The judge should adjust the pen
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
 
-Procedural Error—Minor All Levels Caution Procedural Error—Major Definition A major procedural error occurs when a player performs an unintentional,
-
-disruptive action at the tournament.
+Procedural Error—Minor All Levels Caution Procedural Error—Major Definition A major procedural error occurs when a player performs an unintentional, disruptive action at the tournament.
 
 Examples:
 
@@ -348,9 +332,7 @@ Philosophy Procedural errors vary significantly. The judge should adjust the pen
 
 Penalty If the procedural error makes it impossible for a player to effectively complete the game or match in the allotted period of time, the judge should upgrade the penalty to a match/game loss.
 
-Procedural Error—Major All Levels Warning Procedural Error—Severe Definition A severe procedural error occurs when a player performs an unintentional,
-
-extremely disruptive action at the tournament.
+Procedural Error—Major All Levels Warning Procedural Error—Severe Definition A severe procedural error occurs when a player performs an unintentional, extremely disruptive action at the tournament.
 
 Example A player spills coffee on his deck and is unable to play the match effectively.
 
@@ -386,9 +368,7 @@ A player hands in his decklist after the time designated by the judge or organiz
 
 Philosophy Players are responsible for being on time for their matches.
 
-Penalty A tardiness penalty should not be given if a round started early and a player arrived at his or her seat before the originally announced start time. At lower RELs, the tournament organizer may elect to give players the amount of time allotted for the pregame procedure (3 minutes) to arrive before a game loss is awarded. At higher RELs, a game loss should be awarded as soon as the round begins. At any REL, if a player is not in his or her seat 10 minutes into the round,
-
-he or she should be awarded a second game loss. If a player does not arrive before the end of the round, he or she should be dropped from the event.
+Penalty A tardiness penalty should not be given if a round started early and a player arrived at his or her seat before the originally announced start time. At lower RELs, the tournament organizer may elect to give players the amount of time allotted for the pregame procedure (3 minutes) to arrive before a game loss is awarded. At higher RELs, a game loss should be awarded as soon as the round begins. At any REL, if a player is not in his or her seat 10 minutes into the round, he or she should be awarded a second game loss. If a player does not arrive before the end of the round, he or she should be dropped from the event.
 
 Procedural Error—Tardiness REL 1 REL 2 REL 3 REL 4 REL 5 Warning Warning Game Game Game Procedural Error—Playing the Wrong Opponent Definition Two people played against each other when they were paired against different players for that round.
 
@@ -400,25 +380,19 @@ Penalty If the error is discovered within the pregame time limit for the first g
 
 Procedural Error—Playing the Wrong Opponent All Levels Warning CARD DRAWING This section includes infractions relating to inappropriate card drawing, card viewing, and related topics.
 
-Card Drawing—Drawing Extra Cards Definition Players are considered to have drawn a card when they move a card more than one card length away from their decks (unless this is in the act of counting out cards face down). Players are also considered to have drawn a card when they take a card from their decks and perform any other action (playing a spell,
-
-advancing a phase in the game, and so on). If a player draws a card in this manner, the card is considered to have entered his or her hand immediately. In Magic games, this is generally considered an indication that the player has moved to his or her draw step (unless instructed to draw by some other effect).
+Card Drawing—Drawing Extra Cards Definition Players are considered to have drawn a card when they move a card more than one card length away from their decks (unless this is in the act of counting out cards face down). Players are also considered to have drawn a card when they take a card from their decks and perform any other action (playing a spell, advancing a phase in the game, and so on). If a player draws a card in this manner, the card is considered to have entered his or her hand immediately. In Magic games, this is generally considered an indication that the player has moved to his or her draw step (unless instructed to draw by some other effect).
 
 Players are not considered to have drawn extra cards when they place a card face down on the table (without looking at the card) in an effort to accurately count out cards as they draw. This penalty should be applied only once to one or more cards if they are drawn in the same action or sequence of actions, at the judge’s discretion.
 
 Philosophy Any time players draw extra cards, there is always a chance they will go unnoticed by their opponent, potentially giving them a significant advantage.
 
-Because of this potential for abuse, the penalty for drawing extra cards is fairly severe. A player can accidentally look at extra cards very easily, so a separate,
-
-less-severe penalty is established for that infraction called Card Drawing—
+Because of this potential for abuse, the penalty for drawing extra cards is fairly severe. A player can accidentally look at extra cards very easily, so a separate, less-severe penalty is established for that infraction called Card Drawing—
 
 Looking at Extra Cards (section 122).
 
 Correcting the problem always involves putting the extra card (if known, or a random card from the player’s hand, if not known) on top of the deck. This ensures that a player does not receive an advantage from a free shuffle (which he or she would receive if the card were shuffled back into the deck) and that the game will be impacted as little as possible.
 
-Card Drawing—Improper Drawing at Start of Game (section 123) is a separate,
-
-less-severe penalty.
+Card Drawing—Improper Drawing at Start of Game (section 123) is a separate, less-severe penalty.
 
 Penalty For the game to continue, the situation should always be corrected. When it is obvious which extra card was drawn, the card should be placed back on top of the deck. If it is unclear which card is the “extra” card, a random card should be selected from the player’s hand. If several cards are involved and it is unclear which order the cards were in, the cards should be placed randomly on top of the deck. The opponent of the player committing the infraction should be allowed to see any cards the other player has seen due to this infraction.
 

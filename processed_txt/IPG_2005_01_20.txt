@@ -1,6 +1,4 @@
-DCI™ PENALTY GUIDELINES Effective January 20, 2005 Introduction The DCI Penalty Guidelines provide a structure to help judges determine the appropriate penalties for infractions that occur during the course of a tournament. Penalties exist to protect players from potential misconduct. All penalties in this document (with the exception of section 160) assume the infraction is unintentional. If a judge believes an infraction was intentional, the penalty should be upgraded as appropriate (see section 160). Otherwise,
-
-judges should rarely deviate from these guidelines, and only in significant or exceptional circumstances.
+DCI™ PENALTY GUIDELINES Effective January 20, 2005 Introduction The DCI Penalty Guidelines provide a structure to help judges determine the appropriate penalties for infractions that occur during the course of a tournament. Penalties exist to protect players from potential misconduct. All penalties in this document (with the exception of section 160) assume the infraction is unintentional. If a judge believes an infraction was intentional, the penalty should be upgraded as appropriate (see section 160). Otherwise, judges should rarely deviate from these guidelines, and only in significant or exceptional circumstances.
 
 See Appendix A for changes from the last version of this document.
 
@@ -56,9 +54,7 @@ A warning is always given with this penalty. When this penalty is applied, the p
 
 Disqualification without prize is recommended for severe unsporting conduct and cheating. The head judge must issue the disqualification, inform the tournament official responsible for the permanent tracking of the warning, and report the disqualification to the DCI (email: dqreports[at]wizards.com).
 
-When a player is disqualified without prize during a tournament, they are removed from the tournament and do not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings when someone higher in the standings is disqualified without prize. The player who advances a spot in the standings is entitled to any prizes the new standing would offer. If the disqualification without prize takes place after a cut it made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example,
-
-if a player is disqualified without prize during the quarterfinal round of a Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but they do move into 8th place in the standings.
+When a player is disqualified without prize during a tournament, they are removed from the tournament and do not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings when someone higher in the standings is disqualified without prize. The player who advances a spot in the standings is entitled to any prizes the new standing would offer. If the disqualification without prize takes place after a cut it made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified without prize during the quarterfinal round of a Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but they do move into 8th place in the standings.
 
 Disqualifications that are the result of accumulated infractions are not without prize.
 
@@ -70,11 +66,7 @@ REL 2 and higher should be used only for more competitive events, typically foun
 
 In large events, when all decklists are checked during the first round, the head judge should consider waiting until the start of the next round to apply all decklist penalties.
 
-In the interest of fairness, the decision to delay the penalties should be made at the start of the tournament. This makes the process of assigning penalties more efficient,
-
-and avoids situations in which some players are finished playing their matches before the penalties are applied. At smaller events, with a small number of decklists to check,
-
-penalties can be applied as they are discovered. For maximum efficiency, game-loss penalties should be applied first, then match-loss penalties. If a decklist error is discovered during play, the penalty should be applied immediately. For example, if a player notices his or her opponent playing with a banned card, a penalty should be applied immediately.
+In the interest of fairness, the decision to delay the penalties should be made at the start of the tournament. This makes the process of assigning penalties more efficient, and avoids situations in which some players are finished playing their matches before the penalties are applied. At smaller events, with a small number of decklists to check, penalties can be applied as they are discovered. For maximum efficiency, game-loss penalties should be applied first, then match-loss penalties. If a decklist error is discovered during play, the penalty should be applied immediately. For example, if a player notices his or her opponent playing with a banned card, a penalty should be applied immediately.
 
 If players bring an infraction to the attention of the judge, a penalty should be applied for that infraction in the round in which it occurred, whenever possible.
 
@@ -204,9 +196,7 @@ A player in an Extended Magic tournament lists Skullclamp (a banned card) in his
 
 A player in a Limited Magic tournament fails to list any of her sideboard cards in the "Total" column of her decklist.
 
-Philosophy The sideboard list is the ultimate guide to a player's sideboard. If the sideboard list is illegal, the player is considered to have an illegal sideboard, regardless of the physical contents of his or her sideboard. However, because the majority of illegal sideboards are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal sideboard list. To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all sideboard lists as soon as possible,
-
-preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal sideboard list.
+Philosophy The sideboard list is the ultimate guide to a player's sideboard. If the sideboard list is illegal, the player is considered to have an illegal sideboard, regardless of the physical contents of his or her sideboard. However, because the majority of illegal sideboards are due to clerical error, it is not in the best interest of the event to disqualify a player for an illegal sideboard list. To maintain tournament integrity, the DCI recommends that tournament officials verify the legality of all sideboard lists as soon as possible, preferably before the beginning of round 2. At all RELs, judges and other tournament officials must be vigilant about reminding players before the tournament begins of the consequences of submitting an illegal sideboard list.
 
 Penalty At all RELs, the basic procedure is to correct a player's sideboard list so it is legal, if possible, and let the player continue playing in the tournament with a sideboard matching the corrected sideboard list. Any excess cards (cards violating a maximumnumber-of-cards restriction) or illegal cards should be removed from the sideboard list, starting with the cards at the bottom of the sideboard list. Then, if cards need to be added to make the sideboard list legal, the player should add the cards that were actually contained in the sideboard. For example, a player in a Standard Magic tournament has submitted a thirteen-card sideboard list with five Naturalizes. Because there is a four-of-a-kind card limit, one of the Naturalizes must be removed. After removal, the sideboard list will contain only twelve cards, so the cards that were actually contained in the sideboard are added to the list. In addition, the player receives a game loss.
 
@@ -354,9 +344,7 @@ Philosophy It is each player's responsibility to ensure they are sitting in the 
 
 Penalty If the error is discovered within the pregame time limit for the first game (usually 3 minutes), the player sitting at the wrong table should receive a warning and report to the correct seat. If the error is discovered after the pregame time limit has expired, but before the time a second game loss would be awarded for section 116, Procedural Error—Tardiness (usually 10 minutes), the player sitting at the wrong table should receive a game loss and should report to the correct table. If the error is not discovered until after the time a second game loss would be awarded for section 116, Procedural Error—Tardiness, the player sitting at the wrong table should receive a match loss.
 
-Procedural Error—Playing the Wrong Opponent All Levels Warning CARD DRAWING This section includes infractions relating to inappropriate card drawing, card viewing,
-
-and related topics.
+Procedural Error—Playing the Wrong Opponent All Levels Warning CARD DRAWING This section includes infractions relating to inappropriate card drawing, card viewing, and related topics.
 
 Card Drawing—Drawing Extra Cards Definition Players are considered to have drawn a card when they move a card more than one card length away from their decks (unless this is in the act of counting out cards face down). Players are also considered to have drawn a card when they take a card from their decks and perform any other action (playing a spell, advancing a phase in the game, and so on). If a player draws a card in this manner, the card is considered to have entered his or her hand immediately. In Magic games, this is generally considered an indication that the player has moved to his or her draw step (unless instructed to draw by some other effect).
 
@@ -574,9 +562,7 @@ Game Game Game (REL 1 & 2)
 
 Caution Warning Game Game Warning Game Game Warning Warning Game Game Caution Warning Warning Caution Warning Warning Caution Warning Warning Caution Caution Warning Game Match Match Caution Warning Warning Caution Caution Warning Warning Game Match Match Disqualification without prize Disqualification without prize Disqualification without prize Disqualification without prize Disqualification without prize Note: REL 1 is the standard enforcement level for most DCI tournaments.
 
-REL 5 Game Game Warning Warning Warning Warning Match Warning Warning Match APPENDIX C—CONTACT INFORMATION For the most recent version of this document, or to learn about DCI tournaments and judging,
-
-please contact the DCI in any of the following three ways:
+REL 5 Game Game Warning Warning Warning Warning Match Warning Warning Match APPENDIX C—CONTACT INFORMATION For the most recent version of this document, or to learn about DCI tournaments and judging, please contact the DCI in any of the following three ways:
 
 DCI Homepage: www.thedci.com DCI Document Center: www.thedci.com/docs DCI Judge's Website: www.wizards.com/judge Email: dci@wizards.com Phone: (800) 324-6496 (Wizards of the Coast® Game Support)
 

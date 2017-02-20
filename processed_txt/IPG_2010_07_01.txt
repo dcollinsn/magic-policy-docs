@@ -35,9 +35,7 @@ Contents General Philosophy Definition of Rules Enforcement Level (REL)
 Definition of Penalties Applying Penalties Game Play Errors Game Play Error — Missed Trigger Game Play Error — Failure to Reveal Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Failure to Follow Official Announcements Tournament Error — Draft Procedure Violation Tournament Error — Player Communication Violation Tournament Error — Marked Cards Tournament Error — Deck/Decklist Problem Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Cheating Cheating — Stalling Cheating — Fraud Cheating — Hidden Information Violation Cheating — Manipulation of Game Materials
 Appendix A — Penalty Quick Reference 
 Appendix B — Changes from Previous Versions 
-Appendix C — Rules Enforcement Levels of Premiere Programs GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question,
-
-or to prevent a situation from escalating. Judges do not stop play errors from occurring, but deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
+Appendix C — Rules Enforcement Levels of Premiere Programs GENERAL PHILOSOPHY Judges at tournaments are to be neutral arbiters and enforcers of policy and rules. Judges do not intervene in games unless a rules violation occurs, they believe a rules violation may have occurred, a player has a concern or question, or to prevent a situation from escalating. Judges do not stop play errors from occurring, but deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
 
 All players are treated equally according to the guidelines of an event's Rules Enforcement Level (REL). Knowledge of a player's history does not influence the recognition of an infraction or the application of penalties, though it may affect the manner of an investigation. The REL of an event defines what is expected from a player regarding his or her rules and policy knowledge and technical play skill.
 
@@ -113,9 +111,7 @@ When this penalty is applied, the player loses his or her current match and is d
 
 When a player is disqualified during a tournament, he or she is removed from the tournament and does not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified during the quarterfinal round of a Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but he or she does move into 8th place in the standings.
 
-APPLYING PENALTIES Any penalty higher than a Caution is reported with the tournament report so that a permanent record can be kept in the DCI Penalty Database. Additionally, any penalty of Game Loss or higher should be reported to the Head Judge,
-
-and it is recommended that only the Head Judge issue penalties of this nature (with the exception of Tardiness and Deck Errors).
+APPLYING PENALTIES Any penalty higher than a Caution is reported with the tournament report so that a permanent record can be kept in the DCI Penalty Database. Additionally, any penalty of Game Loss or higher should be reported to the Head Judge, and it is recommended that only the Head Judge issue penalties of this nature (with the exception of Tardiness and Deck Errors).
 
 Any time a penalty is issued, the judge must explain to the players involved the infraction, the procedure for fixing the situation, and the penalty. If the Head Judge chooses to deviate from the Infraction Procedure Guide, the Head Judge is expected to explain the standard penalty and the reason for deviation.
 
@@ -139,9 +135,7 @@ A third or subsequent Warning for a Game Play Error offense in the same category
 
 An error that an opponent can not realize has been committed should have its penalty upgraded. Such unnoticeable errors are rare and involve misplaying hidden information (such as the Morph ability). An unpreventable or irreversible error is not sufficient grounds for such an upgrade.
 
-If the players are playing in a way that is clear to both players, but might cause confusion to an external observer,
-
-judges are encouraged to request that the players make the situation clear, but not issue any penalty.
+If the players are playing in a way that is clear to both players, but might cause confusion to an external observer, judges are encouraged to request that the players make the situation clear, but not issue any penalty.
 
 Game Play Error — Missed Trigger Definition Penalty Warning A game event triggers, but the player controlling the trigger is unaware of its existence and/or forgets to perform the actions specified by the trigger. For the purposes of this infraction, the card drawn during the Draw Step in a game is considered to be a trigger.
 
@@ -319,9 +313,7 @@ During a game, a player references play notes that were created before the tourn
 
 A spectator points out the correct play to the player, who had not solicited the information.
 
-Philosophy Tournaments test the skill of a player, not their ability to follow external advice or directions. Any strategy advice,
-
-play advice, or construction advice from an external source is considered assistance.
+Philosophy Tournaments test the skill of a player, not their ability to follow external advice or directions. Any strategy advice, play advice, or construction advice from an external source is considered assistance.
 
 Visual modifications to cards, including brief text, that provide minor strategic information or hints are acceptable and not considered notes. Detailed instructions or complex strategic advice may not be written on cards. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament. Spectators who commit this infraction may be asked to leave the venue if they are not enrolled in the tournament.
 
@@ -401,9 +393,7 @@ Tournament Error — Marked Cards Definition Penalty Warning A player's cards ar
 
 Examples:
 
-A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch,
-
-and a Lightning Helix.
+A player has small marks on a few of his sleeves. The markings are on a Mountain, a Loxodon Hierarch, and a Lightning Helix.
 
 A player without sleeves has several foil cards that stand out significantly from the rest of her deck.
 
@@ -455,9 +445,7 @@ If the sideboard is not kept sufficiently separate from the deck during play, it
 
 Additional Remedy If the decklist is illegal, remove any illegal cards from the deck and replace them with basic lands if needed to reach a legal number of cards. Then alter the decklist to reflect the resulting deck.
 
-If the decklist is legal, alter the deck to match the decklist. If the player does not have the listed cards and is unable or unwilling to acquire them (proxies are not allowed for lost cards), remove them from the decklist and he or she may choose to replace the missing cards with basic lands of his or her choice (which should be noted on the decklist). Once the player has made the decision to play the deck with these changes, the decklist cannot be reverted to its previous state, even if the missing cards are found. If cards from the sideboard are lost, note those that are lost,
-
-but issue no penalty — if they are found, or other copies secured, the player may resume playing with them. If fixing the deck cannot be completed within 10 minutes, issue a Match Loss.
+If the decklist is legal, alter the deck to match the decklist. If the player does not have the listed cards and is unable or unwilling to acquire them (proxies are not allowed for lost cards), remove them from the decklist and he or she may choose to replace the missing cards with basic lands of his or her choice (which should be noted on the decklist). Once the player has made the decision to play the deck with these changes, the decklist cannot be reverted to its previous state, even if the missing cards are found. If cards from the sideboard are lost, note those that are lost, but issue no penalty — if they are found, or other copies secured, the player may resume playing with them. If fixing the deck cannot be completed within 10 minutes, issue a Match Loss.
 
 If the player has made an obvious error in recording the wrong land type, such as registering Islands instead of Swamps in a mono-black deck, the Head Judge may downgrade the penalty to a Warning and alter the lands on the decklist.
 
@@ -597,9 +585,7 @@ Additional Remedy The offender should be asked to leave the venue by the organiz
 
 CHEATING This section deals with infractions that occur as the intended result of an action taken by a player. In some cases, it doesn’t matter if advantage was gained, only that the potential for advantage exists. The philosophy for all these infractions is the same – they are unwelcome behavior that undermines the integrity of the tournament.
 
-Cheating — Stalling Definition Penalty Disqualification A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional,
-
-please refer to Tournament Error — Slow Play instead.
+Cheating — Stalling Definition Penalty Disqualification A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional, please refer to Tournament Error — Slow Play instead.
 
 Example A player has two lands in his hand, no options available to significantly affect the game, and spends excessive time "thinking" about what to do to eat up time on the clock.
 

@@ -2,9 +2,7 @@ MAGIC INFRACTION PROCEDURE GUIDE Effective January 22, 2016 INTRODUCTION The Mag
 
 Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
 
-FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4). Infractions are broken down into general classes (Game Play Errors,
-
-Tournament Errors, and Unsporting Conduct), and further into subclasses for specific infractions.
+FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4). Infractions are broken down into general classes (Game Play Errors, Tournament Errors, and Unsporting Conduct), and further into subclasses for specific infractions.
 
 See the Magic Tournament Rules for further definitions of terms in this document.
 
@@ -26,9 +24,7 @@ If a minor violation is quickly handled by the players to their mutual satisfact
 
 Only the Head Judge is authorized to issue penalties that deviate from these guidelines. The Head Judge may not deviate from this guide’s procedures except in significant and exceptional circumstances or a situation that has no applicable philosophy for guidance. Significant and exceptional circumstances are rare—a table collapses, a booster contains cards from a different set, etc. The Rules Enforcement Level, round of the tournament, age or experience-level of the player, desire to educate the player, and certification level of the judge are NOT exceptional circumstances. If another judge feels deviation is appropriate, he or she must consult with the Head Judge.
 
-Judges are human and make mistakes. When a judge makes a mistake, he or she should acknowledge the mistake, apologize to the players, and fix it if it is not too late. If a member of the tournament staff gives a player erroneous information that causes them to commit a violation,
-
-the Head Judge is authorized to downgrade the penalty. For example, a player asks a judge whether a card is legal for a format and is told yes. When that player’s deck is found to be illegal because of these cards, the Head Judge applies the normal procedure for fixing the decklist, but may downgrade the penalty to a Warning because of the direct error of the judge.
+Judges are human and make mistakes. When a judge makes a mistake, he or she should acknowledge the mistake, apologize to the players, and fix it if it is not too late. If a member of the tournament staff gives a player erroneous information that causes them to commit a violation, the Head Judge is authorized to downgrade the penalty. For example, a player asks a judge whether a card is legal for a format and is told yes. When that player’s deck is found to be illegal because of these cards, the Head Judge applies the normal procedure for fixing the decklist, but may downgrade the penalty to a Warning because of the direct error of the judge.
 
 DEFINITION OF PENALTIES Warning A Warning is an officially tracked penalty. Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database. A time extension should be issued if the ruling has taken more than a minute.
 
@@ -72,19 +68,13 @@ RANDOMIZING A DECK The remedy for some infractions in this document includes shu
 
 Shuffles perfomed by a judge as part of a remedy are not considered shuffles for game purposes.
 
-BACKING UP Some infractions in this document permit the judge to consider the possibility of a backup. Due to the amount of information that may become available to players and might affect their play,
-
-backups are regarded as a solution of last resort, only applied in situations where leaving the game in the current state is a substantially worse solution. A good backup will result in a situation where the gained information makes no difference and the line of play remains the same (excepting the error, which has been fixed). This means limiting backups to situations with minimal decision trees.
+BACKING UP Some infractions in this document permit the judge to consider the possibility of a backup. Due to the amount of information that may become available to players and might affect their play, backups are regarded as a solution of last resort, only applied in situations where leaving the game in the current state is a substantially worse solution. A good backup will result in a situation where the gained information makes no difference and the line of play remains the same (excepting the error, which has been fixed). This means limiting backups to situations with minimal decision trees.
 
 Only the Head Judge may authorize a backup. At large tournaments, they may choose to delegate this responsibility to Team Leaders.
 
 To perform a backup, each individual action since the point of the error is reversed, starting with the most recent ones and working backwards. Every action must be reversed; no parts of the sequence should be omitted or reordered. If the identity of a card involved in reversing an action is unknown to one of the players (usually because it was drawn), a random card is chosen from the possible candidates. Shuffles are reversed by a single shuffle of the random portion of the library after the rest of the backup is complete. A card that became legally known to a player after the error was committed is not considered random and is returned to the appropriate location after the shuffle has been completed.
 
-Backups involving random/unknown elements should be approached with extreme caution,
-
-especially if they cause or threaten to cause a situation in which a player will end up with different cards than they would once they have correctly drawn those cards. For example,
-
-returning cards to the library when a player has the ability to shuffle their library is not something that should be done except in extreme situations.
+Backups involving random/unknown elements should be approached with extreme caution, especially if they cause or threaten to cause a situation in which a player will end up with different cards than they would once they have correctly drawn those cards. For example, returning cards to the library when a player has the ability to shuffle their library is not something that should be done except in extreme situations.
 
 Some remedies state a simple backup may be performed. A simple backup is backing up the last action completed (or one currently in progress) and is sometimes used to make another portion of the proscribed remedy smoother.
 
@@ -198,9 +188,7 @@ Philosophy Though the game state cannot be reversed to the ‘correct’ state, 
 
 Be careful not to apply this infraction in situations where a publicly-correctable error subsequently leads to an uncorrectable situation. In these situations, the root cause should be penalized and that remedy applied.
 
-What a player actually remembers is not a consideration when issuing this infraction, only what information has been publicly revealed. Hands that have previously been looked at are not public information, but cards previously revealed on top of the library are,
-
-Additional Remedy If a pending ability on the stack would result in a legal overall outcome (e.g. a draw action that has been resolved out of order), continue to resolve that part of the stack to restore the game state.
+What a player actually remembers is not a consideration when issuing this infraction, only what information has been publicly revealed. Hands that have previously been looked at are not public information, but cards previously revealed on top of the library are, Additional Remedy If a pending ability on the stack would result in a legal overall outcome (e.g. a draw action that has been resolved out of order), continue to resolve that part of the stack to restore the game state.
 
 Otherwise, the player reveals the complete set of cards that contains the unrecoverable information and his or her opponent selects a number of cards equal to the number of excess or unverified cards. Those cards are returned to their original zone. If that zone is the library, they should be shuffled into the random portion. A simple backup to the point just after the error may be used if there have been additional parts of the instruction performed since the error, such as discarding or returning card to the top of the library. Once this remedy has been applied, the player does not repeat the instruction or partial instruction (if any) that caused the infraction. A player may concede or mulligan (if applicable) to avoid the additional remedy.
 
@@ -242,11 +230,7 @@ If attacker or blocker order has not been declared, the appropriate player order
 
 Otherwise, a backup may be considered or the game state may be left as is.
 
-For most Game Play Errors not caught within a time that a player could reasonably be expected to notice, opponents receive a Game Play Error — Failure to Maintain Game State penalty. If the judge believes that both players were responsible for a Game Rule Violation, such as due to the existence of replacement effects or a player taking action based on another players instruction,
-
-both players receive a Game Play Error – Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard,
-
-both players receive this infraction.
+For most Game Play Errors not caught within a time that a player could reasonably be expected to notice, opponents receive a Game Play Error — Failure to Maintain Game State penalty. If the judge believes that both players were responsible for a Game Rule Violation, such as due to the existence of replacement effects or a player taking action based on another players instruction, both players receive a Game Play Error – Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, both players receive this infraction.
 
 Game Play Error — Failure to Maintain Game State Penalty Warning Definition A player allows another player in the game to commit a Game Play Error and does not point it out immediately. If a judge believes a player is intentionally not pointing out other players’
 
@@ -450,9 +434,7 @@ Philosophy Clear communication is essential when playing Magic. Though many offe
 
 •
 
-Players must answer all questions asked of them by a judge completely and honestly,
-
-regardless of the type of information requested. Players may request to do so away from the match.
+Players must answer all questions asked of them by a judge completely and honestly, regardless of the type of information requested. Players may request to do so away from the match.
 
 Players may not represent derived or free information incorrectly.
 
@@ -478,9 +460,7 @@ this change may be reverted at a later point if replacements for marked cards ar
 
 Upgrade: If the Head Judge believes that a deck’s owner noticing the pattern of markings would be able to take advantage of this knowledge, the penalty is a Game Loss.
 
-UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness,
-
-enjoyment, or integrity of an event in a significantly negative fashion.
+UNSPORTING CONDUCT Unsporting conduct is disruptive behavior that may affect the safety, competitiveness, enjoyment, or integrity of an event in a significantly negative fashion.
 
 Being enrolled in the tournament is not a requirement to receive an Unsporting Conduct penalty.
 
@@ -606,9 +586,7 @@ A player steals the table number from a table.
 
 A player realizes she has a previous opponent’s card, but she hides it instead of telling a tournament official.
 
-Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament Organizer,
-
-though judges are encouraged to help in any way possible.
+Philosophy Players enter a tournament expecting that their materials will be protected. This does not absolve the players from their responsibility to keep an eye on their possessions, but they should expect to be able to retain the product they began with or were given for the tournament. Other instances of theft not involving tournament materials are the responsibility of the Tournament Organizer, though judges are encouraged to help in any way possible.
 
 Additional Remedy The offender should be asked to leave the venue by the organizer.
 
@@ -616,9 +594,7 @@ Unsporting Conduct — Stalling Penalty Disqualification Definition A player int
 
 Examples:
 
-A player has two lands in his hand, no options available to significantly affect the game,
-
-and spends excessive time “thinking” about what to do to eat up time on the clock.
+A player has two lands in his hand, no options available to significantly affect the game, and spends excessive time “thinking” about what to do to eat up time on the clock.
 
 A player is ahead in games and significantly slows down his pace of play so the opponent has little chance to catch up.
 

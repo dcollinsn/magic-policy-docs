@@ -30,8 +30,9 @@ foreach my $filename (@files) {
         # Join into a single string to allow multiline matching
         my $text = join("\n", @text);
         # Join lines that were broken - anything with a leading space
-        # is probably a continuation line
+        # or trailing comma is probably a continuation line
         $text =~ s/(\w)\s*\n\s+(\w)/$1 $2/g;
+        $text =~ s/(\w,)\s*\n\s*(\w)/$1 $2/g;
         # Remove excess consecutive newlines
         $text =~ s/\n\n+/\n\n/g;
         # Remove the Penalty Quick Reference because it is not formatted
