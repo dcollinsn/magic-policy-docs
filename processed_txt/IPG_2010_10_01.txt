@@ -667,9 +667,7 @@ A player in a sealed deck tournament adds cards to his card pool.
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-September 20, 2010
-
-Removed Dark Confidant example because it was confusing.
+September 20, 2010 Removed Dark Confidant example because it was confusing.
 
 Infraction looks for all other GPEs to determine if there was another error.
 

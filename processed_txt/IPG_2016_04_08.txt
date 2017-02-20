@@ -708,9 +708,7 @@ A player realizes he has accidentally drawn an extra card, then fails to call a 
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-April 8, 2016
-
-Simple backups do not involve random elements.
+April 8, 2016 Simple backups do not involve random elements.
 
 Trigger acknowledgement needs to recognize the specific trigger.
 

@@ -774,9 +774,7 @@ Disqualification Disqualification Disqualification Disqualification Cheating Sta
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-December 20, 2009
-
-Instruction to fix, but not penalize, game states that are externally ambiguous but clear to both players.
+December 20, 2009 Instruction to fix, but not penalize, game states that are externally ambiguous but clear to both players.
 
 Criteria for issuing FTMGS moved into the header and out of the individual infractions.
 

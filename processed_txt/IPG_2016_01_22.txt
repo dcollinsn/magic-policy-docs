@@ -662,9 +662,7 @@ A player realizes he has accidentally drawn an extra card, then fails to call a 
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-January 22, 2016
-
-General: Updated some examples to use more current cards.
+January 22, 2016 General: Updated some examples to use more current cards.
 
 Errors made by tournament staff may lead to downgrades.
 

@@ -659,9 +659,7 @@ A player in a sealed deck tournament adds cards to his card pool.
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-June 20, 2010
-
-General: Removed of all Regular REL-related penalties and remedies.
+June 20, 2010 General: Removed of all Regular REL-related penalties and remedies.
 
 General: Renamed Penalty sections to Additional Remedy.
 

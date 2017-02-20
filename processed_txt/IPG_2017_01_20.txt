@@ -716,9 +716,7 @@ A player realizes he has accidentally drawn an extra card, then fails to call a 
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-January 20, 2017
-
-General: Using “library” rather than “deck” where it is more appropriate.
+January 20, 2017 General: Using “library” rather than “deck” where it is more appropriate.
 
 General: Refering to tournaments rather than events.
 

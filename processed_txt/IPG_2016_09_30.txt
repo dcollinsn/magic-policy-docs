@@ -708,9 +708,7 @@ A player realizes he has accidentally drawn an extra card, then fails to call a 
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-September 30, 2016
-
-Default-option triggers let the opponent choose whether to resolve it.
+September 30, 2016 Default-option triggers let the opponent choose whether to resolve it.
 
 If you control my turn, you’re responsible for my triggers.
 

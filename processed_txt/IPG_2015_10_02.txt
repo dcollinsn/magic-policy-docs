@@ -686,9 +686,7 @@ A player realizes he has accidentally drawn an extra card, then fails to call a 
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-September 28, 2015
-
-Clarifying what to do with subsequently-known cards when a shuffle is needed.
+September 28, 2015 Clarifying what to do with subsequently-known cards when a shuffle is needed.
 
 Object choice for resolving triggers looks at the legality of that choice at the original time of the trigger.
 

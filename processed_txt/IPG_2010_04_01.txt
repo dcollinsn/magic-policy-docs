@@ -766,9 +766,7 @@ A player in a sealed deck tournament adds cards to his card pool.
 
 Penalty All Levels Disqualification APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-March 20, 2010
-
-When the controller of the effect differs from the person actually committing the Game Play Error, both players receive the penalty.
+March 20, 2010 When the controller of the effect differs from the person actually committing the Game Play Error, both players receive the penalty.
 
 Failure to Reveal requires that the reveal was necessary to demonstrate that the play was legal.
 

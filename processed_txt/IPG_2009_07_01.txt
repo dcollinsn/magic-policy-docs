@@ -844,9 +844,7 @@ Disqualification Disqualification Disqualification Disqualification Cheating Che
 
 APPENDIX B — CHANGES FROM PREVIOUS VERSIONS
 
-June 20, 2009
-
-General: Title changed.
+June 20, 2009 General: Title changed.
 
 General: References to Universal Tournament Rules or Magic Floor Rules now refer to Magic Tournament Rules.
 
