@@ -1,4 +1,4 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective May 3, 2013 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL should use the Judging at Regular REL document.
+MAGIC INFRACTION PROCEDURE GUIDE Effective July 19, 2013 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL should use the Judging at Regular REL document.
 
 FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4).
 
@@ -235,7 +235,7 @@ Additional Remedy Shuffle the randomized portion of the deck (which may include 
 
 Care must be taken before shuffling to make sure that there are no “legally known” cards in the library. Check with both players to verify this, and check the graveyard, exile, and battlefield for deck manipulation cards, such as Brainstorm and cards with the scry mechanic.
 
-Game Play Error — Drawing Extra Cards Penalty Game Loss Definition A player illegally puts one or more cards into his or her hand and, at the moment before he or she began the instruction or action that put a card into his or her hand, no other Game Play Error or Player Communication Violation had been committed, and the error was not the result of resolving objects on the stack in an incorrect order.
+Game Play Error — Drawing Extra Cards Penalty Game Loss Definition A player illegally puts one or more cards into his or her hand and, at the moment before he or she began the instruction or action that put a card into his or her hand, no other Game Play Error or Player Communication Violation had been committed, and the error was not the result of resolving objects on the stack in an incorrect order. If the player received confirmation from his or her opponent before drawing the card (including confirming the number of cards when greater than one), the infraction is not Drawing Extra Cards.
 
 Additionally, it is Drawing Extra Cards if a player has excess cards in their hand that he or she cannot account for.
 
@@ -251,7 +251,7 @@ A player puts a creature with lethal damage on it into her hand instead of her g
 
 Philosophy Though this error is easy to commit accidentally, the potential for it to be overlooked by opponents mandates a higher level of penalty. If the identity of the card was known to all players before being placed into the hand, and the card can be returned to the correct zone with minimal disruption, do so and downgrade the penalty to a Warning.
 
-Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition A player draws the wrong number of cards during pregame procedures, or does not skip their draw step while playing first. This infraction is only issued before a player takes a visible legal action during the game; if discovered after that point, the infraction is Drawing Extra Cards.
+Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition A player draws the wrong number of cards during pregame procedures, or does not skip their draw step while playing first. This infraction is only issued before that player takes a visible legal action during the game; if discovered after that point, the infraction is Drawing Extra Cards.
 
 Examples:
 
@@ -293,15 +293,11 @@ If not caught within a reasonable time frame, or backing up is impossible or suf
 
 •
 
-•
-
 If a player made an illegal choice or failed to make a required choice for a permanent on the battlefield, that player makes a legal choice.
 
-If a player forgot the turn-based action of drawing a card, that player draws a card.
+If a player forgot to draw cards, discard cards, or return cards from their hand to another zone, that player does so.
 
-If a player forgot to discard or return cards from their hand to another zone, that player does so.
-
-If an object is in the wrong zone, the identity of the object was known to all players, and it is within a turn of the error, put the object in the correct zone.
+If an object changing zones is put into the wrong zone, the identity of the object was known to all players, and it is within a turn of the error, put the object in the correct zone.
 
 In a situation where the effect that caused the infraction is controlled by one player, but the illegal action is taken by another player, both receive a Game Play Error – Game Rule Violation. For example, if a player casts Path to Exile on an opponent’s creature and the opponent puts the creature into the graveyard, both players receive a Game Play Error — Game Rule Violation infraction.
 
@@ -425,9 +421,9 @@ A player starts to put a card on top of his pile, then pulls it back.
 
 Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft or the specific tournament rules for the format may specify additional penalties for Draft Procedure Violations.
 
-Tournament Error — Communication Policy Violation Penalty Warning A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules and summarized below. This infraction only applies to violations of that policy and not to general communication confusion.
+Tournament Error — Communication Policy Violation Penalty Warning Definition A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules and summarized below. This infraction only applies to violations of that policy and not to general communication confusion.
 
-Definition Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
+Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
 
 A player claims she hasn’t played her land for the turn, but it is determined that she had and forgot.
 
@@ -705,7 +701,15 @@ APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warni
 
 Missed Trigger Looking at Extra Cards Warning Drawing Extra Cards Game Loss Improper Drawing at Start of Game Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Failure to Follow Official Announcements Warning Draft Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Deck/Decklist Problem Game Loss Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Game Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — RULES ENFORCEMENT LEVELS OF PREMIER PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
-(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS May 3, 2013 Changed “damage” to “disruption” to avoid implying actual damage to cards.
+(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS July 19, 2013 Players confirming a card draw do not commit Drawing Extra Cards.
+
+Tiny tweak to make definition clearer.
+
+All missed card draws are drawn. Merged with the similar discard exception.
+
+More clarity on the zone change exception.
+
+May 3, 2013 Changed “damage” to “disruption” to avoid implying actual damage to cards.
 
 Rewrote definition to try to be clearer. No actual policy change.
 
@@ -748,18 +752,6 @@ Removed and folded into 3.6/2.5.
 /2.5: Object in wrong zone is handled within a turn instead of a turn cycle.
 
 /3.9: Added two card classes that are allowed to be with sideboards (not in the same sleeves!).
-
-June 20, 2012 The JAR now explicitly handles Regular REL. Trying to apply IPG philosophies is likely to cause confusion.
-
-Infractions caused by incorrect information from a judge are downgraded.
-
-Missing your turn draw is now handled as a GRV.
-
-Added a rule to handle missed turn draws. Clarified object-in-wrong-zone application.
-
-A time extension is given with Tardiness penalties.
-
-Appendix C: Chart updated to current programs.
 
 All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2013 Wizards.
 
