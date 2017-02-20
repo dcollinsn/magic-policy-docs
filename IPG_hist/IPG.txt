@@ -1,4 +1,4 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective July 19, 2013 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL should use the Judging at Regular REL document.
+MAGIC INFRACTION PROCEDURE GUIDE Effective September 27, 2013 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL should use the Judging at Regular REL document.
 
 FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4).
 
@@ -203,7 +203,7 @@ Whether a Warning is issued or not does not affect any additional remedies that 
 
 Judges should not intervene in a missed trigger situation unless they intend to issue a Warning or have reason to suspect that the controller is intentionally missing his or her triggered abilities.
 
-Additional Remedy If the triggered ability specifies a default action associated with a choice made by the controller (usually "If you don't ..." or "... unless"), resolve it choosing the default option. If the triggered ability is a delayed triggered ability that changes the zone of an object, resolve it. For these two types of abilities, the opponent chooses whether to resolve the ability immediately or at the start of the next phase. These abilities do not expire and should be remedied no matter how much time has passed since they should have triggered.
+Additional Remedy If the triggered ability specifies a default action associated with a choice made by the controller (usually "If you don't ..." or "... unless"), resolve it choosing the default option. If the triggered ability is a delayed triggered ability that changes the zone of an object, resolve it. For these two types of abilities, the opponent chooses whether to resolve the ability the next time a player would get priority or when a player would get priority at the start of the next phase. These abilities do not expire and should be remedied no matter how much time has passed since they should have triggered.
 
 If the triggered ability creates an effect whose duration has already expired or the ability was missed prior to the current phase in the previous player's turn, instruct the players to continue playing.
 
@@ -235,7 +235,7 @@ Additional Remedy Shuffle the randomized portion of the deck (which may include 
 
 Care must be taken before shuffling to make sure that there are no “legally known” cards in the library. Check with both players to verify this, and check the graveyard, exile, and battlefield for deck manipulation cards, such as Brainstorm and cards with the scry mechanic.
 
-Game Play Error — Drawing Extra Cards Penalty Game Loss Definition A player illegally puts one or more cards into his or her hand and, at the moment before he or she began the instruction or action that put a card into his or her hand, no other Game Play Error or Player Communication Violation had been committed, and the error was not the result of resolving objects on the stack in an incorrect order. If the player received confirmation from his or her opponent before drawing the card (including confirming the number of cards when greater than one), the infraction is not Drawing Extra Cards.
+Game Play Error — Drawing Extra Cards Penalty Game Loss Definition A player illegally puts one or more cards into his or her hand and, at the moment before he or she began the instruction or action that put a card into his or her hand, no other Game Play Error or Communication Policy Violation had been committed, and the error was not the result of resolving objects on the stack in an incorrect order. If the player received confirmation from his or her opponent before drawing the card (including confirming the number of cards when greater than one), the infraction is not Drawing Extra Cards.
 
 Additionally, it is Drawing Extra Cards if a player has excess cards in their hand that he or she cannot account for.
 
@@ -375,9 +375,9 @@ A player gets up from his seat to look at standings or goes to the bathroom with
 
 Philosophy All players have the responsibility to play quickly enough so that their opponents are not at a significant disadvantage because of the time limit. A player may be playing slowly without realizing it. A comment of “I need you to play faster” is often appropriate and all that is needed. Further slow play should be penalized.
 
-Additional Remedy An extra turn is awarded for each player, to be applied if the match exceeds the time limit. If multiple players on each side are playing the same game (such as in Two-Headed Giant) only one extra turn is awarded per team. This turn extension occurs before any end-of-match procedure can begin and after any time extensions that may have been issued.
+Additional Remedy An additional turn is awarded for each player, to be applied if the match exceeds the time limit. If multiple players on each side are playing the same game (such as in Two-Headed Giant) only one additional turn is awarded per team. This turn extension occurs before any end-of-match procedure can begin and after any time extensions that may have been issued.
 
-No extra turns are awarded if the match is already in extra turns, though the Warning still applies.
+No additional turns are awarded if the match is already in additional turns, though the Warning still applies.
 
 If Slow Play has significantly affected the result of the match, the Head Judge may upgrade the penalty.
 
@@ -701,7 +701,13 @@ APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warni
 
 Missed Trigger Looking at Extra Cards Warning Drawing Extra Cards Game Loss Improper Drawing at Start of Game Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Failure to Follow Official Announcements Warning Draft Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Deck/Decklist Problem Game Loss Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Game Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — RULES ENFORCEMENT LEVELS OF PREMIER PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
-(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS July 19, 2013 Players confirming a card draw do not commit Drawing Extra Cards.
+(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS September 16, 2013 Missed delayed triggers wait until a player would get priority to resolve.
+
+Fix a stray reference to a Player Communication Violation.
+
+Changing ‘extra’ to ‘additional’ to avoid confusion with abilities that grant extra turns.
+
+July 19, 2013 Players confirming a card draw do not commit Drawing Extra Cards.
 
 Tiny tweak to make definition clearer.
 
