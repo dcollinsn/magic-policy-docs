@@ -1,4 +1,4 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective January 23, 2015 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
+MAGIC INFRACTION PROCEDURE GUIDE Effective March 27, 2015 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
 
 FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4).
 
@@ -14,7 +14,7 @@ CONTENTS Introduction
 Framework of this Document 
 Contents General Philosophy Definition of Rules Enforcement Level (REL) 
 
-Definition of Penalties Applying Penalties Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating 
+Definition of Penalties Applying Penalties Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating
 Appendix A — Penalty Quick Reference 
 Appendix B — Rules Enforcement Levels of Premier Programs 
 Appendix C — Changes from Previous Versions GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
@@ -93,9 +93,11 @@ so that he or she may be disqualified and reported to the DCI.
 
 Disqualification can occur without proof of action so long as the Head Judge determines sufficient information exists to believe the tournament’s integrity may have been compromised. It is recommended that the Head Judge’s report reflect this fact.
 
-When this penalty is applied, the player loses his or her current match and is dropped from the tournament. If a player has already received prizes at the time he or she is disqualified, that player may keep those prizes but does not receive any additional prizes or awards he or she may be due. The Head Judge must report all Disqualifications to the Investigations Manager via the Investigations tab in the Judge Center (http://judge.wizards.com).
+When this penalty is applied, the player loses his or her current match and is dropped from the tournament. If a player has already received prizes at the time he or she is disqualified, that player may keep those prizes but does not receive any additional prizes or awards he or she may be due.
 
 When a player is disqualified during a tournament, he or she is removed from the tournament and does not take up a place in the standings. This means that all players in the tournament will advance one spot in the standings and are entitled to any prizes the new standing would offer. If the Disqualification takes place after a cut is made, no additional players advance in place of the disqualified player although they do move up a spot in the standings. For example, if a player is disqualified during the quarterfinal round of a Pro Tour Qualifier, the former 9th place finisher does not advance into the single elimination top 8, but he or she does move into 8th place in the standings.
+
+More information about the Disqualification process may be found at http://blogs.magicjudges.org/o/disqualification-process/.
 
 APPLYING PENALTIES Any penalty higher than a Caution is included with the tournament report so that a permanent record can be kept in the DCI Penalty Database. Additionally, any penalty of Game Loss or higher should be reported to the Head Judge, and it is recommended that only the Head Judge issue penalties of this nature (with the exception of Tardiness (3.1)
 
@@ -109,7 +111,7 @@ Deviations from these procedures may raise accusations against the judge from th
 
 These procedures do not, and should not, take into account the game being played, the current situation that the game is in, or who will benefit strategically from the procedure associated with a penalty. While it is tempting to try to “fix” game situations, the danger of missing a subtle detail or showing favoritism to a player (even unintentionally) makes it a bad idea.
 
-Separate infractions committed or discovered at the same time are treated as separate penalties, though if the root cause is the same, only the more severe one is applied. If the first penalty would cause the second one to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty is issued first, followed by the less severe penalty in the next round.
+Separate infractions committed or discovered at the same time are treated as separate penalties, though if the root cause is the same, only the more severe one is applied. If the first penalty would cause the second one issued to the same player to be inapplicable for the round (such as a Game Loss issued along with a Match Loss), the more severe penalty is issued first, followed by the less severe penalty in the next round.
 
 Some violations of tournament rules will not meet the criteria for any specific infraction. Many minor offenses that a player can commit, even intentionally, are not covered by a specific infraction and can be handled initially with a Caution. If these behaviors continue, the judge may instruct them to stop and treat further incidents as Unsporting Conduct – Minor.
 
@@ -153,11 +155,11 @@ A triggered ability that causes a change in the visible game state (including li
 
 Note that casting an instant spell or activating an ability doesn’t mean a triggered ability has been forgotten, as it could still be on the stack.
 
-A triggered ability that changes the rules of the game: The controller must prevent an opponent from taking any resulting illegal action.
+A triggered ability that changes the rules of the game: The controller must acknowledge the trigger or prevent an opponent from taking any resulting illegal action.
 
-A triggered ability that affects the game state in non-visible ways: The controller must take physical action or make it clear what the action is the first time the change has an effect on the visible game state.
+A triggered ability that affects the game state in non-visible ways: The controller must take physical action or make it clear what the action is by the first time the change has an effect on the visible game state.
 
-Once any of the above obligations has been fulfilled, or the trigger has been otherwise acknowledged, further problems are treated as a Game Play Error — Game Rule Violation.
+Once any of the above obligations has been fulfilled, further problems are treated as a Game Play Error — Game Rule Violation.
 
 Triggered abilities that do nothing except create delayed triggered abilities automatically resolve without requiring acknowledgment. Awareness of the resulting delayed trigger must be demonstrated at the appropriate point.
 
@@ -277,7 +279,7 @@ A player casts Brainstorm and forgets to put two cards back on top of his librar
 
 Philosophy While Game Rule Violations can be attributed to one player, they usually occur publicly and both players are expected to be mindful of what is happening in the game. It is tempting to try and “fix” these errors, but it is important that they be handled consistently, regardless of their impact on the game.
 
-Additional Remedy If the infraction falls into one of the following categories, perform the fix specified:
+Additional Remedy If the infraction falls into one of the following categories, perform the fix specified unless backing up is very simple:
 
 •
 
@@ -285,11 +287,15 @@ Additional Remedy If the infraction falls into one of the following categories, 
 
 •
 
-If a player made an illegal choice or failed to make a required choice for a permanent on the battlefield, that player makes a legal choice.
+•
+
+If a player made an illegal choice (including no choice where required) for a static ability generating a continuous effect still on the battlefield, that player makes a legal choice.
 
 If a player forgot to draw cards, discard cards, or return cards from their hand to another zone, that player does so.
 
 If an object changing zones is put into the wrong zone, the identity of the object was known to all players, and it can be moved without disrupting the state of the game, put the object in the correct zone.
+
+If attacker or blocker order has not been declared, the appropriate player orders them.
 
 Otherwise, a backup may be considered or the game state may be left as is.
 
@@ -373,8 +379,6 @@ Additional Remedy An additional turn is awarded for each player, to be applied i
 
 No additional turns are awarded if the match is already in additional turns, though the Warning still applies.
 
-If Slow Play has significantly affected the result of the match, the Head Judge may upgrade the penalty.
-
 Tournament Error — Insufficient Shuffling Definition Penalty Warning A player unintentionally fails to sufficiently shuffle his or her deck or portion of his or her deck before presenting it to his or her opponent. A deck is not shuffled if the judge believes a player could know the position or distribution of one or more cards in his or her deck.
 
 Examples:
@@ -431,7 +435,7 @@ A player lists ‘Ajani’ in a format with both Ajani Goldmane and Ajani Vengea
 
 Philosophy Decklists are used to ensure that decks are not altered in the course of a tournament. Judges and other tournament officials should be vigilant about reminding players before the tournament begins of the importance of submitting a legal decklist, and playing with a legal deck.
 
-Penalties for errors discovered during decklist checks are issued at the start of the next round to minimize the disruption to the game currently being played and provide consistency in case some players have finished playing their match before the penalty can be administered.
+Penalties for decklist errors discovered after the affected player has begun playing his or her match are issued at the start of the next round to minimize the disruption to the match currently being played and provide consistency in case some players have finished playing their match before the penalty can be administered.
 
 Ambiguous or unclear names on a decklist may allow a player to manipulate the contents of his or her deck up until the point at which they are discovered. The Head Judge may choose to not issue this penalty if they believe that what the player wrote on their decklist is obvious and unambiguous, even if it is not the full, accurate name of the card. This should be determined solely by what is written on the decklist, and not based on intent or the actual contents of the deck; needing to check the deck for confirmation is a sign that the entry is not obvious.
 
@@ -637,7 +641,7 @@ Philosophy Players enter a tournament expecting that their materials will be pro
 
 Additional Remedy The offender should be asked to leave the venue by the organizer.
 
-Unsporting Conduct — Stalling Definition A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional, please refer to Tournament Error — Slow Play instead.
+Unsporting Conduct — Stalling Penalty Disqualification Definition A player intentionally plays slowly in order to take advantage of the time limit. If the slow play is not intentional, please refer to Tournament Error — Slow Play instead.
 
 Examples:
 
@@ -685,13 +689,25 @@ APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warni
 
 Missed Trigger Looking at Extra Cards Warning Drawing Extra Cards Game Loss Improper Drawing at Start of Game Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Deck/Decklist Problem Game Loss Limited Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Match Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — RULES ENFORCEMENT LEVELS OF PREMIER PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
-(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive Preliminary Pro Tour Qualifier Competitive Regional Pro Tour Qualifiers Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS January 23 , 2015 Cleaned up old language about Cautions.
+(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Regional Pro Tour Qualifier Competitive Preliminary Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS March 23 , 2015 Added link to Disqualification procedures and documents.
+
+Paragraph on multiple infractions only applies to one player comitting them.
+
+Triggers with physical effects that are highlighted, but then forgotten, are still forgotten.
+
+Very small backups may be considered before applying defined fixes.
+
+Blocking order added to list of appropriate direct fixes.
+
+Head Judge upgrade discretion clause removed.
+
+Penalties for decklist errors discovered after play has started are deferred to the next round.
+
+January 23 , 2015 Cleaned up old language about Cautions.
 
 Better clarity on handling multiple infractions Bad mulligan procedure goes back in the definition.
 
 New handling (and clearer explanation) of undetectable error upgrades.
-
-Appendix B: Added Regional Pro Tour Qualifier to list.
 
 September 26, 2014 Game Losses issued simultaneously are offsetting.
 
@@ -734,28 +750,6 @@ Major rewrite. Defines UC – Major in the context of harassment. Now a Match Lo
 Offering to make a bet is sufficient for the infraction.
 
 Appendix A: Chart updated for UC – Major. Fixed the error on Deck/Decklist Problems.
-
-April 18, 2014 General: Tightened up some grammar, including clarifying a lot of ambiguous ‘should’s.
-
-Minor grammatical tweak to make the Warning upgrade path clearer.
-
-Incorporating mulligan procedure and other hand-drawing errors.
-
-Minor grammatical tweak to make the failure-to-reveal clause a little clearer.
-
-Removed (Replaced by Deck/Decklist Problem). Most of it rolls into Limited Procedure Violation and Unsporting Conduct - Minor.
-
-Now Deck/Decklist Problem. Give the Head Judge more flexibility in downgrading obvious clerical errors.
-
-Renamed. Sealed deck registration errors are now handled here.
-
-Reworked paragraph on issuing decklist-error penalties to be clearer with new decklist-handling procedures.
-
-Failing to follow the request of a tournament official moved from UC – Major to UC – Minor.
-
-Clarifying that using game information to which the players do not have access is not allowed.
-
-Appendix A: Chart updated to reflect updates.
 
 All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2015 Wizards.
 
