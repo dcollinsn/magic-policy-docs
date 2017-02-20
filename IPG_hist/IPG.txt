@@ -1,20 +1,20 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective September 26, 2014 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
+MAGIC INFRACTION PROCEDURE GUIDE Effective January 23, 2015 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL use the Judging at Regular REL document.
 
 FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4).
 
 Infractions are broken down into general classes (Game Play Error, Tournament Error, and Unsporting Conduct), and further into subclasses for specific infractions.
 
-See the Magic Tournament Rules for further definitions of terms in this document. The latest version of the Magic Tournament Rules can be found at http://wpn.wizards.com/en/document/magic-gathering-tournament-rules.
+See the Magic Tournament Rules for further definitions of terms in this document.
 
 This document is published in multiple languages. If a discrepancy exists between the English version and a non-English version of this document, tournament participants must refer to the English version to settle disputes concerning interpretations of the Infraction Procedure Guide.
 
-This document is updated periodically. Please obtain the most current version at http://wpn.wizards.com/en/document/magicinfraction-procedure-guide.
+This document is updated periodically. Please obtain the most current version at http://www.wizards.com/wpn/Events/Rules.aspx.
 
 CONTENTS Introduction 
 Framework of this Document 
 Contents General Philosophy Definition of Rules Enforcement Level (REL) 
 
-Definition of Penalties Applying Penalties Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating
+Definition of Penalties Applying Penalties Backing Up Game Play Errors Game Play Error — Missed Trigger Game Play Error — Looking at Extra Cards Game Play Error — Drawing Extra Cards Game Play Error — Improper Drawing at Start of Game Game Play Error — Game Rule Violation Game Play Error — Failure to Maintain Game State Tournament Errors Tournament Error — Tardiness Tournament Error — Outside Assistance Tournament Error — Slow Play Tournament Error — Insufficient Shuffling Tournament Error — Deck/Decklist Problem Tournament Error — Limited Procedure Violation Tournament Error — Communication Policy Violation Tournament Error — Marked Cards Unsporting Conduct Unsporting Conduct — Minor Unsporting Conduct — Major Unsporting Conduct — Improperly Determining a Winner Unsporting Conduct — Bribery and Wagering Unsporting Conduct — Aggressive Behavior Unsporting Conduct — Theft of Tournament Material Unsporting Conduct — Stalling Unsporting Conduct — Cheating 
 Appendix A — Penalty Quick Reference 
 Appendix B — Rules Enforcement Levels of Premier Programs 
 Appendix C — Changes from Previous Versions GENERAL PHILOSOPHY Judges are neutral arbiters and enforcers of policy and rules. A judge shouldn’t intervene in a game unless he or she believes a rules violation has occurred, a player with a concern or question requests assistance, or the judge wishes to prevent a situation from escalating. Judges don’t stop play errors from occurring, but instead deal with errors that have occurred, penalize those who violate rules or policy, and promote fair play and sporting conduct by example and diplomacy. Judges may intervene to prevent or preempt errors occurring outside of a game.
@@ -69,9 +69,7 @@ Professional Professional level events offer large cash awards, prestige, and ot
 
 These events hold players to a higher standard of behavior and technically correct play than Competitive events.
 
-DEFINITION OF PENALTIES Caution A Caution is a verbal admonition to a player. This is the lightest penalty that can be given. Cautions are used in situations of minor incorrect play or disruption where a quick word can easily correct the behavior or situation. It is also used for common mistakes in Regular events where the potential for advantage is low. No extra time is required for a Caution, as any Caution that takes more than a few moments to resolve should be upgraded to a Warning. A Caution is noted for the duration of the tournament in case of repeated offense.
-
-The word “caution” does not need to be used in issuing this penalty. Any verbal admonition to a player, even if it is not made clear to the player that an official Caution has been issued, is considered a Caution for purposes of upgrading repeated infractions.
+DEFINITION OF PENALTIES Caution A Caution is a verbal admonition to a player. Cautions are used in situations of minor incorrect play or disruption where a quick word can easily correct the behavior or situation. No extra time is required for a Caution, as any Caution that takes more than a few moments to resolve should be upgraded to a Warning.
 
 Warning A Warning is an officially tracked penalty. Warnings are used in situations of incorrect play when a small amount of time is needed to implement the corrective procedure. The purpose of a Warning is to alert judges and players involved that a problem has occurred and to keep a permanent record of the infraction in the DCI Penalty Database.
 
@@ -129,7 +127,7 @@ Most Game Play Error infractions are assumed to have been committed unintentiona
 
 Both players are expected to maintain the game rules and to share some responsibility for any errors that may occur involving public information. As a result, no attempt should be made to determine or correct any advantage gained in assessing the penalty and associated procedures for fixing the offense. Additionally, for most Game Play Errors not caught within a time that a player could reasonably be expected to notice, teammates and opponents receive a Game Play Error — Failure to Maintain Game State penalty. In multiplayer games, all participants in the match other than the offending player receive this penalty if they meet the criteria.
 
-A third or subsequent Warning for a Game Play Error offense in the same category is upgraded to a Game Loss. For multi-day events, the penalty count for these infractions resets between days.
+A third or subsequent penalty for a Game Play Error offense in the same category is upgraded to a Game Loss. For multi-day events, the penalty count for these infractions resets between days.
 
 If the players are playing in a way that is clear to both players, but might cause confusion to an external observer, judges are encouraged to request that the players make the situation clear, but not issue any penalty.
 
@@ -245,7 +243,7 @@ A player puts a creature with lethal damage on it into her hand instead of her g
 
 Philosophy Though this error is easy to commit accidentally, the potential for it to be overlooked by opponents mandates a higher level of penalty. If the identity of the card was known to all players before being placed into the hand, or was placed into an empty hand, and the card can be returned to the correct zone with minimal disruption, do so and downgrade the penalty to a Warning.
 
-Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition A player draws too many cards while drawing his or her opening hand, or the starting player does not skip the first draw step. If this error is discovered after the player committing it has taken another action in the game, the infraction is Drawing Extra Cards.
+Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition A player draws too many cards while drawing his or her opening hand, takes a mulligan after they are permitted to, or the starting player does not skip the first draw step. If this error is discovered after the player committing it has taken another action in the game, the infraction is Drawing Extra Cards.
 
 Examples:
 
@@ -263,7 +261,7 @@ Additional Remedy Remove a number of cards, chosen randomly, equal to the excess
 
 Game Play Error — Game Rule Violation Penalty Warning Definition This infraction covers the majority of game situations in which a player makes an error or fails to follow a game procedure correctly. It handles violations of the Comprehensive Rules that are not covered by the other Game Play Errors.
 
-An error that an opponent can’t verify the legality of should have its penalty upgraded. These errors involve misplaying hidden information, such as the morph ability or failing to reveal a card to prove that a choice made was a legal one. If the information needed to verify the legality was ever in a uniquely identifiable position (such as on top of the library or as the only card in hand) after the infraction was committed, do not upgrade the penalty and reveal the information if possible.
+An error that an opponent has no opportunity to verify the legality of should have its penalty upgraded. These errors involve misplaying hidden information, such as the morph ability or failing to reveal a card to prove that a choice made was a legal one. If the information was ever in a position where opponents had the opportunity to verify the legality (such as on top of the library, as the only card in hand, or on the battlefield), do not upgrade the penalty and reveal the information if possible.
 
 Examples:
 
@@ -473,9 +471,9 @@ A player does not note one of the cards she was registering before the deck swap
 
 Philosophy Errors in Limited procedures are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft or the specific tournament rules for the format may specify additional penalties for Limited Procedure Violations.
 
-Tournament Error — Communication Policy Violation Penalty Warning A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules. This infraction only applies to violations of that policy and not to general communication confusion.
+Tournament Error — Communication Policy Violation Penalty Warning Definition A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules. This infraction only applies to violations of that policy and not to general communication confusion.
 
-Definition Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
+Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
 
 A player claims she hasn’t played her land for the turn, but it is determined that she had and forgot.
 
@@ -587,7 +585,7 @@ Matches that result in a draw due to time are expected to be reported as such an
 
 In most cases this penalty will be issued to both players, unless the other player calls over a judge as soon as an inappropriate suggestion to determine the winner is made.
 
-Penalty Unsporting Conduct — Bribery and Wagering Disqualification Definition A player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match, or accepts such an offer. Refer to the Magic Tournament Rules for a more detailed description of what constitutes bribery.
+Unsporting Conduct — Bribery and Wagering Penalty Disqualification Definition A player offers an incentive to entice an opponent into conceding, drawing, or changing the results of a match, or accepts such an offer. Refer to the Magic Tournament Rules for a more detailed description of what constitutes bribery.
 
 Wagering occurs when a player or spectator at a tournament places or offers to place a bet on the outcome of a tournament, match or any portion of a tournament or match. The wager does not need to be monetary, nor is it relevant if a player is not betting on his or her own match.
 
@@ -687,7 +685,15 @@ APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warni
 
 Missed Trigger Looking at Extra Cards Warning Drawing Extra Cards Game Loss Improper Drawing at Start of Game Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Deck/Decklist Problem Game Loss Limited Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Match Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — RULES ENFORCEMENT LEVELS OF PREMIER PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
-(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive Preliminary Pro Tour Qualifier Competitive Regional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive World Magic Cup Qualifier Trials Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS September 26, 2014 Game Losses issued simultaneously are offsetting.
+(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive Preliminary Pro Tour Qualifier Competitive Regional Pro Tour Qualifiers Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS January 23 , 2015 Cleaned up old language about Cautions.
+
+Better clarity on handling multiple infractions Bad mulligan procedure goes back in the definition.
+
+New handling (and clearer explanation) of undetectable error upgrades.
+
+Appendix B: Added Regional Pro Tour Qualifier to list.
+
+September 26, 2014 Game Losses issued simultaneously are offsetting.
 
 New section discussing backup philosophy.
 
@@ -707,7 +713,7 @@ Simultaneous Game Losses offsetting is now universal, so no call-out here.
 
 Backup instructions moved to 1.4.
 
-Appendix B: Added PPTQ, RPTQ, and WMCQT.
+Appendix B: Added PPTQ.
 
 July 18, 2014 Introduction: Removed unnecessary explanation of penalty subclassing.
 
@@ -751,19 +757,5 @@ Clarifying that using game information to which the players do not have access i
 
 Appendix A: Chart updated to reflect updates.
 
-February 7, 2014 Clarifiying that we never give penalties for missing sideboard cards.
-
-When both players get a Deck/Decklist Game Loss at the same time, they don’t count towards the match.
-
-Adjusted Example D to reflect no explicit time between games.
-
-Removed Example G which outlawed 3-pile shuffling to undo a suspected manaweave.
-
-September 16, 2013 Missed delayed triggers wait until a player would get priority to resolve.
-
-Fix a stray reference to a Player Communication Violation.
-
-Changing ‘extra’ to ‘additional’ to avoid confusion with abilities that grant extra turns.
-
-All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2014 Wizards.
+All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2015 Wizards.
 
