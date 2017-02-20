@@ -1,4 +1,4 @@
-MAGIC INFRACTION PROCEDURE GUIDE Effective February 8, 2013 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL should use the Judging at Regular REL document.
+MAGIC INFRACTION PROCEDURE GUIDE Effective May 3, 2013 INTRODUCTION The Magic™ Infraction Procedure Guide provides judges the appropriate penalties and procedures to handle rules violations that occur during a tournament held at Competitive or Professional Rules Enforcement Level (REL), as well as the underlying philosophy that guides their implementation. It exists to protect players from potential misconduct and to protect the integrity of the tournament itself. Rules violations usually require a penalty or they are unenforceable. Tournaments run at Regular REL should use the Judging at Regular REL document.
 
 FRAMEWORK OF THIS DOCUMENT This document is divided into two major parts: General Definitions and Philosophy (section 1), and Infractions (sections 2-4).
 
@@ -93,7 +93,7 @@ Warning A Warning is an officially tracked penalty. Warnings are used in situati
 
 A time extension should be issued if the ruling has taken more than a minute.
 
-Game Loss A Game Loss is issued in situations where the procedure to correct the offense takes a significant amount of time that may slow the entire tournament or causes significant disruption to the tournament, or in which it is impossible to continue the game due to physical damage. It is also used for some infractions that have a higher probability for a player to gain advantage.
+Game Loss A Game Loss is issued in situations where the procedure to correct the offense takes a significant amount of time that may slow the entire tournament or causes significant disruption to the tournament, or in which it is impossible to continue the game due to physical disruption. It is also used for some infractions that have a higher probability for a player to gain advantage.
 
 A Game Loss ends the current game immediately and the player who committed the infraction is considered to have lost the game for the purpose of match reporting. The player receiving a Game Loss chooses whether to play or draw in the next game of that match, if applicable. If a Game Loss is issued before the match begins, neither player in that match may use sideboards (if the tournament uses them) for the first game they play.
 
@@ -251,7 +251,7 @@ A player puts a creature with lethal damage on it into her hand instead of her g
 
 Philosophy Though this error is easy to commit accidentally, the potential for it to be overlooked by opponents mandates a higher level of penalty. If the identity of the card was known to all players before being placed into the hand, and the card can be returned to the correct zone with minimal disruption, do so and downgrade the penalty to a Warning.
 
-Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition A player draws too many cards (or not enough cards) in his or her opening hand, while resolving a mulligan, or before taking his or her first legal game action. Once that player has taken legal game actions, this infraction no longer applies and the infraction is Drawing Extra Cards.
+Game Play Error — Improper Drawing at Start of Game Penalty Warning Definition A player draws the wrong number of cards during pregame procedures, or does not skip their draw step while playing first. This infraction is only issued before a player takes a visible legal action during the game; if discovered after that point, the infraction is Drawing Extra Cards.
 
 Examples:
 
@@ -315,7 +315,7 @@ A player does not notice that his opponent has Armadillo Cloak on a creature wit
 
 Philosophy If an error is caught before a player could gain advantage, then the dangers of the ongoing game state becoming corrupted are much lower. If the error is allowed to persist, at least some of the fault lies with the opponent, who has also failed to notice the error. Judges should not usually upgrade this penalty, as players will be reluctant to call a judge if they believe that they could receive a significant penalty as a result.
 
-TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional, he or she should consider Unsporting Conduct — Cheating. (Previous versions of the Infraction Procedure Guide made reference in each section about how to handle an intentional violation; with the exception of Slow Play, all intentional violations are now evaluated as potential Unsporting Conduct — Cheating.)
+TOURNAMENT ERRORS Tournament errors are violations of the Magic Tournament Rules. If the judge believes that the error was intentional, he or she should consider Unsporting Conduct — Cheating. (Previous versions of the MIPG made reference in each section about how to handle an intentional violation; with the exception of Slow Play, all intentional violations are now evaluated as potential Unsporting Conduct — Cheating.)
 
 A second or subsequent Warning for a Tournament Error offense in the same category should be upgraded to a Game Loss.
 
@@ -333,7 +333,7 @@ A player sits at an incorrect table and plays the wrong opponent.
 
 Philosophy Players are responsible for being on time and in the correct seat for their matches, and for completing registrations in a timely manner.
 
-Additional Remedy Give no penalty if the round started early and a player arrived at his or her seat before the originally announced start time. At Competitive events, the Tournament Organizer may elect to give players the amount of time allotted for the pre-game procedure (3 minutes) before a penalty is issued. Otherwise, the penalty is issued as soon as the round begins. A player not in his or her seat 10 minutes into the round will receive a Match Loss and be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round. The players are given a time extension corresponding to the length of the tardiness.
+Additional Remedy Give no penalty if the round started early and a player arrived at his or her seat before the originally announced start time. At Competitive events, the Tournament Organizer may announce that they are giving the players some additional time before a penalty is issued. Otherwise, the penalty is issued as soon as the round begins. A player not in his or her seat 10 minutes into the round will receive a Match Loss and be dropped from the tournament unless he or she reports to the Head Judge or Scorekeeper before the end of the round. The players are given a time extension corresponding to the length of the tardiness.
 
 Tournament Error — Outside Assistance Penalty Match Loss Definition A player, spectator, or other tournament participant does any of the following:
 
@@ -373,7 +373,7 @@ A player repeatedly reviews his opponent’s graveyard without any significant c
 
 A player spends time writing down the contents of an opponent’s deck while resolving Thought Hemorrhage.
 
-After 3 minutes into a round at a Pro Tour Qualifier, a player has not completed his shuffling.
+A player takes an excessive amount of time to shuffle his deck between games.
 
 A player gets up from his seat to look at standings or goes to the bathroom without permission of an official.
 
@@ -425,9 +425,9 @@ A player starts to put a card on top of his pile, then pulls it back.
 
 Philosophy Errors in draft procedure are disruptive and may become more so if they are not caught quickly. Announcements prior to the draft or the specific tournament rules for the format may specify additional penalties for Draft Procedure Violations.
 
-Tournament Error — Communication Policy Violation Penalty Warning Definition A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules and summarized below. This infraction only applies to violations of that policy and not to general communication confusion.
+Tournament Error — Communication Policy Violation Penalty Warning A player violates the Player Communication policy detailed in section 4.1 of the Magic Tournament Rules and summarized below. This infraction only applies to violations of that policy and not to general communication confusion.
 
-Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
+Definition Example A player is asked how many cards he has in his hand and answers “Three.” A few moments later, he realizes that he has four.
 
 A player claims she hasn’t played her land for the turn, but it is determined that she had and forgot.
 
@@ -705,7 +705,15 @@ APPENDIX A — PENALTY QUICK REFERENCE Infraction Penalty Game Play Errors Warni
 
 Missed Trigger Looking at Extra Cards Warning Drawing Extra Cards Game Loss Improper Drawing at Start of Game Warning Game Rule Violation Warning Failure to Maintain Game State Warning Tournament Errors Tardiness Game Loss Outside Assistance Match Loss Slow Play Warning Insufficient Shuffling Warning Failure to Follow Official Announcements Warning Draft Procedure Violation Warning Communication Policy Violation Warning Marked Cards Warning Deck/Decklist Problem Game Loss Unsporting Conduct Unsporting Conduct — Minor Warning Unsporting Conduct — Major Game Loss Improperly Determining a Winner Disqualification Bribery and Wagering Disqualification Aggressive Behavior Disqualification Theft of Tournament Material Disqualification Stalling Disqualification Cheating Disqualification APPENDIX B — RULES ENFORCEMENT LEVELS OF PREMIER PROGRAMS Event REL Friday Night Magic Regular Game Days Regular Grand Prix Day 1 Competitive Grand Prix Day 2 Professional Grand Prix Trial Competitive
 
-(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS January 28, 2013 Adjusting the definitions of when a triggered ability is missed. Enhanced philosophy section.
+(Format-Specific) Championship Competitive Prerelease Regular Pro Tour Professional Pro Tour Qualifier Competitive World Championship Professional World Magic Cup Professional World Magic Cup Qualifiers Competitive APPENDIX C — CHANGES FROM PREVIOUS VERSIONS May 3, 2013 Changed “damage” to “disruption” to avoid implying actual damage to cards.
+
+Rewrote definition to try to be clearer. No actual policy change.
+
+Three minutes is no longer the official time limit, so Tournament Organizers can use any value for Tardiness.
+
+Changed example C to no longer refer to a specific time limit.
+
+February 8, 2013 Adjusting the definitions of when a triggered ability is missed. Enhanced philosophy section.
 
 Special handling for zone-change DTAs and tweaks to when default-action abilities are resolved.
 
@@ -752,26 +760,6 @@ Added a rule to handle missed turn draws. Clarified object-in-wrong-zone applica
 A time extension is given with Tardiness penalties.
 
 Appendix C: Chart updated to current programs.
-
-March 20, 2012 Multi-day events reset GPE upgrade paths between days.
-
-Turn cycle definition becomes a general GPE concept, since it is now used in two sections.
-
-Full rewrite. Lapsing abilities added. Opponents no longer need to point out triggers.
-
-Professional exception to downgrade is removed and the situation where it is appropriate is clarified.
-
-Now looks at game actions when deciding if the infraction applies.
-
-Objects in the wrong zone get put in the correct zone within a turn cycle.
-
-Missed Trigger infractions no longer result in Failure to Maintain Game State penalties.
-
-Failure to Maintain Game State looks at how fast the opponent caught it, not whether it benefited them.
-
-Oracle text is now explicitly permitted.
-
-Reinforcing that forgetting your own triggers is Fraud and ignoring your opponent’s is not.
 
 All trademarks are property of Wizards of the Coast LLC in the U.S.A. and other countries. ©2013 Wizards.
 
